@@ -33,9 +33,9 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="248.18841"
-     inkscape:cy="97.93639"
+     inkscape:zoom="16"
+     inkscape:cx="319.41509"
+     inkscape:cy="105.78354"
      inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -1092,6 +1092,37 @@
        id="radialGradient5938"
        xlink:href="#linearGradient5423-4-1-2-0"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5062-0-0-1"
+       id="linearGradient5068-6-4-4"
+       x1="313.36026"
+       y1="91.934975"
+       x2="308.12659"
+       y2="52.274353"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5062-0-0-1">
+      <stop
+         style="stop-color:#2e3436;stop-opacity:1"
+         offset="0"
+         id="stop5064-8-0-9" />
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="1"
+         id="stop5066-7-5-9" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.44191773,0,0,0.4419698,172.58515,156.85226)"
+       y2="52.274353"
+       x2="308.12659"
+       y1="91.934975"
+       x1="313.36026"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6080"
+       xlink:href="#linearGradient5062-0-0-1"
+       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata4">
@@ -1440,15 +1471,10 @@
          xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAANJJREFU OI3VkTEOgzAMRV+rioohYu2SBalwAiQkTpBLZcilcgIuAVOVpStjWdoFIhdC9/4psf2+7QT+Xqeh bd/r5WYM16r6CbyGgaf38X6Ryaf33JsGjEnT3vMQMMBZdi/KktE52BSt8OgcRVlyEw2igbKWvK7T JgLO6xplbXoFZS04B8DoHPclfgTvDABU08TzuJhFWOTSBiEwT9OucIXnaSILAbROGITA3PdkXQda o4yJ66xjZ7JmayDhrzeR0pqs65j7PobiL2zhQy0myQn+Ux+g00/9ENBtGwAAAABJRU5ErkJggg== "
          height="16"
          width="16" />
-      <rect
+      <path
          style="opacity:0.2;color:#bebebe;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect6063"
-         width="22.00473"
-         height="2.75"
-         x="302.99527"
-         y="198.125"
-         rx="2.2588835"
-         ry="1.375" />
+         d="M 304.53125 198.1875 C 303.6414 198.37186 303 198.89441 303 199.5 C 303 200.26175 303.99858 200.875 305.25 200.875 L 322.75 200.875 C 324.00142 200.875 325 200.26175 325 199.5 C 325 198.89441 324.3586 198.37186 323.46875 198.1875 C 323.36185 198.93871 322.75033 199.5 321.96875 199.5 L 306.03125 199.5 C 305.24967 199.5 304.63815 198.93871 304.53125 198.1875 z "
+         id="rect6063" />
       <rect
          ry="1.5468943"
          rx="1.546712"
