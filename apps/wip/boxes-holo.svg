@@ -33,9 +33,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="180.64511"
-     inkscape:cy="130.00791"
-     inkscape:current-layer="g128984"
+     inkscape:cx="-150.35489"
+     inkscape:cy="226.00791"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -109,6 +109,18 @@
      id="title11345">Safe</title>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient136425">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop136427" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop136429" />
+    </linearGradient>
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern126351"
@@ -4484,28 +4496,6 @@
          stdDeviation="0.4825"
          id="feGaussianBlur136044" />
     </filter>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask136046">
-      <g
-         id="g136048"
-         transform="matrix(1.1323566,0,0,1.1323566,-479.85106,150.53652)">
-        <rect
-           y="-92"
-           x="456"
-           height="183"
-           width="201"
-           id="rect136050"
-           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3973-9-9);enable-background:new" />
-        <rect
-           y="-92"
-           x="456"
-           height="185"
-           width="201"
-           id="rect136052"
-           style="opacity:0.53909463;color:#000000;fill:url(#pattern136028);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter136042);enable-background:new" />
-      </g>
-    </mask>
     <filter
        inkscape:collect="always"
        id="filter136086">
@@ -4881,6 +4871,62 @@
        fx="95.278755"
        fy="186.49644"
        r="27" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient136425"
+       id="radialGradient136431"
+       cx="-429.5"
+       cy="146.5"
+       fx="-429.5"
+       fy="146.5"
+       r="120.5"
+       gradientTransform="matrix(0.9999349,-0.01141152,0.033195,2.9087137,-4.8910301,-284.52781)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient136425"
+       id="radialGradient136437"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.88305654,-0.01007767,0.02931497,2.5687259,931.65004,-384.21141)"
+       cx="-429.5"
+       cy="146.5"
+       fx="-429.5"
+       fy="146.5"
+       r="120.5" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask136433">
+      <rect
+         style="color:#000000;fill:url(#radialGradient136437);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.79617;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3973-9-9);enable-background:new"
+         id="rect136435"
+         width="212.83047"
+         height="211.06425"
+         x="450.25665"
+         y="-109.09683" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask136439">
+      <g
+         transform="matrix(1.1323566,0,0,1.1323566,-479.8511,150.53652)"
+         id="g136441"
+         mask="url(#mask136433)">
+        <rect
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3973-9-9);enable-background:new"
+           id="rect136443"
+           width="201"
+           height="183"
+           x="456"
+           y="-92" />
+        <rect
+           style="opacity:0.53909463;color:#000000;fill:url(#pattern136028);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter136042);enable-background:new"
+           id="rect136445"
+           width="201"
+           height="185"
+           x="456"
+           y="-92" />
+      </g>
+    </mask>
   </defs>
   <metadata
      id="metadata4">
@@ -6731,8 +6777,7 @@
       </g>
       <g
          id="g129104"
-         mask="url(#mask136046)"
-         style="opacity:0.7654321">
+         mask="url(#mask136439)">
         <path
            sodipodi:nodetypes="cccczc"
            inkscape:connector-curvature="0"
@@ -6769,11 +6814,11 @@
            sodipodi:cy="170.75"
            sodipodi:cx="96"
            id="path110634"
-           style="opacity:0.65432098999999999;color:#000000;fill:url(#radialGradient129148);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter110650-8-2);enable-background:new"
+           style="opacity:0.65432099;color:#000000;fill:url(#radialGradient129148);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter110650-8-2);enable-background:new"
            sodipodi:type="arc" />
         <path
            sodipodi:type="arc"
-           style="opacity:0.85596707999999999;color:#000000;fill:url(#radialGradient110677-8-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter110662-6-8);enable-background:new"
+           style="opacity:0.85596708;color:#000000;fill:url(#radialGradient110677-8-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter110662-6-8);enable-background:new"
            id="path110654"
            sodipodi:cx="96"
            sodipodi:cy="170.75"
