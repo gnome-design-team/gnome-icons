@@ -32,7 +32,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="148.26483"
+     inkscape:cx="-35.735168"
      inkscape:cy="151.56994"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -5294,19 +5294,37 @@
     </filter>
     <filter
        id="filter121588"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       inkscape:label="distort"
+       inkscape:menu="Distort"
+       inkscape:menu-tooltip="Horizontal rippling of edges"
+       color-interpolation-filters="sRGB">
       <feGaussianBlur
          id="feGaussianBlur121590"
-         stdDeviation="0.51809211"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       id="filter121628"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur121630"
-         stdDeviation="0.95850202"
-         inkscape:collect="always" />
+         stdDeviation="0.01"
+         inkscape:collect="always"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix125470" />
+      <feTurbulence
+         id="feTurbulence125472"
+         numOctaves="1"
+         baseFrequency="0.002 0.065230769230769231"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix125474"
+         values="2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0.5"
+         result="result91" />
+      <feDisplacementMap
+         id="feDisplacementMap125476"
+         in2="result91"
+         yChannelSelector="A"
+         xChannelSelector="R"
+         scale="3.5812672176308542"
+         in="fbSourceGraphic" />
     </filter>
     <radialGradient
        inkscape:collect="always"
@@ -7866,7 +7884,7 @@
            x="117.03918"
            height="41.625"
            width="83.75"
-           style="opacity:0.43621401;fill:url(#pattern121532);stroke:none;display:inline;enable-background:new" />
+           style="opacity:0.67005076;fill:url(#pattern121532);stroke:none;display:inline;enable-background:new" />
         <rect
            style="fill:url(#pattern121574);stroke:none;display:inline;enable-background:new;filter:url(#filter121588)"
            width="83.75"
@@ -7875,7 +7893,7 @@
            y="111.17535"
            id="rect121514" />
         <rect
-           style="fill:url(#pattern121524);stroke:none;display:inline;enable-background:new;filter:url(#filter121628)"
+           style="fill:url(#pattern121524);stroke:none;display:inline;enable-background:new;filter:url(#filter121588)"
            width="83.75"
            height="34.625"
            x="115.03918"
