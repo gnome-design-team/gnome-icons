@@ -32,8 +32,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="219.83451"
-     inkscape:cy="204.33566"
+     inkscape:cx="227.55391"
+     inkscape:cy="174.03388"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -5268,21 +5268,6 @@
        inkscape:label="Sepia"
        id="filter121548">
       <feColorMatrix
-         result="result2"
-         values="0.46170678336980309"
-         type="saturate"
-         id="feColorMatrix121550" />
-      <feColorMatrix
-         in="result2"
-         type="hueRotate"
-         values="320.625"
-         result="result1"
-         id="feColorMatrix121552" />
-      <feColorMatrix
-         type="matrix"
-         values="1 -1 1 0 0 0 1 0 0 0 1 -1 1 0 0 0 0 0 1 0 "
-         id="feColorMatrix121554" />
-      <feColorMatrix
          result="fbSourceGraphic"
          type="hueRotate"
          values="54.642857142857139"
@@ -5301,7 +5286,7 @@
       <feFlood
          result="result1"
          flood-opacity="1"
-         flood-color="rgb(160,67,0)"
+         flood-color="rgb(0,46,255)"
          id="feFlood121564" />
       <feBlend
          result="result5"
@@ -5315,16 +5300,14 @@
          in2="result2"
          id="feBlend121568" />
       <feComposite
-         k1="-0.06507592190889433"
-         k4="-0.58568329718004364"
-         k3="-0.021691973969630851"
-         k2="1.1062906724511929"
+         k1="0.16491754122938573"
+         k4="-0.73463268365817136"
+         k3="0"
+         k2="1.064467766116941"
          operator="arithmetic"
          result="result4"
-         in2="result2"
          id="feComposite121570" />
       <feComposite
-         in="result4"
          operator="in"
          in2="fbSourceGraphicAlpha"
          id="feComposite121572" />
@@ -7445,6 +7428,17 @@
              d="m 165.5,228.75 a 19.25,19.25 0 1 1 -38.5,0 19.25,19.25 0 1 1 38.5,0 z"
              transform="matrix(1.3012843,0,0,1.3012843,-45.495201,-111.2724)"
              clip-path="none" />
+          <path
+             clip-path="none"
+             transform="matrix(0.48042891,0,0,0.48042891,86.8049,87.74827)"
+             d="m 165.5,228.75 a 19.25,19.25 0 1 1 -38.5,0 19.25,19.25 0 1 1 38.5,0 z"
+             sodipodi:ry="19.25"
+             sodipodi:rx="19.25"
+             sodipodi:cy="228.75"
+             sodipodi:cx="146.25"
+             id="path126465"
+             style="opacity:0.9;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter110529-6-5);enable-background:new"
+             sodipodi:type="arc" />
         </g>
         <g
            id="g111183">
@@ -8046,7 +8040,7 @@
       <g
          transform="matrix(1.2468979,0,0,1.2468979,-40.911231,-47.281129)"
          id="g121534"
-         style="filter:url(#filter121548)"
+         style="filter:url(#filter121548);opacity:0.75308642"
          mask="url(#mask126457)">
         <rect
            id="rect121510"
@@ -8054,7 +8048,7 @@
            x="117.03918"
            height="41.625"
            width="83.75"
-           style="opacity:0.67005077;fill:url(#pattern121532);stroke:none;display:inline;enable-background:new" />
+           style="opacity:0.67005077000000002;fill:url(#pattern121532);stroke:none;display:inline;enable-background:new" />
         <rect
            style="fill:url(#pattern121574);stroke:none;display:inline;filter:url(#filter121588);enable-background:new"
            width="83.75"
@@ -8075,9 +8069,9 @@
            x="112.03918"
            height="15.8125"
            width="83.75"
-           style="opacity:0.78600823;fill:url(#pattern121528);stroke:none;display:inline;enable-background:new" />
+           style="opacity:0.78600822999999986;fill:url(#pattern121528);stroke:none;display:inline;enable-background:new" />
         <path
-           style="opacity:0.24279833;fill:none;stroke:url(#radialGradient125582);stroke-width:0.80199027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new"
+           style="opacity:0.24279833000000001;fill:none;stroke:url(#radialGradient125582);stroke-width:0.80199027000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new"
            d="m 99,129.625 131,0"
            id="path125446"
            inkscape:path-effect="#path-effect125448-5"
@@ -8089,9 +8083,9 @@
            inkscape:path-effect="#path-effect125462-1"
            id="path125458"
            d="m 69,110.5625 131,0"
-           style="opacity:0.19341562;fill:none;stroke:url(#radialGradient125460-6);stroke-width:0.80199027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new" />
+           style="opacity:0.19341562000000001;fill:none;stroke:url(#radialGradient125460-6);stroke-width:0.80199027000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new" />
         <path
-           style="opacity:0.35802469;fill:none;stroke:url(#radialGradient125466-7);stroke-width:0.80199027px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new"
+           style="opacity:0.35802468999999998;fill:none;stroke:url(#radialGradient125466-7);stroke-width:0.80199027000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;enable-background:new"
            d="m 78,146.5625 131,0"
            id="path125464"
            inkscape:path-effect="#path-effect125468-0"
