@@ -4446,7 +4446,7 @@
          result="result2" />
       <feFlood
          id="feFlood134871"
-         flood-color="rgb(79,73,255)"
+         flood-color="rgb(55,49,255)"
          flood-opacity="1"
          result="result1" />
       <feBlend
@@ -4465,10 +4465,10 @@
          in2="result2"
          result="result4"
          operator="arithmetic"
-         k2="0.67771084337349308"
-         k1="-0.45180722891566205"
-         k3="0.55722891566265176"
-         k4="0.10542168674698615" />
+         k2="0.90361445783132588"
+         k1="-0.25602409638554136"
+         k3="0.48192771084337238"
+         k4="-0.30120481927710863" />
       <feComposite
          id="feComposite134879"
          in2="SourceAlpha"
