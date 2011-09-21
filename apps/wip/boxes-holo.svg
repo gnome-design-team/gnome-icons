@@ -32,8 +32,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="173.86486"
-     inkscape:cy="100.01532"
+     inkscape:cx="228.22929"
+     inkscape:cy="-63.573262"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -3463,40 +3463,6 @@
          in2="fbSourceGraphicAlpha"
          id="feComposite121572" />
     </filter>
-    <filter
-       id="filter121588"
-       inkscape:collect="always"
-       inkscape:label="distort"
-       inkscape:menu="Distort"
-       inkscape:menu-tooltip="Horizontal rippling of edges"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur121590"
-         stdDeviation="0.01"
-         inkscape:collect="always"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         result="fbSourceGraphicAlpha"
-         in="fbSourceGraphic"
-         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
-         id="feColorMatrix125470" />
-      <feTurbulence
-         id="feTurbulence125472"
-         numOctaves="1"
-         baseFrequency="0.002 0.065230769230769231"
-         in="fbSourceGraphic" />
-      <feColorMatrix
-         id="feColorMatrix125474"
-         values="2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0.5"
-         result="result91" />
-      <feDisplacementMap
-         id="feDisplacementMap125476"
-         in2="result91"
-         yChannelSelector="A"
-         xChannelSelector="R"
-         scale="3.5812672176308542"
-         in="fbSourceGraphic" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient125506-7">
@@ -4479,6 +4445,50 @@
        id="radialGradient133495"
        xlink:href="#linearGradient125450-0-5"
        inkscape:collect="always" />
+    <filter
+       id="filter134867"
+       inkscape:label="Sepia"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Render in warm sepia tones"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix134869"
+         values="0"
+         in="SourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood134871"
+         flood-color="rgb(160,67,0)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend134873"
+         in2="result1"
+         mode="multiply"
+         in="result2"
+         result="result5" />
+      <feBlend
+         id="feBlend134875"
+         in2="result2"
+         mode="screen"
+         result="result3" />
+      <feComposite
+         id="feComposite134877"
+         in2="result2"
+         result="result4"
+         operator="arithmetic"
+         k2="1" />
+      <feComposite
+         id="feComposite134879"
+         in2="SourceAlpha"
+         operator="in"
+         in="result4" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -7034,7 +7044,7 @@
       <g
          transform="matrix(1.2221769,0,0,1.2221769,-39.21545,-43.13821)"
          id="g121534"
-         style="display:inline;enable-background:new"
+         style="display:inline;enable-background:new;filter:url(#filter134867)"
          mask="url(#mask126457-9)">
         <rect
            id="rect121510"
