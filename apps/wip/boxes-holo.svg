@@ -4452,7 +4452,7 @@
       <feBlend
          id="feBlend134873"
          in2="result1"
-         mode="multiply"
+         mode="screen"
          in="result2"
          result="result5" />
       <feBlend
@@ -4465,7 +4465,10 @@
          in2="result2"
          result="result4"
          operator="arithmetic"
-         k2="1" />
+         k2="0.67771084337349308"
+         k1="-0.45180722891566205"
+         k3="0.55722891566265176"
+         k4="0.10542168674698615" />
       <feComposite
          id="feComposite134879"
          in2="SourceAlpha"
