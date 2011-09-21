@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
-   inkscape:export-filename="/home/lapo/SparkleShare/tango-icons/apps/wip/dejadup.png"
+   inkscape:export-filename="/home/jimmac/Desktop/boxes-holo.png"
    width="400"
    height="300"
    id="svg11300"
@@ -32,8 +32,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="249.98892"
-     inkscape:cy="124.93599"
+     inkscape:cx="219.83451"
+     inkscape:cy="204.33566"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -54,7 +54,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true">
     <inkscape:grid
@@ -108,6 +108,27 @@
      id="title11345">Safe</title>
   <defs
      id="defs3">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern126351"
+       patternTransform="matrix(0,2.0077287,-2.0077287,0,474,-58)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect125632"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient125506">
@@ -5488,6 +5509,36 @@
        id="radialGradient125582"
        xlink:href="#linearGradient125450-0"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       id="filter126453">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.965"
+         id="feGaussianBlur126455" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask126457">
+      <g
+         id="g126459"
+         transform="matrix(0.80199028,0,0,0.80199028,-303.22352,119.72201)">
+        <rect
+           y="-92"
+           x="456"
+           height="183"
+           width="201"
+           id="rect126461"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3973-9-9);enable-background:new" />
+        <rect
+           y="-92"
+           x="456"
+           height="185"
+           width="201"
+           id="rect126463"
+           style="opacity:0.53909463;color:#000000;fill:url(#pattern126351);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter126453);enable-background:new" />
+      </g>
+    </mask>
   </defs>
   <metadata
      id="metadata4">
@@ -7995,7 +8046,8 @@
       <g
          transform="matrix(1.2468979,0,0,1.2468979,-40.911231,-47.281129)"
          id="g121534"
-         style="filter:url(#filter121548)">
+         style="filter:url(#filter121548)"
+         mask="url(#mask126457)">
         <rect
            id="rect121510"
            y="69.175354"
