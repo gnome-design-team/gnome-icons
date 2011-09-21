@@ -32,8 +32,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="228.22929"
-     inkscape:cy="-63.573262"
+     inkscape:cx="190.01154"
+     inkscape:cy="192.23437"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -108,6 +108,11 @@
      id="title11345">Safe</title>
   <defs
      id="defs3">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern126351"
+       id="pattern136028"
+       patternTransform="matrix(0,1.3249718,-1.3249718,0,455.89616,-90.454441)" />
     <linearGradient
        id="linearGradient129393">
       <stop
@@ -4229,28 +4234,6 @@
     </filter>
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask129385">
-      <g
-         transform="matrix(1.1323566,0,0,1.1323566,-479.85106,150.53652)"
-         id="g129387">
-        <rect
-           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3973-9-9);enable-background:new"
-           id="rect129389"
-           width="201"
-           height="183"
-           x="456"
-           y="-92" />
-        <rect
-           style="opacity:0.53909463;color:#000000;fill:url(#pattern126351);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter126453);enable-background:new"
-           id="rect129391"
-           width="201"
-           height="185"
-           x="456"
-           y="-92" />
-      </g>
-    </mask>
-    <mask
-       maskUnits="userSpaceOnUse"
        id="mask126457-9">
       <g
          id="g126459-1"
@@ -4489,6 +4472,36 @@
          operator="in"
          in="result4" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter136042">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.4825"
+         id="feGaussianBlur136044" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask136046">
+      <g
+         id="g136048"
+         transform="matrix(1.1323566,0,0,1.1323566,-479.85106,150.53652)">
+        <rect
+           y="-92"
+           x="456"
+           height="183"
+           width="201"
+           id="rect136050"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3973-9-9);enable-background:new" />
+        <rect
+           y="-92"
+           x="456"
+           height="185"
+           width="201"
+           id="rect136052"
+           style="opacity:0.53909463;color:#000000;fill:url(#pattern136028);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter136042);enable-background:new" />
+      </g>
+    </mask>
   </defs>
   <metadata
      id="metadata4">
@@ -6339,8 +6352,7 @@
       </g>
       <g
          id="g129104"
-         transform="translate(-1,0)"
-         mask="url(#mask129385)">
+         mask="url(#mask136046)">
         <path
            sodipodi:nodetypes="cccczc"
            inkscape:connector-curvature="0"
@@ -6369,18 +6381,6 @@
            id="path125502"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
-        <text
-           id="context"
-           inkscape:label="context"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-           x="31.87059"
-           xml:space="preserve"
-           y="18.860306"><tspan
-             id="tspan2716"
-             sodipodi:role="line"
-             x="31.87059"
-             y="18.860306"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">apps</tspan></text>
         <path
            transform="matrix(0.93756379,-0.54759923,0.38640997,2.2284672,-46.985627,-214.19124)"
            d="M 123,170.75 C 123,201.81602 110.91169,227 96,227 81.088312,227 69,201.81602 69,170.75 69,139.68398 81.088312,114.5 96,114.5 c 14.91169,0 27,25.18398 27,56.25 z"
