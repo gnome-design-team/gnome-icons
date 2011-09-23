@@ -32,9 +32,9 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="146.57032"
-     inkscape:cy="177.99573"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="138.78805"
+     inkscape:cy="144.90005"
      inkscape:current-layer="g15910"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -109,6 +109,10 @@
      id="title11345">Safe</title>
   <defs
      id="defs3">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15980"
+       is_visible="true" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect15732"
@@ -5032,6 +5036,18 @@
        y1="127.6765"
        x2="289.96286"
        y2="127.50662" />
+    <filter
+       inkscape:collect="always"
+       id="filter16006"
+       x="-0.19875223"
+       width="1.3975045"
+       y="-0.62173783"
+       height="2.2434757">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.1440682"
+         id="feGaussianBlur16008" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -9186,6 +9202,15 @@ cPM1YMDiNwAAAABJRU5ErkJggg==
       <g
          id="g15910"
          transform="matrix(0.83108073,0,0,0.83108073,-311.10564,26.513538)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.00000007000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.26748970999999999;filter:url(#filter16006)"
+           d="m 103.94469,206.66191 -4.242634,27.57716 86.267024,0 -7.07107,-26.87006 -74.95332,-0.7071"
+           id="path15978"
+           inkscape:path-effect="#path-effect15980"
+           inkscape:original-d="m 103.94469,206.66191 -4.242634,27.57716 86.267024,0 -7.07107,-26.87006 z"
+           inkscape:connector-curvature="0"
+           transform="matrix(1.2032525,0,0,1.2032525,374.33865,-31.902482)"
+           sodipodi:nodetypes="ccccc" />
         <use
            x="0"
            y="0"
