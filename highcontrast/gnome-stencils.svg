@@ -14,7 +14,7 @@
    width="16"
    height="16"
    id="svg7384"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48+devel r10740 custom"
    sodipodi:docname="gnome-stencils.svg">
   <metadata
      id="metadata90">
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1198"
-     inkscape:window-height="822"
+     inkscape:window-width="1464"
+     inkscape:window-height="1139"
      id="namedview88"
-     showgrid="true"
-     inkscape:zoom="16"
-     inkscape:cx="128.03406"
-     inkscape:cy="-448.70885"
-     inkscape:window-x="191"
-     inkscape:window-y="25"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="81.507036"
+     inkscape:cy="-446.344"
+     inkscape:window-x="2464"
+     inkscape:window-y="262"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer12"
      showborder="false"
@@ -59,7 +59,13 @@
      inkscape:snap-global="true"
      inkscape:object-nodes="true"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:object-paths="true">
+     inkscape:object-paths="true"
+     width="0px"
+     height="0px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid4866"
@@ -69,20 +75,6 @@
        snapvisiblegridlinesonly="true"
        spacingx="1px"
        spacingy="1px" />
-    <inkscape:grid
-       type="xygrid"
-       id="grid5088"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
-    <inkscape:grid
-       type="xygrid"
-       id="grid5090"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
@@ -7809,32 +7801,6 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(303.7037,661.35802)"
-       id="g5148"
-       inkscape:label="document-page-setup">
-      <g
-         transform="translate(-485.7037,-295.35802)"
-         id="layer14-8">
-        <path
-           inkscape:connector-curvature="0"
-           d="m 464.8127,301 c -0.4584,0.0875 -0.82072,0.5334 -0.8125,1 l 0,13 c 5e-5,0.52358 0.47642,0.99995 1,1 l 10,0 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 l 0,-9.4375 c 0.006,-0.26406 -0.0976,-0.52897 -0.28125,-0.71875 l -3.5625,-3.5625 c -0.18978,-0.1837 -0.45469,-0.28737 -0.71875,-0.28125 l -6.4375,0 c -0.0312,-10e-4 -0.0625,-10e-4 -0.0937,0 -0.0312,-10e-4 -0.0625,-10e-4 -0.0937,0 z m 1.1875,2 5,0 c -2e-4,0 3,3 3,3 l 0,8 -8,0 z"
-           id="path1234-6"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      </g>
-      <path
-         inkscape:connector-curvature="0"
-         d="m -18.209877,11.641975 5.012346,5 -5.012346,0 z"
-         id="path3757"
-         style="fill:#bebebe;fill-opacity:1;stroke:#bebebe;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
-      <rect
-         style="fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect4283"
-         width="16"
-         height="16"
-         x="-23.703703"
-         y="4.6419754" />
-    </g>
-    <g
        id="g3853"
        transform="matrix(1,0,0,0.99915351,300.0002,665.97012)"
        inkscape:label="document-send">
@@ -8065,6 +8031,31 @@
          width="16"
          id="rect2998-5"
          style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       style="display:inline"
+       id="g5072"
+       inkscape:label="document-page-setup"
+       transform="translate(100,20)">
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 182.0002,652 0,7 12.01999,0 z m 2,3.05362 3.11558,1.97763 -3.11558,0 z"
+         id="path3757"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4283"
+         width="16"
+         height="16"
+         x="180"
+         y="646" />
+      <path
+         style="font-size:xx-small;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 183.0162,647.01427 c -0.52358,5e-5 -0.99995,0.47642 -1,1 l 0,2.5625 2,1.1875 0,-2.75 4.5625,0 3.40625,3.40625 0,3.625 2,1.1875 0,-5.25 c -0.002,-0.26843 -0.11756,-0.53419 -0.3125,-0.71875 l -3.96875,-3.9375 c -0.18456,-0.19494 -0.45032,-0.31049 -0.71875,-0.3125 z m -1,13 0,0.96875 c 5e-5,0.52358 0.47642,0.99995 1,1 l 9.96875,0 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 l 0,-0.96875 z"
+         id="path5034"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
     </g>
   </g>
   <g
