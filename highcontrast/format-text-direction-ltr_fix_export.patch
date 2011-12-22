@@ -1,0 +1,126 @@
+From 53d7584bac0b48ab0175b25fa2a0e37114600fed Mon Sep 17 00:00:00 2001
+From: Meg Ford <meg387@gmail.com>
+Date: Wed, 21 Dec 2011 22:19:55 -0600
+Subject: [PATCH] fixed export for format-text-direction-ltr
+
+---
+ src/gnome-stencils.svg |   86 +++++++++++++++++++++++++----------------------
+ 1 files changed, 46 insertions(+), 40 deletions(-)
+
+diff --git a/src/gnome-stencils.svg b/src/gnome-stencils.svg
+index 03b1578..036189e 100644
+--- a/src/gnome-stencils.svg
++++ b/src/gnome-stencils.svg
+@@ -38,16 +38,16 @@
+      inkscape:pageopacity="1"
+      inkscape:pageshadow="2"
+      inkscape:window-width="1239"
+-     inkscape:window-height="1056"
++     inkscape:window-height="822"
+      id="namedview88"
+      showgrid="false"
+      inkscape:zoom="16"
+-     inkscape:cx="6.4519672"
+-     inkscape:cy="-397.64704"
+-     inkscape:window-x="1717"
+-     inkscape:window-y="175"
++     inkscape:cx="65.315951"
++     inkscape:cy="-415.14704"
++     inkscape:window-x="284"
++     inkscape:window-y="25"
+      inkscape:window-maximized="0"
+-     inkscape:current-layer="g4683"
++     inkscape:current-layer="layer12"
+      showborder="false"
+      inkscape:snap-nodes="true"
+      inkscape:snap-bbox="true"
+@@ -9686,40 +9686,6 @@
+          style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+     </g>
+     <g
+-       transform="translate(101,-59)"
+-       id="g3788"
+-       inkscape:label="format-text-direction-ltr">
+-      <rect
+-         y="706"
+-         x="180.0002"
+-         height="16"
+-         width="15.999999"
+-         id="rect2994"
+-         style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+-      <path
+-         inkscape:connector-curvature="0"
+-         d="m 182.00032,706 0,2 6,0 c 0.42816,0 1,0.61414 1,1 l 0,1 -5,0 c -0.91927,0 -1.7356,0.38396 -2.25,0.96875 -0.5144,0.58479 -0.75639,1.31063 -0.75,2.03125 0.006,0.72062 0.26893,1.45271 0.78125,2.03125 0.51232,0.57854 1.31047,0.96875 2.21875,0.96875 l 6,0 1,0 0,-1 0,-6 c 0,-1.63434 -1.3198,-3 -3,-3 l -6,0 z m 2,6 5,0 0,2 -5,0 c -0.39787,0 -0.56691,-0.10979 -0.71875,-0.28125 -0.15184,-0.17146 -0.27877,-0.43937 -0.28125,-0.71875 -0.002,-0.27938 0.10467,-0.55354 0.25,-0.71875 0.14533,-0.16521 0.32764,-0.28125 0.75,-0.28125 z"
+-         id="path11643-3-2-2"
+-         style="font-size:xx-small;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+-      <g
+-         style="display:inline"
+-         id="g4492-2"
+-         transform="matrix(-1,0,0,1,518.00039,59)">
+-        <path
+-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+-           d="m 326.0002,662.00001 -1,-10e-6 c -0.26531,-3e-5 -0.53058,-0.0931 -0.71875,-0.28124 l -2,-2.00001 -0.28126,-0.28125 0,-0.87499 0.28126,-0.28126 2,-1.99999 c 0.18818,-0.18821 0.45347,-0.28121 0.71876,-0.28121 l 1,-10e-6 0,1 c 4e-5,0.26531 -0.0931,0.53059 -0.28121,0.71877 l -1.28126,1.28124 1.28125,1.28125 c 0.18815,0.18817 0.28125,0.45345 0.28125,0.71875 l 0,1 z"
+-           id="path4484-2"
+-           inkscape:connector-curvature="0"
+-           sodipodi:nodetypes="ccccccccscccccccc" />
+-        <path
+-           sodipodi:nodetypes="cc"
+-           inkscape:connector-curvature="0"
+-           id="path4486-0"
+-           d="m 338.0002,659 -14,0"
+-           style="color:#000000;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+-      </g>
+-    </g>
+-    <g
+        transform="translate(301.0002,647.04938)"
+        id="g2987"
+        inkscape:label="format-text-direction-rtl">
+@@ -9816,5 +9782,45 @@
+            y="1.8105539" />
+       </g>
+     </g>
++    <g
++       transform="translate(280.35057,644.45099)"
++       id="g5303"
++       inkscape:label="format-text-direction-ltr">
++      <g
++         id="g5255"
++         style="display:inline"
++         transform="translate(-280.35069,-644.45099)">
++        <rect
++           style="fill:none;stroke:none"
++           id="rect2994"
++           width="15.999999"
++           height="16"
++           x="281.00018"
++           y="647" />
++        <path
++           style="font-size:xx-small;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
++           id="path11643-3-2-2"
++           d="m 283.00032,647 0,2 6,0 c 0.42816,0 1,0.61414 1,1 l 0,1 -5,0 c -0.91927,0 -1.7356,0.38396 -2.25,0.96875 -0.5144,0.58479 -0.75639,1.31063 -0.75,2.03125 0.006,0.72062 0.26893,1.45271 0.78125,2.03125 0.51232,0.57854 1.31047,0.96875 2.21875,0.96875 l 6,0 1,0 0,-1 0,-6 c 0,-1.63434 -1.3198,-3 -3,-3 l -6,0 z m 2,6 5,0 0,2 -5,0 c -0.39787,0 -0.56691,-0.10979 -0.71875,-0.28125 -0.15184,-0.17146 -0.27877,-0.43937 -0.28125,-0.71875 -0.002,-0.27938 0.10467,-0.55354 0.25,-0.71875 0.14533,-0.16521 0.32764,-0.28125 0.75,-0.28125 z"
++           inkscape:connector-curvature="0" />
++        <g
++           transform="matrix(-1,0,0,1,619.00039,0)"
++           id="g4492-2"
++           style="display:inline">
++          <path
++             sodipodi:nodetypes="ccccccccscccccccc"
++             inkscape:connector-curvature="0"
++             id="path4484-2"
++             d="m 326.0002,662.00001 -1,-10e-6 c -0.26531,-3e-5 -0.53058,-0.0931 -0.71875,-0.28124 l -2,-2.00001 -0.28126,-0.28125 0,-0.87499 0.28126,-0.28126 2,-1.99999 c 0.18818,-0.18821 0.45347,-0.28121 0.71876,-0.28121 l 1,-10e-6 0,1 c 4e-5,0.26531 -0.0931,0.53059 -0.28121,0.71877 l -1.28126,1.28124 1.28125,1.28125 c 0.18815,0.18817 0.28125,0.45345 0.28125,0.71875 l 0,1 z"
++             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
++        </g>
++        <rect
++           style="fill:#bebebe;fill-opacity:1;stroke:none"
++           id="rect4471"
++           width="14"
++           height="2"
++           x="281.00021"
++           y="658" />
++      </g>
++    </g>
+   </g>
+ </svg>
+-- 
+1.7.4.1
+
