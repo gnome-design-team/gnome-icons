@@ -4,7 +4,7 @@ require "rexml/document"
 require "ftools"
 include REXML
 INKSCAPE = '/usr/bin/inkscape'
-SRC = "/src"
+SRC = "./src"
 
 def renderit(file,explicit)
   svg = Document.new(File.new("#{SRC}/#{file}", 'r'))
