@@ -27,7 +27,9 @@ edited by Lapo 11/19/11
 	preferences-desktop-remote-desktop
 	user-info
 	tab-new (not sure the corners are right) by Meg 12/15/11
-+ added a patch I made  to fix export problem with format-text-direction-ltr in git from gnome.org. The gnome.org version has 17x16 size because the horizontal line on the arrow is one pix too long. The rectangle exports with the icon and black rectangle shows up in exported icon. This patch fixes issues, works when I applied to head & tested with ruby :)
+mail-send and tab-new edited by Lapo 12/24/11
++made some changes to mail-send
+	swapped  gnome-stencils for newer copy from git, re-added icons that haven't been pushed yet.
 	
 
        
