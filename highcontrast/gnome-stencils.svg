@@ -42,14 +42,14 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="65.829221"
-     inkscape:cy="-220.59975"
+     inkscape:cx="58.31738"
+     inkscape:cy="-238.31447"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer10"
      showborder="false"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="false"
      showguides="true"
@@ -5801,36 +5801,9 @@
          style="opacity:0.35;color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
-       transform="translate(281.00023,448)"
-       id="g3775"
-       inkscape:label="scanner">
-      <path
-         sodipodi:nodetypes="cccccccccc"
-         inkscape:connector-curvature="0"
-         style="fill:#bebebe;fill-opacity:1;stroke:none"
-         id="path3038"
-         d="m 16,12 0,2 c 0,0.640984 -0.36097,0.997436 -1,1 l -1,0 0,1 -12,0 0,-1 -1,0 C 0.45669159,15 0,14.600998 0,14 l 0,-2" />
-      <rect
-         y="0"
-         x="0"
-         height="16"
-         width="16"
-         id="rect3000"
-         style="fill:none;stroke:none" />
-      <rect
-         width="14.550132"
-         height="2.4697866"
-         x="-2.6768734"
-         y="8.4679537"
-         transform="matrix(0.95613819,-0.29291597,0.26832256,0.96332912,0,0)"
-         id="rect3763-2"
-         style="fill:#bebebe;fill-opacity:1;stroke:none"
-         ry="1.3999995"
-         rx="1.2999992" />
-    </g>
-    <g
-       id="scanner-alt"
-       inkscape:label="#g5710">
+       id="scanner"
+       inkscape:label="scanner"
+       transform="translate(-20,0)">
       <g
          inkscape:label="scanner"
          id="g3775-0"
@@ -5885,6 +5858,34 @@
     <g
        id="g5564"
        transform="matrix(0.99999808,0,0,1,6.0005894,8)" />
+    <g
+       id="scanner-alt"
+       transform="translate(20,0)"
+       inkscape:label="scanner-alt">
+      <g
+         inkscape:label="scanner"
+         id="g3775"
+         transform="translate(281.00023,448)">
+        <rect
+           style="opacity:0;fill:#4d4d4d;stroke:none"
+           id="rect3000"
+           width="16"
+           height="16"
+           x="0"
+           y="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect5471"
+         d="m 294.3127,452.65625 -10.375,2.78125 c 0.38009,0.44503 0.625,1.02244 0.625,1.65625 l 0,0.25 11.21875,-3 -0.25,-0.96875 c -0.14339,-0.53512 -0.68363,-0.86213 -1.21875,-0.71875 z"
+         style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="scccsscss"
+         inkscape:connector-curvature="0"
+         id="rect5449"
+         d="m 282.0002,456 c -0.554,0 -1,0.44725 -1,1 l 0,4 16,0 0,-1.46875 c 0,-0.84831 -0.68294,-1.53125 -1.53125,-1.53125 l -12.46875,0 0,-1 c 0,-0.55275 -0.446,-1 -1,-1 z"
+         style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
