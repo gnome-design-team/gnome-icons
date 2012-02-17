@@ -164,12 +164,14 @@ please check and push if they are ready:
 +added audio-speakers (anyway i git-pulled gnome-icon-theme and that looks like the correct name, plz fix it if it's wrong. i think it would look nicer if it had some kind of texture like it does in g-i-t, so i guess i need to ask how to do that:)
 +added  mail-mark-junk
 	mail-mark-notjunk
+	system-software-update
+	system-software-install
 
 probably ready to commit list:
 	emblem-package
 	printer-info
 	ac-adapter
-	 
++added new versions of 	 
 countdown to base set:
 1.mail-signed
 2.mail-signed-verified
@@ -184,7 +186,7 @@ countdown to base set:
 12.face-uncertain
 13.face-devilish
 14.preferences-system-session
-16.(<-wow i just added a bunch of 00000 after the "." in 16.)applications-other
+16.applications-other
 
 
 
