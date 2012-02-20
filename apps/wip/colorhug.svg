@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="192.36896"
-     inkscape:cy="65.640699"
+     inkscape:cx="166.0055"
+     inkscape:cy="71.69228"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -47,7 +47,7 @@
      inkscape:window-y="120"
      width="400px"
      height="300px"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      gridtolerance="10000"
      inkscape:object-nodes="true"
@@ -57,7 +57,7 @@
      inkscape:window-maximized="0"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-paths="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <inkscape:grid
        spacingy="1px"
        spacingx="1px"
@@ -245,6 +245,30 @@
        r="5.875"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.7666554,0,0,1.7666554,-148.55543,-185.82578)" />
+    <filter
+       inkscape:collect="always"
+       id="filter4273"
+       x="-0.013247498"
+       width="1.026495"
+       y="-0.12413551"
+       height="1.248271">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.67271299"
+         id="feGaussianBlur4275" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4325"
+       x="-0.048022179"
+       width="1.0960444"
+       y="-0.44999124"
+       height="1.8999825">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.4385846"
+         id="feGaussianBlur4327" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -414,6 +438,25 @@
          id="path5171-2"
          d="m 711.96875,228 c -1.90789,1e-5 -3.49694,0.75848 -4.46875,1.71875 l 0,1.78125 9,0 0,-1.75 c -0.96562,-0.98703 -2.59089,-1.75 -4.53125,-1.75 z"
          transform="translate(-7.8685593e-7,2.029528e-6)" />
+      <rect
+         style="opacity:0.42569275;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4325);enable-background:accumulate"
+         id="rect4239-7"
+         width="121.87292"
+         height="13.006038"
+         x="87.063538"
+         y="240"
+         rx="8.6872921"
+         ry="6.5030189"
+         transform="matrix(1.0780209,0,0,1.1330874,-11.547092,-33.309456)" />
+      <rect
+         style="opacity:0.5163728;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter4273)"
+         id="rect4239"
+         width="121.87292"
+         height="13.006038"
+         x="87.063538"
+         y="240"
+         rx="8.6872921"
+         ry="6.5030189" />
       <g
          id="g3933"
          clip-path="url(#clipPath3956)">
