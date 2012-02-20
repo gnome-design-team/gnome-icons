@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="150.429"
-     inkscape:cy="174.00903"
+     inkscape:cx="143.86427"
+     inkscape:cy="187.91838"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -88,6 +88,18 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5799">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5801" />
+      <stop
+         style="stop-color:#2e3436;stop-opacity:1"
+         offset="1"
+         id="stop5803" />
+    </linearGradient>
     <pattern
        inkscape:stockid="Sand (bitmap)"
        id="pattern5760"
@@ -774,6 +786,15 @@
        x2="157.44267"
        y2="119.59375"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5799"
+       id="linearGradient5805"
+       x1="138.80429"
+       y1="84.072578"
+       x2="166.37692"
+       y2="131.82977"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -1200,7 +1221,7 @@
          rx="1.15625"
          ry="1.113543" />
       <rect
-         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:url(#linearGradient5805);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3866"
          width="28"
          height="36"
@@ -1267,6 +1288,24 @@
          id="path3953"
          inkscape:connector-curvature="0"
          mask="url(#mask4154)" />
+      <rect
+         style="opacity:0.14609572;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5807"
+         width="1.0606602"
+         height="32.084969"
+         x="135.05739"
+         y="84.509209"
+         rx="0.53033012"
+         ry="0.57452428" />
+      <rect
+         style="opacity:0.04534005;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5807-7"
+         width="1.0606602"
+         height="32.084969"
+         x="160.05739"
+         y="84.509209"
+         rx="0.53033012"
+         ry="0.57452428" />
     </g>
   </g>
 </svg>
