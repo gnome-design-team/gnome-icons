@@ -34,9 +34,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="174.71604"
-     inkscape:cy="62.977183"
-     inkscape:current-layer="layer5"
+     inkscape:cx="189.93291"
+     inkscape:cy="60.349122"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -87,6 +87,18 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4213">
+      <stop
+         style="stop-color:#555753;stop-opacity:1"
+         offset="0"
+         id="stop4215" />
+      <stop
+         style="stop-color:#2e3436;stop-opacity:1"
+         offset="1"
+         id="stop4217" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4092">
@@ -214,6 +226,25 @@
        x2="150.70944"
        y2="284.63605"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter4148">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.38092269"
+         id="feGaussianBlur4150" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4213"
+       id="radialGradient4219"
+       cx="193.84499"
+       cy="241.22742"
+       fx="193.84499"
+       fy="241.22742"
+       r="5.875"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7666554,0,0,1.7666554,-148.55543,-185.82578)" />
   </defs>
   <metadata
      id="metadata4">
@@ -412,6 +443,15 @@
            style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3964);enable-background:accumulate"
            sodipodi:nodetypes="scccscsssscscccss" />
       </g>
+      <rect
+         ry="5"
+         rx="5"
+         y="117"
+         x="104"
+         height="102"
+         width="88"
+         id="rect3036-5"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.28211587" />
       <g
          id="g3038">
         <rect
@@ -517,6 +557,30 @@
          sodipodi:ry="2.4375"
          d="m 95.125,106.4375 a 2.4375,2.4375 0 1 1 -4.875,0 2.4375,2.4375 0 1 1 4.875,0 z"
          transform="matrix(1.3954981,-1.3954981,0.80509507,0.80509507,-123.22504,148.43417)" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4148);enable-background:accumulate;opacity:0.23670026"
+         id="path4124"
+         sodipodi:cx="194"
+         sodipodi:cy="238"
+         sodipodi:rx="5.875"
+         sodipodi:ry="5.875"
+         d="m 199.875,238 a 5.875,5.875 0 1 1 -11.75,0 5.875,5.875 0 1 1 11.75,0 z"
+         transform="matrix(0.85106384,0,0,0.85106384,26.893617,32.446809)" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:url(#radialGradient4219);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path4124-0"
+         sodipodi:cx="194"
+         sodipodi:cy="238"
+         sodipodi:rx="5.875"
+         sodipodi:ry="5.875"
+         d="m 199.875,238 a 5.875,5.875 0 1 1 -11.75,0 5.875,5.875 0 1 1 11.75,0 z"
+         transform="matrix(0.68085107,0,0,0.68085107,59.914896,73.957447)" />
+      <path
+         style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.19395466"
+         d="M 192 233 C 190.34315 233 189 234.34315 189 236 C 189 236.20711 189.02254 236.39846 189.0625 236.59375 C 189.23468 234.82155 190.71385 233.4375 192.53125 233.4375 C 193.05486 233.4375 193.55397 233.57516 194 233.78125 C 193.46826 233.30176 192.77239 233 192 233 z "
+         id="path4124-0-5" />
     </g>
   </g>
 </svg>
