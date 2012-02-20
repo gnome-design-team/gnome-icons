@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="200.64486"
-     inkscape:cy="67.943298"
+     inkscape:cx="157.28973"
+     inkscape:cy="140.29193"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -269,6 +269,31 @@
        r="6.6530548"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.0829725,6.0565865e-7,-2.9216155e-7,1.0047978,-207.46768,-1.1283233)" />
+    <filter
+       inkscape:collect="always"
+       id="filter3838"
+       x="-0.69697297"
+       width="2.3939459"
+       y="-0.012210227"
+       height="1.0244205">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.6715625"
+         id="feGaussianBlur3840" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3838-4"
+       x="-0.69697297"
+       width="2.3939459"
+       y="-0.012210227"
+       height="1.0244205">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.6715625"
+         id="feGaussianBlur3840-6" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -633,6 +658,24 @@
            d="m 192.1458,239.5 c 1.69558,0 3.07011,-1.2906 3.07011,-2.88261 0,-0.19901 -0.0231,-0.38288 -0.0639,-0.57052 -0.1762,1.70285 -1.68994,3.03275 -3.54981,3.03275 -0.53586,0 -1.04662,-0.13228 -1.50308,-0.33031 0.54417,0.46074 1.2563,0.75069 2.04673,0.75069 z"
            style="opacity:0.19143577;color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       </g>
+      <rect
+         style="opacity:0.11838791;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter3838)"
+         id="rect3068"
+         width="2.3125"
+         height="132"
+         x="90.4375"
+         y="112"
+         rx="1.15625"
+         ry="1.113543" />
+      <rect
+         style="opacity:0.07808564;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3838-4);enable-background:accumulate"
+         id="rect3068-2"
+         width="2.3125"
+         height="132"
+         x="203.4375"
+         y="112"
+         rx="1.15625"
+         ry="1.113543" />
     </g>
   </g>
 </svg>
