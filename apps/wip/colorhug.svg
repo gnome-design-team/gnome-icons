@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="176.38655"
-     inkscape:cy="243.73067"
+     inkscape:cx="192.89142"
+     inkscape:cy="186.92694"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -88,6 +88,18 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4168">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4170" />
+      <stop
+         style="stop-color:#2e3436;stop-opacity:1"
+         offset="1"
+         id="stop4172" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4132">
@@ -658,6 +670,15 @@
          d="m 142,25.65625 0,40.78125 c 0,0.604062 2.6863,1.09375 6,1.09375 3.3137,0 6,-0.489688 6,-1.09375 l 0,-40.78125 -12,0 z"
          id="path4156" />
     </mask>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4168"
+       id="linearGradient4174"
+       x1="148"
+       y1="203.44197"
+       x2="148"
+       y2="93.901718"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -718,7 +739,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="baseplate"
-       style="display:inline">
+       style="display:none">
       <rect
          style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect6284"
@@ -793,7 +814,8 @@
          id="rect6282"
          style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/lapo/SparkleShare/gnome-icons/apps/wip/colorhug256.png" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -888,8 +910,8 @@
         <path
            inkscape:connector-curvature="0"
            id="rect3003-7"
-           d="m 97.25,83 c -4.0165,0 -6.780892,2 -7.25,6 l -1.9375,17.5 0,0.0625 C 88.024828,106.86838 88,107.18361 88,107.5 l 0,56.5 0,79.5 c 0,4.155 3.345,7.5 7.5,7.5 l 105,0 c 4.155,0 7.5,-3.345 7.5,-7.5 l 0,-79.5 0,-56.5 c 0,-0.31639 -0.0248,-0.63162 -0.0625,-0.9375 l 0,-0.0625 L 206,89 c -0.46911,-4 -3.2335,-6 -7.25,-6 z"
-           style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3964);enable-background:accumulate"
+           d="m 97.25,83.883883 c -4.0165,0 -6.780892,2 -7.25,6 L 88.0625,106.5 l 0,0.0625 C 88.024828,106.86838 88,107.18361 88,107.5 l 0,56.5 0,79.5 c 0,4.155 3.345,7.5 7.5,7.5 l 105,0 c 4.155,0 7.5,-3.345 7.5,-7.5 l 0,-79.5 0,-56.5 c 0,-0.31639 -0.0248,-0.63162 -0.0625,-0.9375 l 0,-0.0625 L 206,89.883883 c -0.46911,-4 -3.2335,-6 -7.25,-6 z"
+           style="color:#000000;fill:none;stroke:url(#linearGradient4174);stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3964);enable-background:accumulate"
            sodipodi:nodetypes="scccscsssscscccss" />
       </g>
       <rect
@@ -955,7 +977,7 @@
                style="color:#000000;fill:#cc0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
             <path
                transform="matrix(0.338462,0,0,0.338462,358.203,406.563)"
-               d="m 550,327.36218 c 0,107.69553 -87.30447,195 -195,195 -107.69553,0 -195,-87.30447 -195,-195 0,-107.69552 87.30447,-195 195,-195 107.69553,0 195,87.30448 195,195 z"
+               d="m 550,327.36218 a 195,195 0 1 1 -390,0 195,195 0 1 1 390,0 z"
                sodipodi:ry="195"
                sodipodi:rx="195"
                sodipodi:cy="327.36218"
@@ -965,7 +987,7 @@
                sodipodi:type="arc" />
             <path
                transform="matrix(0.338462,0,0,0.338462,239.846,201.563)"
-               d="m 550,327.36218 c 0,107.69553 -87.30447,195 -195,195 -107.69553,0 -195,-87.30447 -195,-195 0,-107.69552 87.30447,-195 195,-195 107.69553,0 195,87.30448 195,195 z"
+               d="m 550,327.36218 a 195,195 0 1 1 -390,0 195,195 0 1 1 390,0 z"
                sodipodi:ry="195"
                sodipodi:rx="195"
                sodipodi:cy="327.36218"
@@ -975,7 +997,7 @@
                sodipodi:type="arc" />
             <path
                transform="matrix(0.338462,0,0,0.338462,121.489,406.563)"
-               d="m 550,327.36218 c 0,107.69553 -87.30447,195 -195,195 -107.69553,0 -195,-87.30447 -195,-195 0,-107.69552 87.30447,-195 195,-195 107.69553,0 195,87.30448 195,195 z"
+               d="m 550,327.36218 a 195,195 0 1 1 -390,0 195,195 0 1 1 390,0 z"
                sodipodi:ry="195"
                sodipodi:rx="195"
                sodipodi:cy="327.36218"
@@ -1030,7 +1052,7 @@
          transform="translate(0,28)">
         <path
            transform="matrix(0.85106384,0,0,0.85106384,26.893617,32.446809)"
-           d="m 199.875,238 c 0,3.24467 -2.63033,5.875 -5.875,5.875 -3.24467,0 -5.875,-2.63033 -5.875,-5.875 0,-3.24467 2.63033,-5.875 5.875,-5.875 3.24467,0 5.875,2.63033 5.875,5.875 z"
+           d="m 199.875,238 a 5.875,5.875 0 1 1 -11.75,0 5.875,5.875 0 1 1 11.75,0 z"
            sodipodi:ry="5.875"
            sodipodi:rx="5.875"
            sodipodi:cy="238"
@@ -1040,7 +1062,7 @@
            sodipodi:type="arc" />
         <path
            transform="matrix(0.68085107,0,0,0.68085107,59.914896,73.957447)"
-           d="m 199.875,238 c 0,3.24467 -2.63033,5.875 -5.875,5.875 -3.24467,0 -5.875,-2.63033 -5.875,-5.875 0,-3.24467 2.63033,-5.875 5.875,-5.875 3.24467,0 5.875,2.63033 5.875,5.875 z"
+           d="m 199.875,238 a 5.875,5.875 0 1 1 -11.75,0 5.875,5.875 0 1 1 11.75,0 z"
            sodipodi:ry="5.875"
            sodipodi:rx="5.875"
            sodipodi:cy="238"
