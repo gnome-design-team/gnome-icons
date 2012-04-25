@@ -41,9 +41,9 @@
      inkscape:window-height="1230"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="-139.53569"
-     inkscape:cy="38.01161"
+     inkscape:zoom="1"
+     inkscape:cx="-111.87641"
+     inkscape:cy="39.597616"
      inkscape:window-x="2211"
      inkscape:window-y="109"
      inkscape:window-maximized="0"
@@ -75,6 +75,18 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <defs
      id="defs7386">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4077"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4044"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4040"
+       is_visible="true" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect3959"
@@ -408,29 +420,6 @@
        r="1.607125"
        gradientTransform="matrix(2.9445462,0,0,2.8235465,602.73629,270.04529)"
        gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5408-4"
-       id="radialGradient5414-2"
-       cx="-196.78575"
-       cy="-28.512899"
-       fx="-196.78575"
-       fy="-28.512899"
-       r="1.607125"
-       gradientTransform="matrix(2.9445462,0,0,2.8235465,602.73629,270.04529)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5408-4">
-      <stop
-         style="stop-color:#bebebe;stop-opacity:1;"
-         offset="0"
-         id="stop5410-7" />
-      <stop
-         style="stop-color:#bebebe;stop-opacity:0;"
-         offset="1"
-         id="stop5412-9" />
-    </linearGradient>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect4601-8"
@@ -447,6 +436,14 @@
        effect="spiro"
        id="path-effect3097-4"
        is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4040-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4044-4"
+       effect="spiro" />
   </defs>
   <g
      transform="translate(-261,-489)"
@@ -720,6 +717,40 @@
          id="rect4006"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       style="display:inline"
+       transform="translate(83.0002,-121)"
+       inkscape:label="evolution"
+       id="g35627">
+      <rect
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;opacity:1"
+         id="rect35629"
+         width="16"
+         height="16"
+         x="19.99975"
+         y="296" />
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m -130.125,-42 c -0.18579,0.03388 -0.36142,0.121699 -0.5,0.25 l -4.90625,4 c -0.0212,0.0097 -0.042,0.02011 -0.0625,0.03125 0,0 -0.32587,0.29728 -0.65625,0.75 -0.46317,0.581902 -0.66609,1.072125 -0.74995,1.90625 -5.1e-4,0.0118 3.6e-4,0.01945 0,0.03125 -1.6e-4,0.01042 -1.6e-4,0.02083 0,0.03125 -0.004,0.05198 -0.004,0.104273 0,0.15625 L -137,-27 c 5e-5,0.523584 0.47642,0.999948 1,1 l 7.19232,0 c -0.75614,-0.403918 -1.44709,-1.326309 -1.75482,-2 l -4.4375,0 0,-6.625 4.03125,3.03125 0.44194,-0.887259 c -1.35833,-1.094281 -2.76946,-2.123053 -4.16069,-3.175241 0.0259,-0.03937 0.0349,-0.08718 0.0625,-0.125 0.1908,-0.26146 0.31874,-0.41421 0.34375,-0.4375 l 0.0312,-0.03125 4.25,-3.46875 4.3125,3.53125 0.0312,0.03125 c 0.021,0.0255 0.18032,0.249516 0.34375,0.5 l -1.3847,1.099762 c 0.60223,-0.161456 1.11916,-0.109636 1.60412,0.0221 l 0.5984,-0.453459 0.0172,0.425347 c 0.44657,0.243302 0.87083,0.46429 1.47761,0.867799 0,-2.089013 -0.37164,-2.989486 -1.37495,-3.992799 -0.0102,-0.01064 -0.0206,-0.02107 -0.0312,-0.03125 L -129.375,-41.75 c -0.17939,-0.158201 -0.41707,-0.248747 -0.65625,-0.25 -0.0312,-0.0015 -0.0625,-0.0015 -0.0937,0 z"
+         transform="translate(158,338)"
+         id="path35631"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccc" />
+      <path
+         style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:0.99999976;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         d="m 26.375,305.375 -3.037,5.13972"
+         id="path4038"
+         inkscape:path-effect="#path-effect4040-0"
+         inkscape:original-d="m 26.375,305.375 -3.037,5.13972"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999976;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         d="m 31.99982,304.03089 c -2.20755,0 -4.01563,1.7772 -4.01563,3.98474 0,2.20753 1.80808,3.98473 4.01563,3.98473 2.20754,0 3.98474,-1.7772 3.98474,-3.98473 0,-2.20754 -1.7772,-3.98474 -3.98474,-3.98474 z m -0.55709,0.95757 c 0.29815,-0.0579 0.61142,0.22239 0.5869,0.52512 l 0,2.81094 1.32824,1.32824 c 0.372,0.372 -0.34245,1.0864 -0.71046,0.71046 l -1.48269,-1.48269 -0.12355,-0.15445 0,-0.21622 0,-2.99628 c -0.0107,-0.21455 0.13563,-0.42734 0.33977,-0.49423 0.0198,-0.0117 0.0405,-0.0221 0.0618,-0.0309 z"
+         id="path4073"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssscccssccccccc" />
     </g>
   </g>
   <text
