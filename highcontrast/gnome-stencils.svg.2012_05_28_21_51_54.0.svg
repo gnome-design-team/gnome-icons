@@ -37,17 +37,17 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-width="1600"
+     inkscape:window-height="823"
      id="namedview88"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="341.44789"
-     inkscape:cy="-233.53134"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="335.78973"
+     inkscape:cy="-239.33064"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5727"
+     inkscape:current-layer="g4953"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -57,11 +57,11 @@
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true"
      inkscape:snap-global="true"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      inkscape:snap-bbox-midpoints="false"
-     inkscape:object-paths="false"
+     inkscape:object-paths="true"
      inkscape:snap-others="false"
-     inkscape:snap-smooth-nodes="false">
+     inkscape:snap-smooth-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4866"
@@ -350,6 +350,17 @@
        effect="spiro"
        id="path-effect8915-0-8-2-7-4-4-8"
        is_visible="true" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5950">
+      <rect
+         y="686.92065"
+         x="225.0002"
+         height="11.473433"
+         width="16"
+         id="rect5952"
+         style="fill:#000080;stroke:none;display:inline" />
+    </clipPath>
   </defs>
   <g
      transform="translate(-261,-489)"
@@ -8920,17 +8931,6 @@
        id="g5727"
        inkscape:label="preferences-system-session">
       <path
-         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 570.0002,465 c -0.554,0 -1,0.446 -1,1 l 0,6 c 0,0.554 0.446,1 1,1 l 6,0 c 0.554,0 1,-0.446 1,-1 l 0,-6 c 0,-0.554 -0.446,-1 -1,-1 l -6,0 z m 1,3 4,0 0,3 -4,0 0,-3 z"
-         id="rect4840"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 579.0002,462 c -0.554,0 -1,0.446 -1,1 l 0,5 c 0,0.554 0.446,1 1,1 l 5,0 c 0.554,0 1,-0.446 1,-1 l 0,-5 c 0,-0.554 -0.446,-1 -1,-1 z m 1,3 3,0 0,2 -3,0 z"
-         id="rect4840-2"
-         sodipodi:nodetypes="sssssssssccccc" />
-      <path
          style="display:inline;fill:none;stroke:#bebebe;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          d="m 580.01168,473.01944 2.02275,-1.96477 L 584.0002,473"
          id="path4516-1"
@@ -8958,6 +8958,18 @@
          width="0.99614793"
          id="rect4723-0-9"
          style="display:inline;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;overflow:visible;enable-background:accumulate" />
+      <path
+         sodipodi:nodetypes="sssssssssccccc"
+         inkscape:connector-curvature="0"
+         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5771-6"
+         d="m 569.7002,464.98863 c -0.38878,0 -0.7,0.47567 -0.7,1.05 l 0,5.9 c 0,0.57432 0.31122,1.05 0.7,1.05 l 6.6,0 c 0.38877,0 0.7,-0.47568 0.7,-1.05 l 0,-5.9 c 0,-0.57433 -0.31123,-1.05 -0.7,-1.05 z m 0.9,3.2001 4.8,0 0,3.20001 -4.8,0 z" />
+      <path
+         sodipodi:nodetypes="sssssssssccccc"
+         inkscape:connector-curvature="0"
+         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect7987-2"
+         d="m 579.3127,462.0625 c -0.38877,0 -0.7,0.48843 -0.7,1.07143 l 0,4.71429 c 0,0.583 0.31123,1.07143 0.7,1.07143 l 5,0 c 0.38878,0 0.7,-0.48843 0.7,-1.07143 l 0,-4.71429 c 0,-0.583 -0.31122,-1.07143 -0.7,-1.07143 z m 0.9,3.42869 3.2,0 0,1.71428 -3.2,0 z" />
       <rect
          style="fill:none;stroke:none;display:inline"
          id="rect5386-2"
@@ -8966,6 +8978,23 @@
          x="569.00018"
          y="462" />
     </g>
+    <rect
+       style="opacity:0.3713355;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       width="7.9987698"
+       height="8"
+       x="569.00018"
+       y="465"
+       rx="1"
+       ry="1" />
+    <rect
+       id="rect5624"
+       style="opacity:0.3713355;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       width="4.6862698"
+       height="2.9472656"
+       x="570.65643"
+       y="468.05273"
+       rx="0"
+       ry="0" />
   </g>
   <g
      inkscape:groupmode="layer"
