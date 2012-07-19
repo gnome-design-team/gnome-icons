@@ -56,7 +56,7 @@
      inkscape:guide-bbox="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:object-nodes="false"
      inkscape:snap-bbox-midpoints="false"
      inkscape:object-paths="false"
@@ -7515,8 +7515,10 @@
       <path
          id="path22208"
          transform="translate(241.0002,217)"
-         d="M -129 307 L -134 313 L -136 311 L -138 314 L -129 314 L -129 311 L -126 311 L -129 307 z "
-         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+         d="m -129,307 -4.4375,6.125 L -136,311 l -2,3 9,0 0,-3 3,0 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccc" />
       <path
          transform="matrix(0.765625,0,0,0.99999997,204.79706,217.5)"
          d="m -127,307.5 a 2,1.5 0 1 1 -4,0 2,1.5 0 1 1 4,0 z"
