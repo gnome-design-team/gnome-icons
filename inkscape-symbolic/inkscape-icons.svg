@@ -520,9 +520,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="30.45323"
-     inkscape:cy="460.43261"
+     inkscape:zoom="16"
+     inkscape:cx="22.454085"
+     inkscape:cy="448.62805"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -531,7 +531,9 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:snap-bbox="true">
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="false">
     <inkscape:grid
        type="xygrid"
        id="grid15646"
@@ -597,10 +599,10 @@
            id="path4685"
            inkscape:connector-curvature="0" />
         <rect
-           style="fill:none;fill-opacity:1;stroke:none"
+           style="fill:none;stroke:none"
            id="rect29018"
            width="16"
-           height="15"
+           height="16"
            x="15"
            y="35"
            transform="translate(0,512.36218)" />
@@ -608,7 +610,8 @@
     </g>
     <g
        id="document-export"
-       inkscape:label="#file_export">
+       inkscape:label="#file_export"
+       transform="translate(0,1.0000988)">
       <path
          sodipodi:nodetypes="ccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
@@ -626,13 +629,14 @@
          style="fill:none;stroke:none"
          id="rect29077"
          width="16"
-         height="15"
+         height="15.999899"
          x="15"
          y="566.36218" />
     </g>
     <g
        id="document-cleanup"
-       inkscape:label="#file_vacuum">
+       inkscape:label="#file_vacuum"
+       transform="matrix(0.99690056,0,0,1.0000002,0.04649158,2.0001197)">
       <path
          sodipodi:nodetypes="ccsscsscccccsccssccc"
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
@@ -656,7 +660,7 @@
          d="m 19,595.36218 c 4,-2 10,-1 10,-1 l 0,6.00035 c 0,0 0.01874,-0.018 -11,-3.5e-4 -2,0 -1,-4 1,-5 z"
          style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;display:inline" />
       <path
-         transform="matrix(0.38951329,0,0,0.385965,-78.013976,561.28221)"
+         transform="matrix(0.38951329,0,0,0.38130207,-78.013976,561.70654)"
          d="m 280,97.5 c 0,3.58985 -2.79822,6.5 -6.25,6.5 -3.45178,0 -6.25,-2.91015 -6.25,-6.5 0,-3.589851 2.79822,-6.5 6.25,-6.5 3.45178,0 6.25,2.910149 6.25,6.5 z"
          sodipodi:ry="6.5"
          sodipodi:rx="6.25"
@@ -675,10 +679,17 @@
       <rect
          y="585.36218"
          x="15"
-         height="16"
+         height="15.999997"
          width="16"
          id="rect29219"
-         style="fill:none;fill-opacity:1;stroke:none" />
+         style="fill:none;stroke:none" />
     </g>
+    <rect
+       style="fill:none;stroke:none"
+       id="rect9465"
+       width="16"
+       height="16"
+       x="14.976442"
+       y="607.36218" />
   </g>
 </svg>
