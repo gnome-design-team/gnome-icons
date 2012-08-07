@@ -632,7 +632,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="16"
      inkscape:cx="134.7142"
-     inkscape:cy="328.37264"
+     inkscape:cy="305.87264"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4520,7 +4520,8 @@
     </g>
     <g
        id="object-rotate-left"
-       inkscape:label="#object_rotate_90_CCW">
+       inkscape:label="#object_rotate_90_CCW"
+       transform="translate(0,-2.6171874e-6)">
       <g
          transform="matrix(-1,0,0,1,286,20)"
          id="g18423"
@@ -4561,6 +4562,65 @@
            y="-151"
            transform="matrix(0,1,-1,0,0,0)" />
       </g>
+    </g>
+    <g
+       id="object-flip-horizontal"
+       inkscape:label="#object_flip_hor">
+      <rect
+         transform="translate(0,512.36218)"
+         y="235"
+         x="135"
+         height="16"
+         width="16"
+         id="rect18462"
+         style="fill:none;fill-opacity:1;stroke:none" />
+      <rect
+         y="748.36218"
+         x="143"
+         height="2"
+         width="1"
+         id="rect18464"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      <rect
+         y="751.36218"
+         x="143"
+         height="2"
+         width="1"
+         id="rect18466"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      <rect
+         y="754.36218"
+         x="143"
+         height="2"
+         width="1"
+         id="rect18468"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      <rect
+         y="757.36218"
+         x="143"
+         height="2"
+         width="1"
+         id="rect18470"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      <rect
+         y="760.36218"
+         x="143"
+         height="2"
+         width="1"
+         id="rect18472"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect18480"
+         d="m 136,762.36218 5,-14 0,14 -2,0 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect18484"
+         d="m 146,748.36218 5,14 -3,0 -2,0 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
