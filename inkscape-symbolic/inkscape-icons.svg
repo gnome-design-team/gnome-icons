@@ -665,7 +665,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="16"
      inkscape:cx="144.1517"
-     inkscape:cy="290.86203"
+     inkscape:cy="280.86203"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -5278,13 +5278,49 @@
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path19605"
-         d="m 169,755.36218 4,5 1,-5 z"
+         d="m 168,754.36218 6,6 0,-6 z"
          style="fill:#bebebe;fill-opacity:1;stroke:none" />
       <path
          id="path19607"
          transform="translate(0,512.36218)"
          d="M 165 244 L 165 246 C 167.76142 246 170 248.23858 170 251 L 172 251 C 172 247.13401 168.86599 244 165 244 z "
          style="fill:#bebebe;fill-opacity:1;stroke:none;opacity:1" />
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 177,778.36218 -6,-6 0,6 z"
+         id="path19653"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="path-inset"
+       inkscape:label="#inset_path">
+      <g
+         transform="translate(0,20)"
+         id="g19643"
+         inkscape:label="#outset_path">
+        <rect
+           transform="translate(0,512.36218)"
+           y="235"
+           x="165"
+           height="16"
+           width="16"
+           id="rect19645"
+           style="opacity:0.3;fill:none;stroke:none" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path19647"
+           transform="translate(0,512.36218)"
+           d="m 165,235.0625 0,1.96875 C 173,237 179,243 178.96875,251 l 1.90625,0 C 180,241 175,236 165,235.0625 z"
+           style="fill:#bebebe;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path19651"
+           transform="translate(0,512.36218)"
+           d="m 165,244 0,2 c 2.76142,0 5,2.23858 5,5 l 2,0 c 0,-3.86599 -3.13401,-7 -7,-7 z"
+           style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      </g>
     </g>
   </g>
 </svg>
