@@ -663,16 +663,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="153.4642"
-     inkscape:cy="274.76351"
+     inkscape:zoom="16"
+     inkscape:cx="144.1517"
+     inkscape:cy="371.51604"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="709"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -5133,6 +5133,30 @@
          d="m 170.0313,652.36213 0,5.96875 c 0.16494,0.0149 0.33118,0.0313 0.5,0.0313 3.03757,0 5.5,-2.46243 5.5,-5.5 0,-0.16882 -0.0164,-0.33506 -0.0313,-0.5 l -5.9687,-5e-5 z"
          id="path23213"
          inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="path-division"
+       inkscape:label="#division">
+      <rect
+         transform="translate(0,512.36218)"
+         y="155"
+         x="165"
+         height="16"
+         width="16"
+         id="rect11641"
+         style="fill:none;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccsscccsscccccc"
+         inkscape:connector-curvature="0"
+         id="path12415"
+         transform="translate(0,512.36218)"
+         d="m 170,160 0,4 c 0.13238,0.0152 0.36355,0 0.5,0 1.933,0 3.5,-1.567 3.5,-3.5 0,-0.16773 -0.008,-0.33856 -0.0313,-0.5 z m 5.96875,0 c 0.0149,0.16494 0.0313,0.33118 0.0313,0.5 0,3.03757 -2.46243,5.5 -5.5,5.5 -0.1583,0 -0.31384,-0.0181 -0.46875,-0.0313 l 0,4.03125 10,0 0,-10 L 176,160 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path12456"
+         d="m 170.5,667.36218 c -3.03757,0 -5.5,2.46243 -5.5,5.5 0,2.86875 2.19713,5.21576 5,5.46875 l 0,-5.96875 5.96875,0 c -0.25299,-2.80287 -2.6,-5 -5.46875,-5 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;opacity:0.3" />
     </g>
   </g>
 </svg>
