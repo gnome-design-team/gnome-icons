@@ -665,7 +665,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="16"
      inkscape:cx="178.9642"
-     inkscape:cy="444.36806"
+     inkscape:cy="416.86806"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -5767,5 +5767,67 @@
          id="path18302"
          inkscape:connector-curvature="0" />
     </g>
+    <g
+       id="g18503"
+       inkscape:label="#remove_manual_kerns"
+       transform="translate(0,20)">
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 205,638.36218 2,0 4,5 -2,0 z"
+         id="path18430"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path18432"
+         d="m 211,638.36218 -2,0 -4,5 2,0 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      <g
+         inkscape:label="#remove_manual_kerns"
+         id="text-unkern">
+        <rect
+           y="627.36218"
+           x="195"
+           height="16"
+           width="16"
+           id="rect18414"
+           style="fill:none;stroke:none" />
+        <path
+           sodipodi:nodetypes="ccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path18418"
+           d="m 196,628.36218 0,3 1,-1 2,0 0,5 -1,1 4,0 -1,-1 0,-5 2,0 1,1 0,-3 z"
+           style="fill:#bebebe;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#bebebe;fill-opacity:1;stroke:none"
+           id="rect18422"
+           width="1"
+           height="8.0000029"
+           x="196"
+           y="633.36218" />
+        <rect
+           y="633.36218"
+           x="203"
+           height="8.0000029"
+           width="1"
+           id="rect18427"
+           style="fill:#bebebe;fill-opacity:1;stroke:none" />
+        <rect
+           style="opacity:0.3;fill:#bebebe;fill-opacity:1;stroke:none"
+           id="rect18436"
+           width="4"
+           height="1"
+           x="198"
+           y="128"
+           transform="translate(0,512.36218)" />
+      </g>
+    </g>
+    <rect
+       style="opacity:0.29999999999999999;fill:none;fill-opacity:1;stroke:none"
+       id="rect18513"
+       width="16"
+       height="16"
+       x="195"
+       y="115"
+       transform="translate(0,512.36218)" />
   </g>
 </svg>
