@@ -849,8 +849,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="274.06885"
-     inkscape:cy="476.54952"
+     inkscape:cx="268.4126"
+     inkscape:cy="459.04952"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -6726,12 +6726,23 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cssccsscc" />
     </g>
-    <rect
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
-       id="rect14728"
-       width="16"
-       height="16"
-       x="255"
-       y="587.36218" />
+    <g
+       id="path-tweak-roughen"
+       inkscape:label="#g15575">
+      <rect
+         y="587.36218"
+         x="255"
+         height="16"
+         width="16"
+         id="rect14728"
+         style="fill:none;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccc"
+         transform="translate(0,512.36218)"
+         inkscape:connector-curvature="0"
+         id="path15573"
+         d="m 255,82 0,0 3.03125,-4.46875 c 3,3.5 0,0 2.96875,3.46875 l 3,-5 2,6 2.46875,-3.125 L 271,82 271,87 267,83.4375 266,88 263.5,84.03125 C 260,88 263.53125,84 260,88 l -1.96875,-5.65625 C 255,87 255,87 255,87 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
   </g>
 </svg>
