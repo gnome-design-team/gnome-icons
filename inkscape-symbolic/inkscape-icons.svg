@@ -850,7 +850,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="32"
      inkscape:cx="268.4126"
-     inkscape:cy="459.04952"
+     inkscape:cy="439.04952"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -862,7 +862,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="false"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
@@ -6743,6 +6743,29 @@
          id="path15573"
          d="m 255,82 0,0 3.03125,-4.46875 c 3,3.5 0,0 2.96875,3.46875 l 3,-5 2,6 2.46875,-3.125 L 271,82 271,87 267,83.4375 266,88 263.5,84.03125 C 260,88 263.53125,84 260,88 l -1.96875,-5.65625 C 255,87 255,87 255,87 z"
          style="fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="path-tweak-repel"
+       inkscape:label="#g15612">
+      <rect
+         y="607.36218"
+         x="255"
+         height="16"
+         width="16"
+         id="rect15598"
+         style="fill:none;stroke:none" />
+      <path
+         sodipodi:nodetypes="cssccsscc"
+         inkscape:connector-curvature="0"
+         id="path15604"
+         d="m 255,611.36218 c 0,0 3,1 5,-1 2,-2 4,-2 6,0 2,2 5,1 5,1 l 0,2 c 0,0 -3,1 -5,-1 -2,-2 -4,-2 -6,0 -2,2 -5,1 -5,1 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 255,618.36218 c 0,0 3,-1 5,1 2,2 4,2 6,0 2,-2 5,-1 5,-1 l 0,-2 c 0,0 -3,-1 -5,1 -2,2 -4,2 -6,0 -2,-2 -5,-1 -5,-1 z"
+         id="path15610"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssccsscc" />
     </g>
   </g>
 </svg>
