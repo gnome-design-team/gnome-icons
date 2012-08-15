@@ -1336,8 +1336,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="434.77873"
-     inkscape:cy="395.51285"
+     inkscape:cx="358.14283"
+     inkscape:cy="365.51285"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1349,7 +1349,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="false"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-nodes="true">
@@ -11672,6 +11672,55 @@
          id="path19917"
          style="fill:#bebebe;fill-opacity:1;stroke:none"
          sodipodi:type="arc" />
+    </g>
+    <g
+       id="draw-star"
+       inkscape:label="#g19984">
+      <rect
+         y="682.36218"
+         x="349"
+         height="15.937499"
+         width="15.979193"
+         id="rect19962"
+         style="color:#000000;fill:none;stroke:none;stroke-width:1.00000012;marker:none;display:inline" />
+      <path
+         inkscape:transform-center-y="-0.83250302"
+         inkscape:transform-center-x="0.0097788932"
+         transform="matrix(0.98949965,-0.00310225,0.00325,1.0366248,9.0633833,513.12185)"
+         d="m 356.0625,179.6875 -4.99807,-2.83529 -4.99536,2.84006 1.15203,-5.62959 -4.24471,-3.87325 5.71006,-0.64399 2.37199,-5.23386 2.37698,5.23159 5.71068,0.63854 -4.24101,3.87729 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5703186"
+         sodipodi:arg1="0.94200004"
+         sodipodi:r2="4.0397148"
+         sodipodi:r1="8.5009193"
+         sodipodi:cy="172.8125"
+         sodipodi:cx="351.0625"
+         sodipodi:sides="5"
+         id="path19973"
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+    </g>
+    <g
+       id="draw-polygon"
+       inkscape:label="#g19980">
+      <rect
+         transform="translate(0,512.36218)"
+         y="170"
+         x="379"
+         height="16"
+         width="16"
+         id="rect19975"
+         style="fill:none;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path19977"
+         d="m 391,697.36218 -8,0 -3,-8.61538 7,-5.38462 7,5.38462 z"
+         inkscape:transform-center-y="-0.73727804"
+         inkscape:transform-center-x="-0.0041824415"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
