@@ -32,9 +32,9 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="79.840262"
-     inkscape:cy="168.67469"
-     inkscape:current-layer="layer3"
+     inkscape:cx="84.383144"
+     inkscape:cy="74.9321"
+     inkscape:current-layer="g15154"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -1858,12 +1858,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient15009"
        id="radialGradient15015"
-       cx="88.25"
-       cy="218.765"
-       fx="88.25"
-       fy="218.765"
+       cx="63.956516"
+       cy="244.78381"
+       fx="63.956516"
+       fy="244.78381"
        r="34.75"
-       gradientTransform="matrix(1.7482014,-0.08633094,0.03548389,0.71854885,-73.791411,73.675366)"
+       gradientTransform="matrix(2.3381291,-1.2374099,0.33651994,0.63586624,-187.66323,166.24066)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -3537,6 +3537,31 @@
        y1="205"
        x2="204.09375"
        y2="188" />
+    <filter
+       inkscape:collect="always"
+       id="filter20651"
+       x="-0.18591093"
+       width="1.3718219"
+       y="-0.070302453"
+       height="1.1406049">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.87145749"
+         id="feGaussianBlur20653" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter20651-3"
+       x="-0.18591093"
+       width="1.3718219"
+       y="-0.070302457"
+       height="1.1406049">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.87145749"
+         id="feGaussianBlur20653-0" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -3895,6 +3920,11 @@
            d="M 112.5,142.5 66,161 61.5,195.875 31.5,254.5 91,219 107.5,179.5 z"
            style="color:#000000;fill:url(#linearGradient14937);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            sodipodi:nodetypes="ccccccc" />
+        <path
+           style="color:#000000;fill:#a8b0a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter20651-3);enable-background:accumulate;opacity:0.43209877"
+           d="m 89,244.75 3.5,1.25 7.75,-28 -1.75,-1.75 z"
+           id="path20641"
+           inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="ccccccccc"
            style="color:#000000;fill:url(#linearGradient14945);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
