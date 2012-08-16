@@ -1541,9 +1541,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
+     inkscape:zoom="16"
      inkscape:cx="629.14388"
-     inkscape:cy="509.34368"
+     inkscape:cy="520.53086"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -12821,7 +12821,7 @@
     </g>
     <g
        id="snap-bounding-box-edges"
-       inkscape:label="#toggle_snap_to_box_path">
+       inkscape:label="#toggle_snap_to_bbox_path">
       <rect
          y="527.36218"
          x="618.96875"
@@ -12875,6 +12875,75 @@
          d="m 634,529.86218 0,-1 0,-0.5 -1,0 0,0.5 0,1 0,0.5 1,0 z"
          id="path17272"
          inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="snap-bounding-box-corners"
+       inkscape:label="#toggle_snap_to_bbox_node">
+      <g
+         transform="matrix(-1,0,0,-1,1253.9375,1070.7244)"
+         id="g17318"
+         inkscape:label="#toggle_snap_box">
+        <rect
+           style="color:#000000;fill:none;stroke:none;stroke-width:0.1;marker:none;display:inline"
+           id="rect17320"
+           width="16"
+           height="15.999997"
+           x="588.96875"
+           y="527.36218" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path17322"
+           d="m 591.46872,529.89342 0,0.5 0,0.5 1,0 0,-0.5 0.5,0 0,-1 -0.5,0 -0.5,0 -0.5,0 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path17324"
+           d="m 594,530.39342 0.49218,0 0.98436,0 0.49218,0 0,-1 -0.49218,0 -0.98436,0 -0.49218,0 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path17326"
+           d="m 596.96872,530.39342 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path17328"
+           d="m 599.96872,530.39342 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path17330"
+           d="m 602.96872,530.39342 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path17332"
+           d="m 591,532.86218 0,1 0,0.5 1,0 0,-0.5 0,-1 0,-0.5 -1,0 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path17334"
+           d="m 591,535.86218 0,1 0,0.5 1,0 0,-0.5 0,-1 0,-0.5 -1,0 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path17336"
+           d="m 591,538.86218 0,1 0,0.5 1,0 0,-0.5 0,-1 0,-0.5 -1,0 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path17338"
+           d="m 591,541.86218 0,1 0,0.5 1,0 0,-0.5 0,-1 0,-0.5 -1,0 z"
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+        <rect
+           transform="matrix(0.7071082,-0.70710537,0.7071082,0.70710537,0,0)"
+           style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.90510172;marker:none;display:inline"
+           id="rect17340"
+           width="3.6931789"
+           height="3.7314589"
+           x="41.736328"
+           y="791.7641" />
+      </g>
     </g>
   </g>
 </svg>
