@@ -1732,9 +1732,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.962963"
-     inkscape:cx="549.58972"
-     inkscape:cy="337.48452"
+     inkscape:zoom="13.40884"
+     inkscape:cx="544.10534"
+     inkscape:cy="307.27717"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -15404,11 +15404,11 @@
        id="rect15593"
        width="16"
        height="15.999997"
-       x="529.01166"
+       x="528.01166"
        y="682.36218" />
     <path
        style="fill:#bebebe;fill-opacity:1;stroke:none"
-       d="m 531,695.36218 2,0 0,-6 2,0 -3,-4 -3,4 2,0 z"
+       d="m 530,695.36218 2,0 0,-6 2,0 -3,-4 -3,4 2,0 z"
        id="path15595"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
@@ -15416,7 +15416,7 @@
        rx="1"
        ry="0"
        y="682.36218"
-       x="537"
+       x="536"
        height="6.9999976"
        width="7"
        id="rect15597"
@@ -15426,13 +15426,13 @@
        id="rect15599"
        width="7"
        height="6.9999976"
-       x="537"
+       x="536"
        y="691.36218"
        ry="0"
        rx="1" />
     <rect
        y="682.36218"
-       x="559.01166"
+       x="558.01166"
        height="15.999997"
        width="16"
        id="rect15601"
@@ -15441,20 +15441,20 @@
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="path15603"
-       d="m 565,686.36218 0,2 6,0 0,2 4,-3 -4,-3 0,2 z"
+       d="m 564,686.36218 0,2 6,0 0,2 4,-3 -4,-3 0,2 z"
        style="fill:#bebebe;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#bebebe;fill-opacity:1;stroke:none"
        id="rect15605"
        width="6"
        height="6"
-       x="564"
+       x="563"
        y="691.36218"
        ry="0"
        rx="0.99999994" />
     <path
        style="fill:#bebebe;fill-opacity:1;stroke:none"
-       d="m 569,686.36218 0,2 -6,0 0,2 -4,-3 4,-3 0,2 z"
+       d="m 568,686.36218 0,2 -6,0 0,2 -4,-3 4,-3 0,2 z"
        id="path15609"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
@@ -15463,11 +15463,11 @@
        id="rect15612"
        width="16"
        height="15.999997"
-       x="589.01166"
+       x="588.01166"
        y="682.36218" />
     <path
        style="fill:#bebebe;fill-opacity:1;stroke:none"
-       d="m 595,688.36218 -2,0 0,6 -2,0 3,4 3,-4 -2,0 z"
+       d="m 594,688.36218 -2,0 0,6 -2,0 3,4 3,-4 -2,0 z"
        id="path15614"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
@@ -15475,7 +15475,7 @@
        rx="0.99999994"
        ry="0"
        y="687.36218"
-       x="597"
+       x="596"
        height="6"
        width="6"
        id="rect15616"
@@ -15484,7 +15484,7 @@
        sodipodi:nodetypes="cccccccc"
        inkscape:connector-curvature="0"
        id="path15618"
-       d="m 595,692.36218 -2,0 0,-6 -2,0 3,-4 3,4 -2,0 z"
+       d="m 594,692.36218 -2,0 0,-6 -2,0 3,-4 3,4 -2,0 z"
        style="fill:#bebebe;fill-opacity:1;stroke:none" />
     <g
        id="transform-skew-horizontal"
@@ -15499,8 +15499,9 @@
       <path
          id="path4834"
          transform="translate(0,512.36218)"
-         d="M 504 210 L 504 212 L 498 212 L 498 214 L 504 214 L 504 216 L 508 213 L 504 210 z "
-         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+         d="m 504,210 0,2 -6,0 0,2 6,0 0,2 4,-3 -4,-3 z"
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -15516,7 +15517,8 @@
     </g>
     <g
        id="transform-skew-vertical"
-       inkscape:label="#g19398">
+       inkscape:label="#g19398"
+       transform="translate(-1,0)">
       <rect
          style="fill:none;stroke:none"
          id="rect19383"
@@ -15544,7 +15546,8 @@
     </g>
     <g
        id="transform-rotate"
-       inkscape:label="#transform_rotate">
+       inkscape:label="#transform_rotate"
+       transform="translate(-1,0)">
       <rect
          ry="0"
          rx="0.46966994"
@@ -15574,6 +15577,81 @@
          width="7"
          id="rect23174"
          style="fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="object-columns"
+       inkscape:label="#clonetiler_per_column">
+      <rect
+         rx="0.46966994"
+         y="743.36218"
+         x="498"
+         height="16"
+         width="16"
+         id="rect23222"
+         style="fill:none;stroke:none"
+         ry="0" />
+      <rect
+         rx="0"
+         y="745.36218"
+         x="501"
+         height="11.999997"
+         width="2"
+         id="rect23242"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         id="rect23244"
+         width="2"
+         height="11.999997"
+         x="505"
+         y="745.36218"
+         rx="0" />
+      <rect
+         rx="0"
+         y="745.36218"
+         x="509"
+         height="11.999997"
+         width="2"
+         id="rect23246"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="object-rows"
+       transform="matrix(0,1,-1,0,1287.3622,215.36218)"
+       inkscape:label="#g23256">
+      <rect
+         ry="0"
+         style="fill:none;stroke:none"
+         id="rect23248"
+         width="16"
+         height="16"
+         x="528"
+         y="743.36218"
+         rx="0.46966994" />
+      <rect
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         id="rect23250"
+         width="2"
+         height="11.999997"
+         x="531"
+         y="745.36218"
+         rx="0" />
+      <rect
+         rx="0"
+         y="745.36218"
+         x="535"
+         height="11.999997"
+         width="2"
+         id="rect23252"
+         style="fill:#bebebe;fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         id="rect23254"
+         width="2"
+         height="11.999997"
+         x="539"
+         y="745.36218"
+         rx="0" />
     </g>
   </g>
 </svg>
