@@ -8615,19 +8615,84 @@
        y1="86.559517"
        x2="163.1875"
        y2="85.622017" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient17282-2"
+       id="radialGradient16806-1-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0803592,-0.08956605,-0.01476832,1.9704686,-72.996079,-67.482415)"
+       cx="67.898262"
+       cy="86.272835"
+       fx="67.898262"
+       fy="86.272835"
+       r="18.625" />
+    <linearGradient
+       id="linearGradient17282-2">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop17284-2" />
+      <stop
+         id="stop17288-2"
+         offset="0.41722602"
+         style="stop-color:#fafafb;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e3e7ea;stop-opacity:1"
+         offset="0.57299733"
+         id="stop17290-0" />
+      <stop
+         style="stop-color:#dde2e3;stop-opacity:1"
+         offset="1"
+         id="stop17286-1" />
+    </linearGradient>
+    <radialGradient
+       r="18.625"
+       fy="86.272835"
+       fx="67.898262"
+       cy="86.272835"
+       cx="67.898262"
+       gradientTransform="matrix(1.5563912,-0.03604779,-0.00529576,2.0555043,-85.705543,-155.42549)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient17380"
+       xlink:href="#linearGradient17282-2"
+       inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       id="filter17412"
+       x="-0.049250217"
+       width="1.0985004"
+       y="-0.12547079"
+       height="1.2509416">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.82340207"
+         id="feGaussianBlur17414" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter17430"
+       x="-0.20417066"
+       width="1.4083413"
+       y="-0.52014906"
+       height="2.0402981">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.4134782"
+         id="feGaussianBlur17432" />
+    </filter>
   </defs>
   <sodipodi:namedview
      stroke="#ef2929"
      fill="#f57900"
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#494949"
      bordercolor="#666666"
      borderopacity="0.25490196"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="101.87162"
-     inkscape:cy="206.14704"
+     inkscape:cx="65.387299"
+     inkscape:cy="214.82696"
      inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -9789,6 +9854,31 @@
            inkscape:connector-curvature="0" />
       </g>
       <g
+         id="g17434"
+         transform="matrix(1,0,0,0.87170393,0,11.708768)"
+         style="opacity:0.62248996">
+        <path
+           transform="matrix(0.96573209,0,0,0.90958592,1.6859424,4.3824465)"
+           d="m 87.5,93.375 c 0,4.349242 -8.982287,7.875 -20.0625,7.875 -11.080213,0 -20.0625,-3.525758 -20.0625,-7.875 0,-4.349242 8.982287,-7.875 20.0625,-7.875 11.080213,0 20.0625,3.525758 20.0625,7.875 z"
+           sodipodi:ry="7.875"
+           sodipodi:rx="20.0625"
+           sodipodi:cy="93.375"
+           sodipodi:cx="67.4375"
+           id="path17402"
+           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55063653000000001;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter17412);enable-background:new"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55063653000000001;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter17430);enable-background:new"
+           id="path17416"
+           sodipodi:cx="67.4375"
+           sodipodi:cy="93.375"
+           sodipodi:rx="20.0625"
+           sodipodi:ry="7.875"
+           d="m 87.5,93.375 c 0,4.349242 -8.982287,7.875 -20.0625,7.875 -11.080213,0 -20.0625,-3.525758 -20.0625,-7.875 0,-4.349242 8.982287,-7.875 20.0625,-7.875 11.080213,0 20.0625,3.525758 20.0625,7.875 z"
+           transform="matrix(0.96573209,0,0,0.90958592,1.6859424,4.3824465)" />
+      </g>
+      <g
          id="g17039">
         <path
            sodipodi:nodetypes="ccccccsccscscccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccscccccsccsccccccccccccccsc"
@@ -9809,16 +9899,6 @@
       <g
          transform="matrix(1.2268422,0,0,1.0638273,86.744903,-8.4248572)"
          id="g17056">
-        <path
-           transform="matrix(1.094001,0,0,0.97962269,-8.78055,-0.88018481)"
-           d="m 131.375,94.65625 c 0,2.744165 -6.46389,4.96875 -14.4375,4.96875 -7.97361,0 -14.4375,-2.224585 -14.4375,-4.96875 0,-2.744165 6.46389,-4.96875 14.4375,-4.96875 7.97361,0 14.4375,2.224585 14.4375,4.96875 z"
-           sodipodi:ry="4.96875"
-           sodipodi:rx="14.4375"
-           sodipodi:cy="94.65625"
-           sodipodi:cx="116.9375"
-           id="path17058"
-           style="color:#000000;fill:#000000;fill-opacity:0.49773757;fill-rule:nonzero;stroke:none;stroke-width:0.55063653;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter16996);enable-background:new"
-           sodipodi:type="arc" />
         <path
            sodipodi:type="arc"
            style="color:#000000;fill:#000000;fill-opacity:0.49773757;fill-rule:nonzero;stroke:none;stroke-width:0.55063653;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter16986);enable-background:new"
@@ -9847,7 +9927,7 @@
            sodipodi:type="arc" />
         <path
            sodipodi:type="arc"
-           style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+           style="color:#000000;fill:url(#radialGradient16806-1-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60431818000000004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
            id="path17064"
            sodipodi:cx="69.125"
            sodipodi:cy="83.5"
