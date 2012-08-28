@@ -8788,6 +8788,18 @@
        y2="137.43565"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.95232323,0,6.0644515)" />
+    <filter
+       inkscape:collect="always"
+       id="filter17777"
+       x="-0.67233202"
+       width="2.344664"
+       y="-0.26893281"
+       height="1.5378656">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.49024209"
+         id="feGaussianBlur17779" />
+    </filter>
   </defs>
   <sodipodi:namedview
      stroke="#ef2929"
@@ -8799,8 +8811,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="102.8362"
-     inkscape:cy="160.08068"
+     inkscape:cx="52.619027"
+     inkscape:cy="153.23152"
      inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -10236,6 +10248,12 @@
            d="m 18.384776,127.024 -1.679378,2.65165 0,12.02082 1.502602,1.5026 z"
            style="color:#000000;fill:#171a1b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55063653;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter17718);enable-background:new" />
       </g>
+      <path
+         style="color:#000000;fill:#474845;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55063653;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter17777);enable-background:new"
+         d="m 43.875,144.75 -1.75,1.25 1.5,1.125 -1.5,0.5 1.375,1.5 z"
+         id="path17763"
+         inkscape:connector-curvature="0"
+         transform="matrix(1,0,0,1.3715725,0,-54.847934)" />
     </g>
   </g>
 </svg>
