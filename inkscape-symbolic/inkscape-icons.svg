@@ -21,10 +21,14 @@
      id="title9623">Inkscape Icon Theme</title>
   <defs
      id="defs15640">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect36695"
+       is_visible="true" />
     <linearGradient
        id="linearGradient19282"
        osb:paint="solid"
-       gradientTransform="matrix(-2.934741,0.40810354,-0.20277501,-1.4468561,189.7526,-1703.6896)">
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
       <stop
          style="stop-color:#707070;stop-opacity:1;"
          offset="0"
@@ -169,12 +173,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="650.2114"
-     inkscape:cy="483.01133"
+     inkscape:zoom="32"
+     inkscape:cx="920.65933"
+     inkscape:cy="478.45339"
      inkscape:document-units="px"
-     inkscape:current-layer="snap"
-     showgrid="false"
+     inkscape:current-layer="layer1"
+     showgrid="true"
      inkscape:window-width="2560"
      inkscape:window-height="1381"
      inkscape:window-x="1600"
@@ -11984,14 +11988,17 @@
     </g>
     <g
        id="g21235"
-       inkscape:label="#spiro_splines_mode">
+       inkscape:label="#spiro_splines_mode"
+       transform="matrix(0.99891794,0,0,1,0.99441289,0)">
       <path
          inkscape:label="#spiro_splines_mode"
          sodipodi:nodetypes="cccccccs"
          id="path-mode-spiro"
-         d="m 923.4523,568.42273 c -2.0587,-0.26143 -3.7811,-2.06569 -3.9403,-4.13575 -0.2323,-2.06273 1.1189,-4.16029 3.0929,-4.80202 1.9506,-0.71096 4.3057,0.11085 5.3951,1.87722 0.6818,1.02879 0.8348,2.31056 0.6716,3.51285 -0.1753,1.20282 0.3156,2.52456 1.3984,3.14493 1.3484,0.86476 3.329,0.33454 4.065,-1.08834 0.8134,-1.38006 0.2089,-3.33927 -1.2407,-4.02117"
-         style="color:#000000;fill:none;stroke:url(#linearGradient19282);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline"
-         inkscape:connector-curvature="0" />
+         d="m 923.69844,568.42273 c -0.95787,-0.22178 -1.84298,-0.7475 -2.49599,-1.48253 -0.65301,-0.73504 -1.07084,-1.6759 -1.17826,-2.65322 -0.13107,-1.1925 0.2121,-2.43884 0.97109,-3.36791 0.75899,-0.92907 1.93209,-1.51841 3.13173,-1.52786 0.79617,-0.006 1.59409,0.23855 2.2435,0.69921 0.6494,0.46065 1.14576,1.13612 1.38105,1.89676 0.28661,0.92653 0.18587,1.92283 0.28251,2.88785 0.0617,0.61608 0.20706,1.22899 0.48486,1.78233 0.27781,0.55334 0.69344,1.04572 1.22536,1.3626 0.64955,0.38696 1.45978,0.49184 2.18781,0.28779 0.72802,-0.20406 1.36439,-0.71307 1.72772,-1.37613 0.32431,-0.59184 0.4307,-1.30001 0.29461,-1.96102 -0.13609,-0.661 -0.51357,-1.26955 -1.04529,-1.68515"
+         style="color:#000000;fill:none;stroke:url(#linearGradient19282);stroke-width:2.00108314;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect36695"
+         inkscape:original-d="m 923.69844,568.42273 c -1.9197,-0.26143 -3.5258,-2.06569 -3.67425,-4.13575 -0.2166,-2.06273 2.26211,-4.25404 4.10282,-4.89577 1.81889,-0.71096 2.60872,0.8296 3.62455,2.59597 0.63577,1.02879 0.43469,1.68556 0.28251,2.88785 -0.16347,1.20282 0.70054,2.52456 1.71022,3.14493 1.25735,0.86476 3.22922,0.33454 3.91553,-1.08834 0.75848,-1.38006 0.60104,-2.96427 -0.75068,-3.64617" />
       <rect
          transform="translate(0,512.36218)"
          y="45"
@@ -11999,7 +12006,7 @@
          height="16"
          width="16"
          id="rect21233"
-         style="fill:none;fill-opacity:1;stroke:none" />
+         style="fill:none;stroke:none" />
     </g>
     <g
        id="path-mode-polyline"
