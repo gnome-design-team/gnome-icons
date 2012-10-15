@@ -61,8 +61,8 @@
      height="300px"
      id="base"
      inkscape:current-layer="g4612"
-     inkscape:cx="236.02604"
-     inkscape:cy="103.82"
+     inkscape:cx="81.664185"
+     inkscape:cy="140.05224"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:guide-bbox="true"
@@ -506,28 +506,6 @@
        fx="17.320858"
        fy="6.8678637"
        r="20.530962" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient24282-6-41-0-9-7-9-0-2-8"
-       id="linearGradient11015-8-5-6-1-8"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0560343,0,0,1.4643479,0.64239738,-26.932173)"
-       x1="869.92859"
-       y1="69.418068"
-       x2="869.92859"
-       y2="45" />
-    <linearGradient
-       id="linearGradient24282-6-41-0-9-7-9-0-2-8"
-       inkscape:collect="always">
-      <stop
-         id="stop24284-0-7-6-6-6-7-1-3-8"
-         offset="0"
-         style="stop-color:#f4f4f4;stop-opacity:1" />
-      <stop
-         id="stop24286-1-0-4-3-6-8-5-8-7"
-         offset="1"
-         style="stop-color:#889d9d;stop-opacity:1" />
-    </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath24775-1-1-2">
@@ -589,19 +567,6 @@
          id="rect24777-2-9-4-2"
          style="fill:#202626;fill-opacity:1;stroke:none;display:inline" />
     </clipPath>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter16495-3"
-       x="-0.012759177"
-       width="1.0255184"
-       y="-0.20600305"
-       height="1.4120061">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.6777847"
-         id="feGaussianBlur16497-2" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient94148"
@@ -611,6 +576,26 @@
        x2="150.33179"
        y2="649.3111"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter94187"
+       x="-0.020414683"
+       width="1.0408294"
+       y="-0.3296049"
+       height="1.6592098">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.6844556"
+         id="feGaussianBlur94189" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter94213">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.69716526"
+         id="feGaussianBlur94215" />
+    </filter>
   </defs>
   <g
      id="layer6"
@@ -920,8 +905,16 @@
              id="path10087-3"
              transform="matrix(1.0087403,0,0,1.0058907,447.65037,1.6527967)"
              d="M 370.44179,39.453284 C 348.49479,39.453284 355,47.670639 355,57 c 0,0.679744 0.0475,1.341767 0.125,2 0.9867,-8.375885 6.66717,-14.84375 15.31679,-14.84375 l 283.29167,0 c 8.64962,0 14.15484,6.467865 15.14154,14.84375 0.0775,-0.658233 0.125,-1.320256 0.125,-2 0,-9.329361 5.62899,-17.546716 -15.26654,-17.546716 z"
-             style="opacity:0.35341366;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter16495-3)"
+             style="opacity:0.15853659;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter94187)"
              sodipodi:nodetypes="sscsscsss" />
+          <path
+             sodipodi:nodetypes="sscsscsss"
+             style="opacity:0.15853660000000000;fill:#000000;fill-opacity:1;stroke:none;display:inline;filter:url(#filter94213)"
+             d="m 606.07018,39.453284 c -21.947,0 -15.44179,8.217355 -15.44179,17.546716 0,0.679744 0.0475,1.341767 0.125,2 0.9867,-8.375885 6.66717,-17.12386 15.31679,-17.12386 l 46.48097,0 c 8.64962,0 15.33715,8.747975 16.32385,17.12386 0.0775,-0.658233 0.125,-1.320256 0.125,-2 0,-9.329361 5.62899,-17.546716 -15.26654,-17.546716 z"
+             transform="matrix(1.0087403,0,0,1.0058907,447.65037,1.6527967)"
+             id="path94191"
+             clip-path="url(#clipPath24775-1-1-2-0)"
+             inkscape:connector-curvature="0" />
         </g>
         <g
            transform="matrix(5.3310286,0,0,5.3310286,-646.98614,-3333.642)"
