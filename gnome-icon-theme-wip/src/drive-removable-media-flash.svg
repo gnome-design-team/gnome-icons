@@ -67,8 +67,8 @@
      height="300px"
      id="base"
      inkscape:current-layer="layer11"
-     inkscape:cx="153.78157"
-     inkscape:cy="110.05098"
+     inkscape:cx="147.28869"
+     inkscape:cy="88.409948"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:pageopacity="0.0"
@@ -1732,22 +1732,6 @@
        fx="226"
        fy="166.28125"
        r="7.8124952" />
-    <filter
-       inkscape:collect="always"
-       id="filter2471">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.4125"
-         id="feGaussianBlur2473" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter2524">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.825"
-         id="feGaussianBlur2526" />
-    </filter>
     <linearGradient
        y2="20.88866"
        x2="-184.71634"
@@ -1889,6 +1873,14 @@
        id="linearGradient3784"
        xlink:href="#linearGradient3727-5-3"
        inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       id="filter3855">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.4125"
+         id="feGaussianBlur3857" />
+    </filter>
   </defs>
   <g
      id="layer1"
@@ -2999,7 +2991,8 @@
       </g>
       <g
          id="g2511"
-         style="opacity:0.319;stroke:#000000;filter:url(#filter2524)">
+         style="opacity:0.134;stroke:#000000;filter:url(#filter3855)"
+         transform="translate(0,-1)">
         <rect
            y="191"
            x="72"
@@ -3053,11 +3046,99 @@
            id="rect2253-4-3-3-2-0-7"
            style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;clip-rule:nonzero" />
       </g>
-      <path
-         style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;clip-rule:nonzero;opacity:0.5;filter:url(#filter2471)"
-         d="m 101,181 c -0.554,0 -1,0.446 -1,1 l 0,2 c 0,0.554 0.446,1 1,1 l 1,0 0,1 c 0,0.554 0.446,1 1,1 l 46,0 c 0.554,0 1,-0.446 1,-1 l 0,-1 1,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 c 0,-0.554 -0.446,-1 -1,-1 L 101,181 z m 76,1 c -0.554,0 -1,0.446 -1,1 l 0,2 c 0,0.554 0.446,1 1,1 l 26,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 c 0,-0.554 -0.446,-1 -1,-1 L 177,182 z m -101,8 c -0.554,0 -1,0.446 -1,1 l 0,2 -2,0 c -0.554,0 -1,0.446 -1,1 l 0,7 c 0,0.554 0.446,1 1,1 l 86,0 c 0.554,0 1,-0.446 1,-1 l 0,-7 c 0,-0.554 -0.446,-1 -1,-1 l -2,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 L 76,190 z m 105,1 c -0.554,0 -1,0.446 -1,1 l 0,2 -7,0 c -0.554,0 -1,0.446 -1,1 l 0,6 c 0,0.554 0.446,1 1,1 l 42,0 c 0.554,0 1,-0.446 1,-1 l 0,-6 c 0,-0.554 -0.446,-1 -1,-1 l -7,0 0,-2 c 0,-0.554 -0.446,-1 -1,-1 L 181,191 Z"
-         id="rect2253-7"
-         inkscape:connector-curvature="0" />
+      <g
+         id="g4017"
+         transform="translate(0,-20)"
+         style="opacity:0.347">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3803-3"
+           y="215.9444"
+           x="69.273285"
+           style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           xml:space="preserve"><tspan
+             y="215.9444"
+             x="69.273285"
+             id="tspan3805-0"
+             sodipodi:role="line">CF</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3803-5-6"
+           y="201.9444"
+           x="97.273285"
+           style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           xml:space="preserve"><tspan
+             y="201.9444"
+             x="97.273285"
+             id="tspan3805-6-4"
+             sodipodi:role="line">miniSD</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3803-5-7-4"
+           y="201.9444"
+           x="173.27328"
+           style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           xml:space="preserve"><tspan
+             y="201.9444"
+             x="173.27328"
+             id="tspan3805-6-5-7"
+             sodipodi:role="line">microSD</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3803-1-4-1-0"
+           y="205.9444"
+           x="173.52765"
+           style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           xml:space="preserve"><tspan
+             y="205.9444"
+             x="173.52765"
+             id="tspan3805-2-1-6-9"
+             sodipodi:role="line">MMCmicro</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3803-1-31"
+           y="219.9444"
+           x="69.527664"
+           style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           xml:space="preserve"><tspan
+             y="219.9444"
+             x="69.527664"
+             id="tspan3805-2-2"
+             sodipodi:role="line">MD</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3803-1-4-0"
+           y="205.9444"
+           x="97.527664"
+           style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           xml:space="preserve"><tspan
+             y="205.9444"
+             x="97.527664"
+             id="tspan3805-2-1-66"
+             sodipodi:role="line">SD / MMC</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3803-7-0"
+           y="215.9444"
+           x="169.27328"
+           style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           xml:space="preserve"><tspan
+             y="215.9444"
+             x="169.27328"
+             id="tspan3805-4-8"
+             sodipodi:role="line">MS</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3803-1-3-1"
+           y="219.9444"
+           x="169.52765"
+           style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           xml:space="preserve"><tspan
+             y="219.9444"
+             x="169.52765"
+             id="tspan3805-2-4-5"
+             sodipodi:role="line">Duo</tspan></text>
+      </g>
       <path
          style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:url(#linearGradient1660-7-8-0-0);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;clip-rule:nonzero"
          d="M 76 188 C 75.446 188 75 188.446 75 189 L 75 191 L 73 191 C 72.446 191 72 191.446 72 192 L 72 199 C 72 199.554 72.446 200 73 200 L 159 200 C 159.554 200 160 199.554 160 199 L 160 192 C 160 191.446 159.554 191 159 191 L 157 191 L 157 189 C 157 188.446 156.554 188 156 188 L 76 188 z "
@@ -3556,6 +3637,94 @@
          y="180"
          rx="0.53033006"
          ry="0.53033006" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-anchor:end;text-align:end"
+         x="69.273285"
+         y="194.9444"
+         id="text3803"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3805"
+           x="65.225395"
+           y="194.9444">CF</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-anchor:end;text-align:end"
+         x="69.527664"
+         y="198.9444"
+         id="text3803-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3805-2"
+           x="64.225395"
+           y="198.9444">MD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="97.273285"
+         y="180.9444"
+         id="text3803-5"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3805-6"
+           x="97.273285"
+           y="180.9444">miniSD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="97.527664"
+         y="184.9444"
+         id="text3803-1-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3805-2-1"
+           x="97.527664"
+           y="184.9444">SD / MMC</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="173.27328"
+         y="180.9444"
+         id="text3803-5-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3805-6-5"
+           x="173.27328"
+           y="180.9444">microSD</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="173.52765"
+         y="184.9444"
+         id="text3803-1-4-1"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3805-2-1-6"
+           x="173.52765"
+           y="184.9444">MMCmicro</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="169.27328"
+         y="194.9444"
+         id="text3803-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3805-4"
+           x="169.27328"
+           y="194.9444">MS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#888a85;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         x="169.52765"
+         y="198.9444"
+         id="text3803-1-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3805-2-4"
+           x="169.52765"
+           y="198.9444">Duo</tspan></text>
     </g>
   </g>
 </svg>
