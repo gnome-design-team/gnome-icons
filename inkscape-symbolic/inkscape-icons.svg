@@ -21,6 +21,14 @@
      id="title9623">Inkscape Icon Theme</title>
   <defs
      id="defs15640">
+    <linearGradient
+       id="linearGradient16665"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#bfbfbf;stop-opacity:1"
+         offset="0"
+         id="stop16667" />
+    </linearGradient>
     <inkscape:path-effect
        effect="spiro"
        id="path-effect36695"
@@ -174,6 +182,15 @@
          offset="0"
          id="stop19284-2" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16665"
+       id="linearGradient16669"
+       x1="-276"
+       y1="615.86218"
+       x2="-79"
+       y2="615.86218"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -183,8 +200,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="382.82932"
-     inkscape:cy="140.49332"
+     inkscape:cx="253.33674"
+     inkscape:cy="231.61521"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1811,47 +1828,8 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-24.5,501.86218)"
        id="zoom-original"
-       inkscape:label="#g6809">
-      <g
-         transform="matrix(0.996399,0,0,1,95.08523,-222.9354)"
-         id="zoom_1_to_1">
-        <use
-           xlink:href="#g5796"
-           transform="matrix(1,0,0,0.997925,-0.04089,0.477615)"
-           x="0"
-           y="0"
-           id="use5816"
-           width="1250"
-           height="1250" />
-      </g>
-    </g>
-    <g
-       transform="matrix(0.99218952,0,0,1,-23.163302,502.42468)"
-       id="zoom-half-size"
-       inkscape:label="#g6895">
-      <use
-         xlink:href="#g5796"
-         height="1250"
-         width="1250"
-         id="use5818"
-         y="0"
-         x="0"
-         transform="matrix(0.996399,0,0,0.997925,95.044487,-202.45778)" />
-    </g>
-    <g
-       id="g11074"
-       transform="matrix(1,0,0,0.99801946,0,21.076212)" />
-    <g
-       id="g11109" />
-    <g
-       id="g11198" />
-    <g
-       id="g11329"
-       transform="translate(20,0)" />
-    <g
-       id="g11555">
+       inkscape:label="#zoom-original">
       <rect
          y="527.36218"
          x="75"
@@ -1901,23 +1879,6 @@
     </g>
     <g
        id="zoom-fit-selection"
-       inkscape:label="#zoom_selection"
-       transform="translate(-23,19.5)">
-      <g
-         transform="translate(0,20)"
-         id="g11156"
-         inkscape:label="#g11150">
-        <g
-           transform="translate(0,19.96825)"
-           id="g11158">
-          <g
-             transform="matrix(1,0,0,0.99801946,0,21.076212)"
-             id="g11160" />
-        </g>
-      </g>
-    </g>
-    <g
-       id="g15477"
        inkscape:label="">
       <g
          id="g15464">
@@ -2013,27 +1974,6 @@
       </g>
     </g>
     <g
-       id="g11563"
-       inkscape:label="#zoom_select"
-       transform="translate(-23,59.5)">
-      <g
-         inkscape:label="#zoom_selection"
-         id="g11565">
-        <g
-           inkscape:label="#g11150"
-           id="g11567"
-           transform="translate(0,20)">
-          <g
-             id="g11569"
-             transform="translate(0,19.96825)">
-            <g
-               id="g11571"
-               transform="matrix(1,0,0,0.99801946,0,21.076212)" />
-          </g>
-        </g>
-      </g>
-    </g>
-    <g
        transform="translate(-21,80)"
        id="zoom-fit-page"
        inkscape:label="#g11573">
@@ -2101,12 +2041,6 @@
         </g>
       </g>
     </g>
-    <g
-       id="g11647"
-       transform="translate(63,100)" />
-    <g
-       transform="matrix(-1,0,0,1,102,100)"
-       id="g11659" />
     <g
        id="zoom-next"
        inkscape:label="#g11691">
@@ -3021,14 +2955,6 @@
          id="path19346"
          inkscape:connector-curvature="0" />
     </g>
-    <rect
-       style="opacity:0.3;fill:url(#linearGradient19282);fill-opacity:1;stroke:none"
-       id="rect19405"
-       width="0"
-       height="1"
-       x="118"
-       y="617.36218"
-       ry="0" />
     <g
        id="selection-move-to-layer-above"
        inkscape:label="#move_selection_above">
@@ -3533,11 +3459,6 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccc" />
     </g>
-    <g
-       id="g39728" />
-    <g
-       transform="translate(-395.65645,327.01843)"
-       id="g39833" />
     <g
        id="g39928"
        inkscape:label="#delete_layer">
@@ -9518,14 +9439,6 @@
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient19282);fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     </g>
     <use
-       x="0"
-       y="0"
-       id="use4586-2"
-       transform="matrix(0.695835,0,0,0.741921,-99.8199,349.57218)"
-       width="1250"
-       height="1250"
-       xlink:href="#g5772" />
-    <use
        transform="matrix(0.695835,0,0,0.741921,-55.8199,347.07218)"
        x="0"
        y="0"
@@ -15168,7 +15081,7 @@
          style="fill:url(#linearGradient19282);fill-opacity:1;stroke:none" />
     </g>
     <rect
-       style="color:#000000;fill:#707070;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:url(#linearGradient16669);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect18772"
        width="197"
        height="197"
@@ -15212,9 +15125,17 @@
     </g>
     <g
        id="g18770">
+      <rect
+         style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06985806999999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect13506"
+         width="16"
+         height="16"
+         x="75"
+         y="547.36218" />
       <g
          transform="translate(0,20)"
-         id="g11380">
+         id="zoom-half-size"
+         inkscape:label="#g11380">
         <path
            inkscape:connector-curvature="0"
            style="fill:url(#linearGradient19282-9-3-7);fill-opacity:1;stroke:none"
