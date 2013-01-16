@@ -31,8 +31,8 @@
      height="300px"
      id="base"
      inkscape:current-layer="layer2"
-     inkscape:cx="331.18809"
-     inkscape:cy="225.09055"
+     inkscape:cx="246.66136"
+     inkscape:cy="216.92706"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:guide-bbox="true"
@@ -96,6 +96,18 @@
   </metadata>
   <defs
      id="defs3">
+    <linearGradient
+       id="linearGradient11601"
+       inkscape:collect="always">
+      <stop
+         id="stop11603"
+         offset="0"
+         style="stop-color:#c7c7c6;stop-opacity:1" />
+      <stop
+         id="stop11605"
+         offset="1"
+         style="stop-color:#787776;stop-opacity:0;" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient11390">
@@ -2271,7 +2283,7 @@
     </filter>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient11338"
+       xlink:href="#linearGradient11601"
        id="linearGradient11344"
        x1="333"
        y1="68"
@@ -2739,11 +2751,11 @@
          d="m 334.64551,59.57739 c 0,0 -0.97227,0.795495 -0.53033,1.767766 0.44194,0.972272 2.20971,2.740039 2.56327,2.651651 0.35355,-0.08839 0.61871,-0.53033 0.53033,-0.883884 -0.0884,-0.353553 -0.44195,-1.767767 -1.06067,-2.474873 -0.61871,-0.707107 -1.5026,-1.06066 -1.5026,-1.06066 z"
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter11310);enable-background:accumulate" />
       <path
-         transform="matrix(1.1578429,0,0,1.4079856,-52.471482,-28.650102)"
+         transform="matrix(1.1578429,0,0,1.4079856,-52.471482,-29.493852)"
          inkscape:connector-curvature="0"
          id="path11336"
          d="m 328.00916,65.770878 8.83883,0 c 0,0 -0.88388,3.181981 -4.5078,3.270369 -3.62392,0.08839 -4.33103,-3.270369 -4.33103,-3.270369 z"
-         style="color:#000000;fill:url(#linearGradient11344);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter11358);enable-background:accumulate" />
+         style="color:#000000;fill:url(#linearGradient11344);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter11358);enable-background:accumulate;opacity:0.73846154" />
       <path
          sodipodi:type="arc"
          style="opacity:1;color:#000000;fill:none;stroke:url(#radialGradient11599);stroke-width:1.24547231000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
