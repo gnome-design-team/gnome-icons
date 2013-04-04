@@ -45,12 +45,27 @@
         </dc:contributor>
         <dc:source />
         <cc:license
-           rdf:resource="" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
         <dc:date>2013-4-4</dc:date>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
@@ -61,7 +76,7 @@
      guidetolerance="13"
      height="300px"
      id="base"
-     inkscape:current-layer="g11645"
+     inkscape:current-layer="layer4"
      inkscape:cx="175.94253"
      inkscape:cy="155.8558"
      inkscape:document-units="px"
@@ -75,9 +90,9 @@
      inkscape:window-width="2560"
      inkscape:window-x="2560"
      inkscape:window-y="27"
-     inkscape:zoom="2"
+     inkscape:zoom="1"
      objecttolerance="7"
-     pagecolor="#ffffff"
+     pagecolor="#555555"
      showgrid="false"
      stroke="#ef2929"
      width="400px"
