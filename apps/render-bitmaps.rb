@@ -18,7 +18,7 @@ def renderit(file,explicit)
         dir = "hicolor/#{box.attributes['width']}x#{box.attributes['height']}/#{context}"
         out = "#{dir}/#{icon_name.gsub(/$/,'.png')}"
         cmd = "#{INKSCAPE} -i #{box.attributes['id']} -e #{out} #{SRC}/#{file} > /dev/null 2>&1"
-        #File.makedirs(dir) unless File.exists?(dir)
+        File.makedirs(dir) unless File.exists?(dir)
         if (!explicit && File.exists?(out))
           print "-" #skip if PNG exists
         else
