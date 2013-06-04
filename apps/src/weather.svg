@@ -22,6 +22,8 @@
    inkscape:export-filename="/home/lapo/firewall.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000">
+  <title
+     id="title6580">Weather</title>
   <sodipodi:namedview
      stroke="#ef2929"
      fill="#f57900"
@@ -32,15 +34,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="316.96428"
+     inkscape:cx="318.96428"
      inkscape:cy="112.71484"
      inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-width="2560"
+     inkscape:window-height="1381"
      inkscape:window-x="0"
      inkscape:window-y="27"
      width="400px"
@@ -77,8 +79,6 @@
        id="grid11592"
        type="xygrid" />
   </sodipodi:namedview>
-  <title
-     id="title4872">Firewall</title>
   <defs
      id="defs3">
     <linearGradient
@@ -1669,9 +1669,14 @@
         <dc:source />
         <cc:license
            rdf:resource="" />
-        <dc:title>Firewall</dc:title>
+        <dc:title>Weather</dc:title>
         <dc:subject>
-          <rdf:Bag />
+          <rdf:Bag>
+            <rdf:li>weather</rdf:li>
+            <rdf:li>app</rdf:li>
+            <rdf:li>sun</rdf:li>
+            <rdf:li>cloud</rdf:li>
+          </rdf:Bag>
         </dc:subject>
         <dc:date />
         <dc:rights>
