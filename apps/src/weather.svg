@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-40.99638"
-     inkscape:cy="137.35137"
+     inkscape:cx="70.50362"
+     inkscape:cy="105.35137"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -242,15 +242,6 @@
          id="path7282-8"
          d="m 45.214285,23.142857 a 22.142857,22.142857 0 1 1 -44.2857133,0 22.142857,22.142857 0 1 1 44.2857133,0 z" />
     </clipPath>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter7290-0">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.4228342"
-         id="feGaussianBlur7292-1" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5150-9-8">
@@ -1549,24 +1540,6 @@
          offset="1"
          id="stop25924-1-0-6-9-8-9-1" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter7362-4">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.9079709"
-         id="feGaussianBlur7364-7" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter25454-2-2-1-8-8-2-8-1">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.5113054"
-         id="feGaussianBlur25456-1-9-0-8-7-2-5-3" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4014-9"
@@ -1590,15 +1563,6 @@
          offset="1"
          id="stop4018-8" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter25378-7-5-8-2-7-0-7-4">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.4734375"
-         id="feGaussianBlur25380-5-7-4-6-6-8-3-1" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient26872-8-2-6-2-9-3-7"
@@ -1621,46 +1585,6 @@
          offset="1"
          id="stop26876-4-8-4-6-0-7-2" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter26868-5-7-5-7-3-7-4">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.395758"
-         id="feGaussianBlur26870-6-6-7-6-5-5-1" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter7378-5">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.48006039"
-         id="feGaussianBlur7380-1" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter25378-7-0-3-7-3-8-1-7-0">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.4734375"
-         id="feGaussianBlur25380-5-8-1-9-2-8-6-2-3" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter27205-7-2-3-3-6-3-2"
-       x="-0.041794226"
-       width="1.0835885"
-       y="-0.15519226"
-       height="1.3103845">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.0893812"
-         id="feGaussianBlur27207-6-6-8-4-3-6-0" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient28273-4"
@@ -2035,10 +1959,11 @@
      inkscape:groupmode="layer"
      style="display:inline">
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="baseplate"
        id="layer2"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <rect
          inkscape:label="48x48"
          y="51.99633"
