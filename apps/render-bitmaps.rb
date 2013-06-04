@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require "rexml/document"
-require "fileutils"
+require "ftools"
 include REXML
 INKSCAPE = '/usr/bin/inkscape'
 SRC = "./src"
