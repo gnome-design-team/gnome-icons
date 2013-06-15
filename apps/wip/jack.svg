@@ -32,9 +32,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-429.73983"
-     inkscape:cy="444.16018"
-     inkscape:current-layer="g4135"
+     inkscape:cx="-391.11801"
+     inkscape:cy="451.70255"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -50,7 +50,7 @@
      gridtolerance="10000"
      inkscape:object-nodes="true"
      inkscape:snap-grids="true"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="0"
      inkscape:snap-bbox-midpoints="true"
@@ -103,6 +103,18 @@
      id="title4872">Firewall</title>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6549">
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="0"
+         id="stop6551" />
+      <stop
+         style="stop-color:#555753;stop-opacity:1"
+         offset="1"
+         id="stop6553" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient6314">
@@ -1902,7 +1914,7 @@
          style="stop-color:#d3d7cf;stop-opacity:1" />
       <stop
          id="stop6272-6"
-         offset="0.49229833"
+         offset="0.41468716"
          style="stop-color:#555753;stop-opacity:1" />
       <stop
          id="stop6270-6"
@@ -1957,7 +1969,7 @@
          style="stop-color:#d3d7cf;stop-opacity:1" />
       <stop
          id="stop6272-6-8"
-         offset="0.49229833"
+         offset="0.41468716"
          style="stop-color:#555753;stop-opacity:1" />
       <stop
          id="stop6270-6-4"
@@ -2012,7 +2024,7 @@
          style="stop-color:#d3d7cf;stop-opacity:1" />
       <stop
          id="stop6272-6-8-6"
-         offset="0.49229833"
+         offset="0.4127942"
          style="stop-color:#555753;stop-opacity:1" />
       <stop
          id="stop6270-6-4-6"
@@ -2046,6 +2058,15 @@
          offset="1"
          id="stop6318-9-1-6" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6549"
+       id="linearGradient6555"
+       x1="-378.79196"
+       y1="77.825363"
+       x2="-375.37521"
+       y2="125.091"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -2412,7 +2433,7 @@
       </g>
       <path
          sodipodi:type="arc"
-         style="color:#000000;fill:#888a85;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:url(#linearGradient6555);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path3792-2-0-8"
          sodipodi:cx="-376.6875"
          sodipodi:cy="106.9375"
