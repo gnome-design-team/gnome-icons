@@ -32,8 +32,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-32.098078"
-     inkscape:cy="276.47881"
+     inkscape:cx="397.58813"
+     inkscape:cy="-58.705069"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -2175,6 +2175,45 @@
          stdDeviation="1.6259769"
          id="feGaussianBlur19065" />
     </filter>
+    <linearGradient
+       y2="120.04162"
+       x2="143.10715"
+       y1="115.48645"
+       x1="143.10715"
+       gradientTransform="translate(0,-20.000004)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient15421-3"
+       xlink:href="#linearGradient15238-3-3-5"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient15238-3-3-5">
+      <stop
+         style="stop-color:#afada2;stop-opacity:1"
+         offset="0"
+         id="stop15240-5-7-1" />
+      <stop
+         style="stop-color:#aaafa2;stop-opacity:0;"
+         offset="1"
+         id="stop15242-3-8-6" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter19127">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.22948738"
+         id="feGaussianBlur19129" />
+    </filter>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask19131">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m -34.8125,67.84375 c -7.855357,0 -15.210428,1.721255 -20.84375,8.8125 A 2.50025,2.50025 0 0 0 -56,77.21875 l -8.3125,18.6875 a 2.50025,2.50025 0 1 0 4.5625,2.03125 l 8.125,-18.28125 c 4.597627,-5.695906 9.651924,-6.8125 16.8125,-6.8125 3.642741,0 7.037122,0.27392 9.8125,1.25 2.747801,0.966381 4.892053,2.516553 6.53125,5.3125 L -9.9375,98.5625 a 2.50025,2.50025 0 1 0 4.5625,-2.03125 l -8.59375,-19.3125 a 2.50025,2.50025 0 0 0 -0.09375,-0.25 c -2.245495,-3.889307 -5.60099,-6.27917 -9.25,-7.5625 -3.64901,-1.28333 -7.603231,-1.5625 -11.5,-1.5625 z"
+         id="path19133"
+         inkscape:connector-curvature="0" />
+    </mask>
   </defs>
   <metadata
      id="metadata4">
@@ -3227,6 +3266,13 @@
          id="path6083-4-4-3-62-2-5-6"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cczcc" />
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.2;color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter19127);enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m -34.8125,67.84375 c -7.855357,0 -15.210428,1.721255 -20.84375,8.8125 A 2.50025,2.50025 0 0 0 -56,77.21875 l -8.3125,18.6875 a 2.50025,2.50025 0 1 0 4.5625,2.03125 l 8.125,-18.28125 c 4.597627,-5.695906 9.651924,-6.8125 16.8125,-6.8125 3.642741,0 7.037122,0.27392 9.8125,1.25 2.747801,0.966381 4.892053,2.516553 6.53125,5.3125 L -9.9375,98.5625 a 2.50025,2.50025 0 1 0 4.5625,-2.03125 l -8.59375,-19.3125 a 2.50025,2.50025 0 0 0 -0.09375,-0.25 c -2.245495,-3.889307 -5.60099,-6.27917 -9.25,-7.5625 -3.64901,-1.28333 -7.603231,-1.5625 -11.5,-1.5625 z"
+         id="path6083-4-4-3-62-2-5-6-8-7"
+         inkscape:connector-curvature="0"
+         mask="url(#mask19131)"
+         transform="translate(180,0)" />
       <path
          style="fill:none;stroke:url(#linearGradient15232-8-2);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter15234-4-0);enable-background:new"
          d="m 117.9659,96.04354 8.32359,-18.689058 c 5.13161,-6.459688 11.36569,-7.888486 18.9052,-7.888486 7.53951,0 14.67305,1.149152 18.56401,7.888486 l 8.58331,19.319988"
