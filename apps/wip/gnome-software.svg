@@ -32,8 +32,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="397.58813"
-     inkscape:cy="-58.705069"
+     inkscape:cx="136.62179"
+     inkscape:cy="218.26327"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -1020,19 +1020,6 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
     </mask>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter44990-0"
-       x="-0.09874323"
-       width="1.1974865"
-       y="-1.053261"
-       height="3.1065221">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.3165764"
-         id="feGaussianBlur44992-4" />
-    </filter>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath7348-5">
@@ -2167,14 +2154,6 @@
          d="m 65.116,104.79364 137,0 -4,13 15.26039,9.55857 -158.71154,-0.41886 10.45115,-2.13971 4,-7 c 0,0 0,-7 -4,-13 z"
          style="color:#000000;fill:url(#linearGradient4403);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.44941044;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </clipPath>
-    <filter
-       inkscape:collect="always"
-       id="filter19063">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.6259769"
-         id="feGaussianBlur19065" />
-    </filter>
     <linearGradient
        y2="120.04162"
        x2="143.10715"
@@ -2214,6 +2193,14 @@
          id="path19133"
          inkscape:connector-curvature="0" />
     </mask>
+    <filter
+       inkscape:collect="always"
+       id="filter19160">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6259769"
+         id="feGaussianBlur19162" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -3274,7 +3261,7 @@
          mask="url(#mask19131)"
          transform="translate(180,0)" />
       <path
-         style="fill:none;stroke:url(#linearGradient15232-8-2);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter15234-4-0);enable-background:new"
+         style="fill:none;stroke:url(#linearGradient15232-8-2);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;filter:url(#filter15234-4-0);enable-background:new"
          d="m 117.9659,96.04354 8.32359,-18.689058 c 5.13161,-6.459688 11.36569,-7.888486 18.9052,-7.888486 7.53951,0 14.67305,1.149152 18.56401,7.888486 l 8.58331,19.319988"
          id="path6083-4-4-3-62-2-4-1-7"
          inkscape:connector-curvature="0"
@@ -3637,7 +3624,7 @@
          sodipodi:nodetypes="cczcc" />
       <path
          inkscape:connector-curvature="0"
-         style="opacity:0.5;color:#000000;fill:none;stroke:url(#linearGradient19021);stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter19063)"
+         style="opacity:0.5;color:#000000;fill:none;stroke:url(#linearGradient19021);stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter19160)"
          d="m -164,83 -10.34375,21.9375 C -174.65412,104.97197 -175,105 -175,105 l 3,83 -3.59375,55.34375 c -0.14741,2.26074 1.79696,4.09375 4.0625,4.09375 l 152.625,0 c 2.26554,0 4.06526,-1.82821 4.0625,-4.09375 L -20,188 l 5,-83 -12,-22 -137,0 z"
          id="rect45011-2-2-2-0-3-6-6-3-1-8-5-1"
          clip-path="url(#clipPath17628)"
@@ -3674,6 +3661,15 @@
          y="188"
          ry="1"
          clip-path="url(#clipPath4431-2)" />
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.2"
+         id="rect19053-1"
+         width="41.678764"
+         height="1.05857"
+         x="74.071236"
+         y="184.79364"
+         ry="0"
+         rx="0" />
     </g>
   </g>
 </svg>
