@@ -1474,6 +1474,18 @@
        x2="-115.47562"
        y2="74.656006"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter10027"
+       x="-0.097209908"
+       width="1.1944198"
+       y="-1.447916"
+       height="3.895832">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0131663"
+         id="feGaussianBlur10029" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -2532,7 +2544,7 @@
              height="1.6793786"
              width="25.013903"
              id="rect6502-3"
-             style="opacity:0.32758621;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7316-3);enable-background:accumulate" />
+             style="opacity:0.32758620999999999;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter10027)" />
           <rect
              style="opacity:0.83189655;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter7300-5);enable-background:accumulate"
              id="rect10249-4-5"
