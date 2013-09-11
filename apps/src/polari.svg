@@ -1610,6 +1610,14 @@
          stdDeviation="3.2128514"
          id="feGaussianBlur35005" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter35025">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.4"
+         id="feGaussianBlur35027" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -2111,6 +2119,13 @@
            style="opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.54060954;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4179);enable-background:accumulate"
            d="m 74.854,72 c -24.00356,0 -24,24.000005 -24,24.000005 L 50.854,168 c 0,24 24,24 24,24 l 12,0 -15.85359,32 39.09505,-32 84.75854,0 c 24,0 24,-24 24,-24 l 0,-71.999995 C 218.854,72 194.854,72 194.854,72 z"
            id="path4177" />
+        <path
+           id="path35007"
+           d="m 74.854,72 c -24.00356,0 -24,24.000005 -24,24.000005 L 50.854,168 c 0,24 24,24 24,24 l 12,0 -15.85359,32 39.09505,-32 84.75854,0 c 24,0 24,-24 24,-24 l 0,-71.999995 C 218.854,72 194.854,72 194.854,72 z"
+           style="opacity:0.02040816;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.54060954000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter35025)"
+           inkscape:connector-curvature="0"
+           clip-path="none"
+           sodipodi:nodetypes="scsccccscscs" />
         <path
            sodipodi:nodetypes="scsccccscscs"
            clip-path="none"
