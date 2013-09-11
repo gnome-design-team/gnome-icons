@@ -1594,6 +1594,22 @@
          stdDeviation="0.86920714"
          id="feGaussianBlur34991" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter34993">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.8"
+         id="feGaussianBlur34995" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter35003">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2128514"
+         id="feGaussianBlur35005" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -2048,10 +2064,17 @@
            transform="matrix(-1,0,0,1,292.14641,16)"
            id="g4051">
           <path
+             id="path34997"
+             d="M 72,69 C 47.99644,69 48,93.000005 48,93.000005 L 48,165 c 0,24 24,24 24,24 l 12,0 -15.85359,32 39.09505,-32 L 192,189 c 24,0 24,-24 24,-24 l 0,-71.999995 C 216,69 192,69 192,69 z"
+             style="opacity:0.19183673;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.54060954000000006;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter35003);enable-background:accumulate"
+             inkscape:connector-curvature="0"
+             clip-path="none"
+             sodipodi:nodetypes="scsccccscscs" />
+          <path
              sodipodi:nodetypes="scsccccscscs"
              clip-path="none"
              inkscape:connector-curvature="0"
-             style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.54060954;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3860);enable-background:accumulate"
+             style="opacity:0.77142857;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.54060954000000006;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter34993)"
              d="M 72,68 C 47.99644,68 48,92.000005 48,92.000005 L 48,164 c 0,24 24,24 24,24 l 12,0 -15.85359,32 39.09505,-32 L 192,188 c 24,0 24,-24 24,-24 l 0,-71.999995 C 216,68 192,68 192,68 z"
              id="path4053" />
           <path
@@ -2065,7 +2088,7 @@
              sodipodi:nodetypes="scsccccscscs"
              clip-path="url(#clipPath3868)"
              inkscape:connector-curvature="0"
-             style="fill:none;stroke:url(#linearGradient4085);stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3890);enable-background:accumulate"
+             style="fill:none;stroke:url(#linearGradient4085);stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3890);enable-background:accumulate"
              d="M 72,68 C 47.99644,68 48,92.000005 48,92.000005 L 48,164 c 0,24 24,24 24,24 l 12,0 -15.85359,32 39.09505,-32 L 192,188 c 24,0 24,-24 24,-24 l 0,-71.999995 C 216,68 192,68 192,68 z"
              id="path4065" />
           <path
