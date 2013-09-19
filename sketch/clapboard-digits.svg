@@ -31,7 +31,7 @@
      inkscape:cx="266.5"
      inkscape:cy="407"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
@@ -57,7 +57,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-452.36218)"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:31.67533875px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
@@ -90,54 +90,6 @@
        height="112"
        x="178.5"
        y="589.36218" />
-    <g
-       id="g6225"
-       transform="matrix(1.1886922,0,0,1.1886922,25.946936,-121.87362)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text6191"
-         y="680.67719"
-         x="138.85677"
-         style="font-size:87.74591827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
-         xml:space="preserve"><tspan
-           y="680.67719"
-           x="138.85677"
-           id="tspan6193"
-           sodipodi:role="line">00.</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:87.74591827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
-         x="274.71472"
-         y="680.67719"
-         id="text6195"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan6197"
-           x="274.71472"
-           y="680.67719">59.</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text6199"
-         y="680.67719"
-         x="414.05621"
-         style="font-size:87.74591827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
-         xml:space="preserve"><tspan
-           y="680.67719"
-           x="414.05621"
-           id="tspan6201"
-           sodipodi:role="line">58.</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:87.74591827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cc0000;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
-         x="553.39771"
-         y="680.67719"
-         id="text6203"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan6205"
-           x="553.39771"
-           y="680.67719">09</tspan></text>
-    </g>
     <text
        sodipodi:linespacing="125%"
        id="text6207"
@@ -232,23 +184,23 @@
        sodipodi:linespacing="125%"
        id="text6249"
        y="792.17694"
-       x="881.64514"
+       x="987.64514"
        style="font-size:31.67533875px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
        xml:space="preserve"><tspan
          y="792.17694"
-         x="881.64514"
+         x="987.64514"
          id="tspan6251"
          sodipodi:role="line">SYNC</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:31.67533875px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Lato;-inkscape-font-specification:Lato Bold"
-       x="881.64514"
+       x="987.64514"
        y="858.17694"
        id="text6253"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6255"
-         x="881.64514"
+         x="987.64514"
          y="858.17694">MOS</tspan></text>
     <rect
        y="878.36218"
@@ -376,7 +328,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="emit">
+     inkscape:label="emit"
+     style="display:none">
     <rect
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6415"
@@ -393,7 +346,7 @@
          id="text6191-4"
          y="680.67719"
          x="138.85677"
-         style="font-size:87.74591827000000421px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
+         style="font-size:87.74591827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
          xml:space="preserve"><tspan
            y="680.67719"
            x="138.85677"
@@ -401,7 +354,7 @@
            sodipodi:role="line">00.</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:87.74591827000000421px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
+         style="font-size:87.74591827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
          x="274.71472"
          y="680.67719"
          id="text6195-7"
@@ -415,7 +368,7 @@
          id="text6199-1"
          y="680.67719"
          x="414.05621"
-         style="font-size:87.74591827000000421px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
+         style="font-size:87.74591827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
          xml:space="preserve"><tspan
            y="680.67719"
            x="414.05621"
@@ -423,7 +376,7 @@
            sodipodi:role="line">58.</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:87.74591827000000421px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
+         style="font-size:87.74591827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Digital2;-inkscape-font-specification:Digital2"
          x="553.39771"
          y="680.67719"
          id="text6203-9"
