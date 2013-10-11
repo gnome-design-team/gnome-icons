@@ -77,8 +77,8 @@
      height="300px"
      id="base"
      inkscape:current-layer="g7431"
-     inkscape:cx="263.23882"
-     inkscape:cy="426.3812"
+     inkscape:cx="342.6162"
+     inkscape:cy="461.25452"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:pageopacity="0"
@@ -607,15 +607,6 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
     </clipPath>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter8118-1">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.7295587"
-         id="feGaussianBlur8120-4" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7358-7"
@@ -722,6 +713,14 @@
        y1="-71.808891"
        x2="-1028.8291"
        y2="-252.0246" />
+    <filter
+       inkscape:collect="always"
+       id="filter29002">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4649773"
+         id="feGaussianBlur29004" />
+    </filter>
   </defs>
   <g
      id="layer1"
@@ -892,7 +891,7 @@
            inkscape:connector-curvature="0" />
         <g
            id="g28873"
-           style="opacity:0.7">
+           style="opacity:0.8">
           <path
              sodipodi:nodetypes="ccccc"
              inkscape:connector-curvature="0"
@@ -1477,7 +1476,7 @@
            inkscape:connector-curvature="0" />
         <g
            id="g7824"
-           style="opacity:0.71836733;display:inline;filter:url(#filter8118-1);enable-background:new">
+           style="opacity:0.71836732999999997;display:inline;enable-background:new;filter:url(#filter29002)">
           <path
              inkscape:connector-curvature="0"
              id="path7635"
