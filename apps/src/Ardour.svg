@@ -34,9 +34,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="355.94599"
-     inkscape:cy="188.29581"
-     inkscape:current-layer="layer4"
+     inkscape:cx="106.80385"
+     inkscape:cy="219.71033"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -155,7 +155,7 @@
        inkscape:collect="always"
        id="linearGradient4001">
       <stop
-         style="stop-color:#ef2929;stop-opacity:1"
+         style="stop-color:#cc0000;stop-opacity:1"
          offset="0"
          id="stop4003" />
       <stop
@@ -192,12 +192,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3857"
        id="radialGradient3863"
-       cx="72.045433"
-       cy="102.80257"
-       fx="72.045433"
-       fy="102.80257"
+       cx="72.868698"
+       cy="101.14891"
+       fx="72.868698"
+       fy="101.14891"
        r="122.39787"
-       gradientTransform="matrix(3.6472853,-0.00987672,0.00162423,0.59980449,-322.53936,102.0501)"
+       gradientTransform="matrix(3.5655845,-0.34484986,0.05774159,0.59702092,-322.26214,126.74071)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -1342,7 +1342,7 @@
        fx="291.50653"
        fy="81.936317"
        r="22"
-       gradientTransform="matrix(3.9463261,-0.52272675,0.08063315,0.60874001,-873.48007,182.19346)"
+       gradientTransform="matrix(3.8667806,-0.74999948,0.11692327,0.60282257,-853.26553,248.9298)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -1930,8 +1930,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="baseplate"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect6284"
@@ -2007,13 +2006,6 @@
          style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
-      <image
-         y="32"
-         x="-500"
-         id="image3011"
-         xlink:href="file:///home/lapo/Sorgenti/ardour/icons/icon/ardour_icon_mac.png"
-         height="256"
-         width="256" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -2246,7 +2238,7 @@
          id="path6185-8"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc" />
       <path
-         style="color:#000000;fill:url(#radialGradient6340);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.0999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:url(#radialGradient6340);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.09999989999999981;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 320,56 -22,38 0.5,0 c 0.97147,-0.260601 1.88829,-1.580583 2.84375,-0.84375 1.00638,0.11729 0.72244,-0.982295 0.96875,-1.8125 -0.051,-1.276111 1.18339,-3.515855 2.4375,-1.96875 0.2481,0.717696 -0.0398,1.888042 0.375,2.375 0.37371,0.228628 0.86581,0.05388 0.96875,-0.3125 0.0198,-1.406433 0.19719,-3.124535 0.28125,-4.65625 0.20267,-1.108016 -0.24135,-2.715202 1.09375,-3.21875 1.48468,-0.163249 1.17566,1.542803 1.25,2.5 0.11102,1.609548 0.0824,3.268189 0.28125,4.84375 0.0425,0.09447 0.11448,0.17657 0.21875,0.21875 l 0.0312,0 c 0.31294,0.108768 0.78294,-0.01078 0.8125,-0.375 0.15339,-3.427149 0.31298,-6.854156 0.46875,-10.28125 0.58474,-2.044559 2.54765,-0.263216 2.03125,1.1875 0.1374,2.994259 0.22755,6.017841 0.40625,9 0.0946,0.411361 0.95012,0.426112 1.03125,0.03125 0.19059,-1.33473 0.12107,-2.871597 0.21875,-4.28125 0.15132,-2.553768 0.0898,-5.153592 0.375,-7.6875 1.29276,-1.550135 2.25579,0.589424 1.96875,1.8125 0.14735,3.451201 0.21696,6.935919 0.40625,10.375 0.0957,0.408583 0.90983,0.414996 1.03125,0.0625 0.22189,-2.246895 0.21245,-4.616211 0.34375,-6.90625 0.12773,-1.270149 -0.0591,-2.589943 0.28125,-3.8125 1.49114,-1.411078 2.08437,0.889793 1.90625,2.0625 0.15219,3.022886 0.24526,6.051669 0.4375,9.0625 0.0958,0.408466 0.91011,0.414626 1.03125,0.0625 0.23174,-2.289617 0.23222,-4.698569 0.375,-7.03125 -0.52593,-1.703631 2.25977,-2.403311 2.125,-0.375 0.18779,2.634422 0.23053,5.336479 0.5,7.9375 0.14266,0.358319 0.98301,0.350446 1.03125,-0.09375 0.11722,-0.532608 0.0782,-1.552345 0.15625,-2.28125 0.14529,-1.057234 -0.0557,-2.229169 0.34375,-3.21875 1.56161,-1.255224 2.21587,0.99442 2.09375,2.21875 0.14511,1.308838 0.15615,2.693493 0.375,3.96875 0.14266,0.358319 0.98301,0.350446 1.03125,-0.09375 0.19799,-0.917207 0.0226,-1.966168 0.40625,-2.84375 1.52051,-1.265104 2.36074,0.954043 2.3125,2.21875 0.12934,0.74036 0.0439,1.753054 0.96875,1.5625 0.35075,-0.157718 0.56565,-1.589494 1.35938,-1.390625 1.09541,0.10348 0.57252,1.97778 1.57812,1.796875 0.0366,-0.0038 0.063,-0.01709 0.0937,-0.03125 l 0.0312,0 c 0.26902,-0.15442 0.34317,-0.683251 0.9375,-0.59375 1.16805,0.249014 2.35349,0.642738 3.5625,0.8125 L 342,94 z"
          id="path6185"
          inkscape:connector-curvature="0"
