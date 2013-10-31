@@ -36,7 +36,7 @@
      inkscape:zoom="1"
      inkscape:cx="572.16203"
      inkscape:cy="72.718644"
-     inkscape:current-layer="g4746"
+     inkscape:current-layer="g4538"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -144,21 +144,6 @@
          style="stop-color:#8aafd7;stop-opacity:1"
          offset="1"
          id="stop4944" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4475">
-      <stop
-         id="stop4477"
-         offset="0"
-         style="stop-color:#f36161;stop-opacity:1;" />
-      <stop
-         style="stop-color:#f36161;stop-opacity:1"
-         offset="0.5"
-         id="stop4479" />
-      <stop
-         id="stop4481"
-         offset="1"
-         style="stop-color:#f36161;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -1404,8 +1389,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="baseplate"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect6284"
@@ -1457,7 +1441,7 @@
            sodipodi:role="line"
            x="31.87059"
            y="18.860306"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">context</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">apps</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
@@ -1470,7 +1454,7 @@
            sodipodi:role="line"
            x="302.87057"
            y="18.860306"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">name</tspan></text>
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">ardour3</tspan></text>
       <rect
          inkscape:label="256x256"
          y="32"
@@ -2518,8 +2502,7 @@
        style="display:inline"
        inkscape:label="baseplate"
        id="g4538"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       inkscape:groupmode="layer">
       <rect
          inkscape:label="48x48"
          y="51.99633"
@@ -2571,7 +2554,7 @@
            y="18.860306"
            x="431.871"
            sodipodi:role="line"
-           id="tspan4552">context</tspan></text>
+           id="tspan4552">apps</tspan></text>
       <text
          y="18.860306"
          xml:space="preserve"
@@ -2584,7 +2567,7 @@
            y="18.860306"
            x="702.87097"
            sodipodi:role="line"
-           id="tspan4556">name</tspan></text>
+           id="tspan4556">ardour</tspan></text>
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
