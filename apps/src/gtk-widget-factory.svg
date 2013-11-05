@@ -17,7 +17,7 @@
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gtk-factory.svg"
+   sodipodi:docname="gtk-widget-factory.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
    version="1.0"
@@ -35,7 +35,7 @@
             <dc:title>Jakub Steiner</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:title></dc:title>
+        <dc:title />
         <dc:contributor>
           <cc:Agent>
             <dc:title>Lapo Calamandrei</dc:title>
@@ -61,7 +61,7 @@
      height="300px"
      id="base"
      inkscape:current-layer="layer6"
-     inkscape:cx="173.54531"
+     inkscape:cx="34.04531"
      inkscape:cy="65.638393"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -2458,15 +2458,6 @@
          rx="10.5"
          ry="10.5" />
     </clipPath>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter10990">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.640625"
-         id="feGaussianBlur10992" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient11513">
@@ -2575,24 +2566,6 @@
          rx="11.664204"
          ry="11.664204" />
     </clipPath>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter9919">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.97574092"
-         id="feGaussianBlur9921" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter10106">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.5463125"
-         id="feGaussianBlur10108" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient9735">
@@ -3559,7 +3532,7 @@
        id="layer6"
        inkscape:groupmode="layer"
        inkscape:label="baseplate"
-       style="display:inline">
+       style="display:none">
       <rect
          height="48"
          id="rect6284"
