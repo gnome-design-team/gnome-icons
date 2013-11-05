@@ -4,7 +4,7 @@
 require 'fileutils'
 
 OUT="#{ENV['HOME']}/Desktop/"
-SIZES=['16x16','22x22','24x24','32x32','48x48','512x512']
+SIZES=['16x16','22x22','24x24','32x32','48x48','256x256','512x512']
 if (!ARGV[0].nil? && File.exists?("src/#{ARGV[0]}.svg"))
   SIZES.each do |size|
     if (File.exists?("hicolor/#{size}/apps/#{ARGV[0]}.png"))
