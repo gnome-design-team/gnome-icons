@@ -22,7 +22,7 @@ def renderit(file,explicit)
         puts box.attributes['width']
         if (!explicit && File.exists?(out))
           print "-" #skip if PNG exists
-        elsif (box.attributes['width']==256)
+        elsif (box.attributes['width']=="256")
           system(cmd)
           print "."
           dir = "hicolor/512x512/#{context}"
