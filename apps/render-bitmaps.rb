@@ -21,6 +21,14 @@ def renderit(file,explicit)
         FileUtils.makedirs(dir) unless File.exists?(dir)
         if (!explicit && File.exists?(out))
           print "-" #skip if PNG exists
+        else if (box.attributes['width']==256)
+          system(cmd)
+          print "."
+          dir = "hicolor/512x512/#{context}"
+          out = "#{dir}/#{icon_name.gsub(/$/,'.png')}"
+          cmd = "#{INKSCAPE} -i #{box.attributes['id']} -d 180 -e #{out} #{SRC}/#{file} > /dev/null 2>&1"
+          system(cmd)
+          print "*"          
         else
           system(cmd)
           print "."
