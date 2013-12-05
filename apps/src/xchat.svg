@@ -13,8 +13,8 @@
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
    inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png"
-   width="700"
-   height="600"
+   width="400"
+   height="400"
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
@@ -34,17 +34,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="187.45354"
+     inkscape:cx="47.95354"
      inkscape:cy="292.2429"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="2560"
-     inkscape:window-height="1408"
-     inkscape:window-x="2560"
-     inkscape:window-y="0"
+     inkscape:window-height="1374"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      width="400px"
      height="300px"
      inkscape:snap-nodes="false"
@@ -881,15 +881,6 @@
        x2="146.61787"
        y2="188.83661"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter4814"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="8.7119162"
-         id="feGaussianBlur4816" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4085-4"
@@ -1110,15 +1101,6 @@
        is_visible="true"
        id="path-effect5085-7"
        effect="spiro" />
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4293-5-2">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.264375"
-         id="feGaussianBlur4295-6-9" />
-    </filter>
     <linearGradient
        id="linearGradient13451-4-9-2"
        inkscape:collect="always">
@@ -2181,8 +2163,7 @@
      id="layer3"
      inkscape:label="baseplate"
      style="display:none"
-     transform="translate(0,300)"
-     sodipodi:insensitive="true">
+     transform="translate(0,100)">
     <rect
        style="fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6282"
@@ -2266,7 +2247,7 @@
      inkscape:label="artwork"
      inkscape:groupmode="layer"
      style="display:inline"
-     transform="translate(0,300)">
+     transform="translate(0,100)">
     <g
        id="g4170"
        transform="matrix(1.5541104,0,0,1.5541104,-877.94875,-634.25146)">
