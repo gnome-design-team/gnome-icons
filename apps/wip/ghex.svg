@@ -89,6 +89,18 @@
      id="defs3">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient7129">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7131" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop7133" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient7084">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -806,6 +818,42 @@
          stdDeviation="16.428652"
          id="feGaussianBlur7112" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3914"
+       id="linearGradient7120"
+       gradientUnits="userSpaceOnUse"
+       x1="1.5947827"
+       y1="-5.4605999"
+       x2="1.5947827"
+       y2="6.0020642"
+       gradientTransform="matrix(20.25447,0,0,20.25447,180.92403,241.20325)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7125">
+      <path
+         id="path7127"
+         d="M 218.5,123.875 97.34375,156.34375 64.875,277.5 153.5625,366.21875 121.09375,487.40625 209.8125,576.125 331,543.625 363.46875,422.46875 484.625,390 517.125,268.8125 428.40625,180.09375 307.21875,212.5625 218.5,123.875 z"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7129"
+       id="linearGradient7135"
+       x1="238.125"
+       y1="510.33856"
+       x2="238.125"
+       y2="-26"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter7145">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.4487952"
+         id="feGaussianBlur7147" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -1259,6 +1307,12 @@
          d="M 277.89297,-8.2985564 362.03868,76.554254 284.25693,-9.0056664 308.29856,-113.65747 z"
          style="fill:url(#radialGradient7102);fill-opacity:1;stroke:none;filter:url(#filter7096)"
          transform="matrix(-0.86602541,-0.50000001,-0.50000001,0.86602541,506.40251,136.14351)" />
+      <path
+         style="color:#000000;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient7135);stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7145);opacity:0.55510204"
+         d="M 218.5 123.875 L 97.34375 156.34375 L 64.875 277.5 L 153.5625 366.21875 L 121.09375 487.40625 L 209.8125 576.125 L 331 543.625 L 363.46875 422.46875 L 484.625 390 L 517.125 268.8125 L 428.40625 180.09375 L 307.21875 212.5625 L 218.5 123.875 z "
+         transform="translate(0,-340)"
+         id="path7114"
+         clip-path="url(#clipPath7125)" />
     </g>
   </g>
 </svg>
