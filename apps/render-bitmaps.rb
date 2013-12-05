@@ -19,7 +19,6 @@ def renderit(file,explicit)
         out = "#{dir}/#{icon_name.gsub(/$/,'.png')}"
         cmd = "#{INKSCAPE} -i #{box.attributes['id']} -e #{out} #{SRC}/#{file} > /dev/null 2>&1"
         FileUtils.makedirs(dir) unless File.exists?(dir)
-        puts box.attributes['width']
         if (!explicit && File.exists?(out))
           print "-" #skip if PNG exists
         elsif (box.attributes['width']==256)
