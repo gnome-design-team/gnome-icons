@@ -21,7 +21,7 @@ def renderit(file,explicit)
         FileUtils.makedirs(dir) unless File.exists?(dir)
         if (!explicit && File.exists?(out))
           print "-" #skip if PNG exists
-        else if (box.attributes['width']==256)
+        elseif (box.attributes['width']==256)
           system(cmd)
           print "."
           dir = "hicolor/512x512/#{context}"
