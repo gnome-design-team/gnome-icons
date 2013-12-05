@@ -33,9 +33,9 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="206.80066"
-     inkscape:cy="234.99897"
+     inkscape:zoom="1"
+     inkscape:cx="126.80066"
+     inkscape:cy="114.99897"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -89,6 +89,18 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5874">
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="0"
+         id="stop5876" />
+      <stop
+         style="stop-color:#d3d7cf;stop-opacity:1"
+         offset="1"
+         id="stop5878" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4908">
       <stop
@@ -253,6 +265,15 @@
          stdDeviation="0.89"
          id="feGaussianBlur5136-4" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5874"
+       id="linearGradient5880"
+       x1="106"
+       y1="83"
+       x2="148"
+       y2="256"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -495,7 +516,7 @@
            inkscape:connector-curvature="0"
            id="path3902-0-7-9"
            d="m 75,76 c -4.18868,4.2e-4 -7.99958,3.81132 -8,8 l 0,8 c 4.2e-4,4.18868 3.81132,7.99958 8,8 l 4,0 0,140 c 4.2e-4,4.18868 3.81132,7.99958 8,8 l 8.6875,0 c 2.09427,-4e-4 4.21734,-0.89645 5.65625,-2.34375 L 248.5706,97.5706 C 250.1673,95.96458 250.99979,94.09434 251,92 l 0,-8 c -4.2e-4,-4.18868 -3.81132,-7.99958 -8,-8 l -53,0 c -4.18868,4.2e-4 -7.99958,3.81132 -8,8 l 0,8 c 4.2e-4,4.18868 3.81132,7.99958 8,8 l 4,0 -63,64 0,-64 4,0 c 4.18868,-4.2e-4 7.99958,-3.81132 8,-8 l 0,-8 c -4.2e-4,-4.18868 -3.81132,-7.99958 -8,-8 z"
-           style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.79999994999999990;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+           style="color:#000000;fill:url(#linearGradient5880);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.79999994999999990;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
         <path
            style="color:#000000;fill:#888a85;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m 139,92 c -1.8e-4,1.76277 -2.23723,3.99982 -4,4 l -8,0 4,4 4,0 c 4.18868,-4.2e-4 7.99958,-3.81132 8,-8 z"
