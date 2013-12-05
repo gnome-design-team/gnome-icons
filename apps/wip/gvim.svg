@@ -267,18 +267,6 @@
        x2="104.12766"
        y2="-99.500458"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter5086"
-       x="-0.12898551"
-       width="1.257971"
-       y="-0.1379845"
-       height="1.275969">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="9.8888889"
-         id="feGaussianBlur5088" />
-    </filter>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath5130">
@@ -296,6 +284,18 @@
          inkscape:collect="always"
          stdDeviation="0.89"
          id="feGaussianBlur5136" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5142"
+       x="-0.093514493"
+       width="1.187029"
+       y="-0.10003876"
+       height="1.2000775">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.1694444"
+         id="feGaussianBlur5144" />
     </filter>
   </defs>
   <metadata
@@ -512,7 +512,7 @@
            x="140.00714"
            y="-69.296471" />
         <path
-           style="opacity:0.44101124;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.79999994999999990;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5086);enable-background:accumulate"
+           style="opacity:0.44101124000000003;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.79999994999999990;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter5142)"
            d="m 80,78 c -4.18868,4.2e-4 -7.99958,3.81132 -8,8 l 0,8 c 4.2e-4,4.18868 3.81132,7.99958 8,8 l 4,0 0,140 c 4.2e-4,4.18868 3.81132,7.99958 8,8 l 8.6875,0 c 2.09427,-4e-4 4.21734,-0.89645 5.65625,-2.34375 L 253.5706,99.5706 C 255.1673,97.96458 255.99979,96.09434 256,94 l 0,-8 c -4.2e-4,-4.18868 -3.81132,-7.99958 -8,-8 l -53,0 c -4.18868,4.2e-4 -7.99958,3.81132 -8,8 l 0,8 c 4.2e-4,4.18868 3.81132,7.99958 8,8 l 4,0 -63,64 0,-64 4,0 c 4.18868,-4.2e-4 7.99958,-3.81132 8,-8 l 0,-8 c -4.2e-4,-4.18868 -3.81132,-7.99958 -8,-8 z"
            id="path3902-0-7"
            inkscape:connector-curvature="0"
