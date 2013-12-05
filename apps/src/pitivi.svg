@@ -76,9 +76,9 @@
      guidetolerance="13"
      height="300px"
      id="base"
-     inkscape:current-layer="layer4"
-     inkscape:cx="250.78106"
-     inkscape:cy="240.97748"
+     inkscape:current-layer="layer6"
+     inkscape:cx="350"
+     inkscape:cy="300"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      inkscape:pageopacity="0"
@@ -545,14 +545,6 @@
        r="1.604855" />
     <filter
        inkscape:collect="always"
-       id="filter8118">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.7295587"
-         id="feGaussianBlur8120" />
-    </filter>
-    <filter
-       inkscape:collect="always"
        id="filter8156"
        x="-0.050746148"
        width="1.1014923"
@@ -777,13 +769,13 @@
          id="context"
          inkscape:label="context"
          style="font-size:36.60141373px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-         x="55.941467"
+         x="315.94147"
          xml:space="preserve"
          y="-252.97278"
          sodipodi:linespacing="125%"><tspan
            id="tspan2716"
            sodipodi:role="line"
-           x="55.941467"
+           x="315.94147"
            y="-252.97278">apps</tspan></text>
       <text
          id="icon-name"
@@ -798,18 +790,18 @@
            x="527.9707"
            y="-263.48639">pitivi</tspan></text>
       <rect
-         height="512"
+         height="256"
          id="rect6282"
          inkscape:label="256x256"
          style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         width="512"
-         x="46"
-         y="-240"
+         width="256"
+         x="304"
+         y="-236"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          style="opacity:0.4510002;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 46,-240 0,512 36,0 440,0 36,0 0,-36 0,-476 -36,0 0,476 -440,0 0,-476 -36,0 z"
+         d="m 304,-236 0,256.000003 18,0 220,0 18,0 L 560,2.0000029 560,-236 l -18,0 0,238.0000029 -220,0 L 322,-236 l -18,0 z"
          id="rect10603"
          inkscape:connector-curvature="0" />
     </g>
@@ -1395,7 +1387,8 @@
        style="display:inline">
       <g
          id="g7094"
-         clip-path="url(#clipPath28122)">
+         clip-path="url(#clipPath28122)"
+         transform="matrix(0.5,0,0,0.5,281,-116)">
         <g
            id="g8172"
            transform="matrix(1,0,0,0.56432351,-10,106.07364)">
@@ -1441,7 +1434,7 @@
            inkscape:connector-curvature="0"
            id="path7288"
            d="M 97.49897,221.11369 85.21217,-5.94045"
-           style="fill:none;stroke:url(#radialGradient7290);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;opacity:0.57959184" />
+           style="opacity:0.57959182;fill:none;stroke:url(#radialGradient7290);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <path
            style="opacity:0.19183673;fill:none;stroke:url(#radialGradient7294);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="M 515.5012,189.69514 497.20994,-36.95432"
@@ -1452,9 +1445,9 @@
            inkscape:connector-curvature="0"
            id="path7296"
            d="m 432.25,70.344669 -2.25,-44.625 c 0,-1.125 -0.875,-2.25 -2.5,-2.125 L 159.76517,40.558057 c -1.92678,0.102253 -2.55936,1.675476 -2.42678,2.736136 L 160.5,88.719669"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.49387755000000000" />
+           style="opacity:0.49387758;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <path
-           style="fill:none;stroke:url(#radialGradient7306);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;opacity:0.53469388"
+           style="opacity:0.53469388;fill:none;stroke:url(#radialGradient7306);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="M 156.875,42 427.34727,24.85983 c 1.31408,-0.10108 1.96967,0.86742 1.96967,1.99242 l 1.89645,43.82951"
            id="path7298"
            inkscape:connector-curvature="0"
@@ -1463,7 +1456,7 @@
            inkscape:connector-curvature="0"
            id="path7523"
            d="M 155.79486,-25.76622 550.20514,-52.23378"
-           style="opacity:0.28979592;fill:none;stroke:url(#radialGradient7525);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+           style="opacity:0.28979594;fill:none;stroke:url(#radialGradient7525);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
         <path
            style="opacity:0.40408164;fill:none;stroke:url(#radialGradient7529);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="M 116,-79 492,-201"
@@ -1476,7 +1469,7 @@
            inkscape:connector-curvature="0" />
         <g
            id="g7824"
-           style="opacity:0.71836732999999997;display:inline;enable-background:new;filter:url(#filter29002)">
+           style="opacity:0.71836733;display:inline;filter:url(#filter29002);enable-background:new">
           <path
              inkscape:connector-curvature="0"
              id="path7635"
