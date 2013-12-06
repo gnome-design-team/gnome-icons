@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="333.75075"
-     inkscape:cy="286.12735"
+     inkscape:cx="320.52434"
+     inkscape:cy="216.05314"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -1433,14 +1433,6 @@
          stdDeviation="10.428715"
          id="feGaussianBlur20145" />
     </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter20179">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.515"
-         id="feGaussianBlur20181" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient20183"
@@ -2303,15 +2295,6 @@
        xlink:href="#linearGradient10567-55"
        inkscape:collect="always" />
     <linearGradient
-       gradientTransform="translate(0,-1)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient4026-3"
-       id="linearGradient4004-9-8"
-       y2="34.480747"
-       x2="19.567474"
-       y1="38.228374"
-       x1="19.567474" />
-    <linearGradient
        id="linearGradient4026-3">
       <stop
          offset="0"
@@ -2332,46 +2315,14 @@
        id="linearGradient13047"
        xlink:href="#linearGradient4026-3"
        inkscape:collect="always" />
-    <linearGradient
-       y2="34.480747"
-       x2="19.567474"
-       y1="38.228374"
-       x1="19.567474"
-       gradientTransform="translate(308.99998,-17)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient13047-9"
-       xlink:href="#linearGradient4026-3-7"
-       inkscape:collect="always" />
-    <linearGradient
-       id="linearGradient4026-3-7">
-      <stop
-         offset="0"
-         style="stop-color:#ffeeb6;stop-opacity:1"
-         id="stop4028-3-4" />
-      <stop
-         offset="1"
-         style="stop-color:#feeeb7;stop-opacity:1"
-         id="stop4030-8-2" />
-    </linearGradient>
-    <linearGradient
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient3909-3-5"
-       id="linearGradient4004-8-3"
-       y2="6"
-       x2="15"
-       y1="32"
-       x1="15" />
-    <linearGradient
-       id="linearGradient3909-3-5">
-      <stop
-         offset="0"
-         style="stop-color:#fff0bf;stop-opacity:1"
-         id="stop3911-8-5" />
-      <stop
-         offset="1"
-         style="stop-color:#fdde76;stop-opacity:1"
-         id="stop3913-4-0" />
-    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter13157">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.2575"
+         id="feGaussianBlur13159" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -3107,7 +3058,7 @@
          x="12.499991"
          y="-48.290947"
          id="rect20147"
-         style="opacity:0.64751958;color:#000000;fill:none;stroke:url(#linearGradient20189);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter20179);enable-background:accumulate"
+         style="opacity:0.64751957999999998;color:#000000;fill:none;stroke:url(#linearGradient20189);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter13157)"
          clip-path="none" />
       <path
          inkscape:connector-curvature="0"
