@@ -33,10 +33,10 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="75.514785"
-     inkscape:cy="407.24693"
-     inkscape:current-layer="g4006"
+     inkscape:zoom="4"
+     inkscape:cx="95.343458"
+     inkscape:cy="417.16115"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -861,18 +861,6 @@
        fx="-34.616848"
        fy="158.75288"
        r="4.2504813" />
-    <filter
-       inkscape:collect="always"
-       id="filter4957"
-       x="-0.12409517"
-       width="1.2481903"
-       y="-0.43500737"
-       height="1.8700147">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.3698914"
-         id="feGaussianBlur4959" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4395"
@@ -1304,7 +1292,7 @@
            clip-path="none" />
         <path
            transform="matrix(1.2681954,0,0,1.5441177,7.2254488,-85.308829)"
-           d="m -28.75,160 a 4.25,4.25 0 1 1 -8.5,0 4.25,4.25 0 1 1 8.5,0 z"
+           d="m -28.75,160 c 0,2.34721 -1.90279,4.25 -4.25,4.25 -2.34721,0 -4.25,-1.90279 -4.25,-4.25 0,-2.34721 1.90279,-4.25 4.25,-4.25 2.34721,0 4.25,1.90279 4.25,4.25 z"
            sodipodi:ry="4.25"
            sodipodi:rx="4.25"
            sodipodi:cy="160"
@@ -1324,7 +1312,7 @@
            transform="matrix(1.3333334,0,0,1,-107.25,-4.75)" />
         <path
            transform="matrix(0.39975727,0,0,0.48673275,-21.43301,83.872752)"
-           d="m -28.75,160 a 4.25,4.25 0 1 1 -8.5,0 4.25,4.25 0 1 1 8.5,0 z"
+           d="m -28.75,160 c 0,2.34721 -1.90279,4.25 -4.25,4.25 -2.34721,0 -4.25,-1.90279 -4.25,-4.25 0,-2.34721 1.90279,-4.25 4.25,-4.25 2.34721,0 4.25,1.90279 4.25,4.25 z"
            sodipodi:ry="4.25"
            sodipodi:rx="4.25"
            sodipodi:cy="160"
@@ -1334,7 +1322,7 @@
            sodipodi:type="arc" />
         <path
            transform="matrix(1.3529412,0,0,2.0514706,10.709559,-177.20405)"
-           d="m -28.75,160 a 4.25,4.25 0 1 1 -8.5,0 4.25,4.25 0 1 1 8.5,0 z"
+           d="m -28.75,160 c 0,2.34721 -1.90279,4.25 -4.25,4.25 -2.34721,0 -4.25,-1.90279 -4.25,-4.25 0,-2.34721 1.90279,-4.25 4.25,-4.25 2.34721,0 4.25,1.90279 4.25,4.25 z"
            sodipodi:ry="4.25"
            sodipodi:rx="4.25"
            sodipodi:cy="160"
@@ -1540,15 +1528,6 @@
            id="path5096-2"
            inkscape:connector-curvature="0" />
       </g>
-      <use
-         style="display:inline;enable-background:new"
-         x="0"
-         y="0"
-         xlink:href="#g4350"
-         id="use4354-00"
-         transform="matrix(0.98054505,0.19629419,-0.19629419,0.98054505,119.99446,-295.11198)"
-         width="400"
-         height="300" />
       <path
          sodipodi:type="arc"
          style="color:#000000;fill:url(#radialGradient5753);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -1700,6 +1679,18 @@
            style="color:#000000;fill:none;stroke:url(#linearGradient5120);stroke-width:0.86602539;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4643);enable-background:accumulate"
            sodipodi:type="arc" />
       </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 52.75,-163 c 3.549361,-3.29617 6.613951,-3.6837 9.5,-3"
+         id="path3262"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 71.25,-164.5 c 4.580617,-0.87183 6.261634,1.3892 7.75,4"
+         id="path3264"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
     </g>
     <g
        inkscape:groupmode="layer"
