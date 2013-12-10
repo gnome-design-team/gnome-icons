@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="243.57148"
-     inkscape:cy="114.43673"
+     inkscape:cx="147.15284"
+     inkscape:cy="80.385877"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -1607,7 +1607,7 @@
        id="linearGradient4583"
        xlink:href="#linearGradient4908"
        inkscape:collect="always"
-       gradientTransform="translate(2.6197826e-8,1)" />
+       gradientTransform="translate(0,1)" />
     <filter
        inkscape:collect="always"
        id="filter4626">
@@ -1820,6 +1820,46 @@
          inkscape:collect="always"
          stdDeviation="9.9070314"
          id="feGaussianBlur5303" />
+    </filter>
+    <linearGradient
+       y2="-233.5"
+       x2="173.474"
+       y1="-115.64745"
+       x1="178.11537"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4583-4"
+       xlink:href="#linearGradient4908-6"
+       inkscape:collect="always"
+       gradientTransform="translate(2.6197826e-8,1)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4908-6">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop4910-0" />
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:0"
+         offset="1"
+         id="stop4912-0" />
+    </linearGradient>
+    <linearGradient
+       y2="-233.5"
+       x2="173.474"
+       y1="-115.64745"
+       x1="178.11537"
+       gradientTransform="translate(3.4350577e-8,291)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5322"
+       xlink:href="#linearGradient4908-6"
+       inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       id="filter5357">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.4563577"
+         id="feGaussianBlur5359" />
     </filter>
   </defs>
   <metadata
