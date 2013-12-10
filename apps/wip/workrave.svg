@@ -34,9 +34,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="238.63487"
-     inkscape:cy="62.345809"
-     inkscape:current-layer="g4367-4"
+     inkscape:cx="110.13801"
+     inkscape:cy="172.14761"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -85,6 +85,18 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4642">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4644" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4646" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5188">
@@ -1836,16 +1848,6 @@
        xlink:href="#linearGradient4908-6"
        inkscape:collect="always" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4073-1-2"
-       id="linearGradient6642-8"
-       gradientUnits="userSpaceOnUse"
-       x1="235.05789"
-       y1="193.42331"
-       x2="232.63239"
-       y2="214.65495"
-       gradientTransform="translate(0,90)" />
-    <linearGradient
        id="linearGradient4073-1-2">
       <stop
          style="stop-color:#babdb6;stop-opacity:1;"
@@ -1895,15 +1897,6 @@
          offset="1"
          id="stop4077-0-0-7" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4049-0-5"
-       id="linearGradient3627-7-3"
-       gradientUnits="userSpaceOnUse"
-       x1="226.92722"
-       y1="269.88461"
-       x2="223.26758"
-       y2="309.55435" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4049-0-5">
@@ -2142,6 +2135,50 @@
          inkscape:collect="always"
          stdDeviation="1.6878859"
          id="feGaussianBlur4588" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4213-3-2"
+       id="linearGradient4219-7-3"
+       x1="-102.51782"
+       y1="-181.94962"
+       x2="-73.972832"
+       y2="-157.10837"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4213-3-2">
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1;"
+         offset="0"
+         id="stop4215-8-6" />
+      <stop
+         style="stop-color:#555753;stop-opacity:1"
+         offset="1"
+         id="stop4217-0-1" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4642"
+       id="radialGradient4648"
+       cx="-54.340523"
+       cy="-165.75517"
+       fx="-54.340523"
+       fy="-165.75517"
+       r="12.027847"
+       gradientTransform="matrix(2.0393631,1.1847507,-0.56672753,0.97553288,-37.458487,61.111672)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter4666"
+       x="-0.32920461"
+       width="1.6584092"
+       y="-0.35448909"
+       height="1.7089782">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2996856"
+         id="feGaussianBlur4668" />
     </filter>
   </defs>
   <metadata
@@ -2706,7 +2743,7 @@
       <g
          id="g4188"
          clip-path="none"
-         transform="translate(190,284)"
+         transform="translate(189,283)"
          mask="url(#mask5205)">
         <path
            style="color:#000000;fill:url(#linearGradient4219-7);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -3034,7 +3071,7 @@
          id="path4573-9-9-6-3-4" />
       <g
          id="g5035"
-         transform="translate(1,282)">
+         transform="matrix(0.83240877,-0.55416211,0.55416211,0.83240877,64.713415,292.33479)">
         <path
            transform="matrix(1.2085461,0,0,1.15558,-21.992674,17.654029)"
            d="m 66.25,-108.25 c 0,2.48528 -1.231217,4.5 -2.75,4.5 -1.518783,0 -2.75,-2.01472 -2.75,-4.5 0,-2.48528 1.231217,-4.5 2.75,-4.5 1.518783,0 2.75,2.01472 2.75,4.5 z"
