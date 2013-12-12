@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="62.074953"
-     inkscape:cy="151.43213"
+     inkscape:cx="177.59802"
+     inkscape:cy="153.92412"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -43,8 +43,8 @@
      inkscape:showpageshadow="false"
      inkscape:window-width="1062"
      inkscape:window-height="887"
-     inkscape:window-x="89"
-     inkscape:window-y="142"
+     inkscape:window-x="153"
+     inkscape:window-y="107"
      width="400px"
      height="300px"
      inkscape:snap-nodes="false"
@@ -85,6 +85,18 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4802">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4804" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4806" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5509">
@@ -4103,6 +4115,53 @@
          offset="1"
          id="stop5192-1" />
     </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4504-9-2-5"
+       id="radialGradient5295-5"
+       cx="189.46422"
+       cy="-103.47681"
+       fx="189.46422"
+       fy="-103.47681"
+       r="93.422279"
+       gradientTransform="matrix(0.37162962,-0.46866294,2.1567637,2.3824697,342.22872,234.40828)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4504-9-2-5">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop4506-6-1-5" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop4508-4-4-5" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5301-0"
+       x="-0.15489821"
+       width="1.3097965"
+       y="-0.14216368"
+       height="1.2843274">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="9.9070314"
+         id="feGaussianBlur5303-2" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4802"
+       id="radialGradient4808"
+       cx="128.37019"
+       cy="-233.09137"
+       fx="128.37019"
+       fy="-233.09137"
+       r="90.289479"
+       gradientTransform="matrix(0.23676038,1.0809424,-0.84788883,0.26892578,-99.658362,-313.50269)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -4245,7 +4304,7 @@
          d="m 20,32 0,256 256,0 0,-256 -18,0 0,238 -220,0 0,-238 z"
          style="opacity:0.4510002;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          sodipodi:nodetypes="ccccccccc"
-         inkscape:export-filename="/home/lapo/SparkleShare/gnome-icons/apps/wip/whichone.png"
+         inkscape:export-filename="/home/lapo/sillysheep.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
     </g>
