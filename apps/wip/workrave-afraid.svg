@@ -34,17 +34,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="149.18887"
-     inkscape:cy="103.87081"
-     inkscape:current-layer="layer5"
+     inkscape:cx="62.074953"
+     inkscape:cy="151.43213"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1062"
      inkscape:window-height="887"
-     inkscape:window-x="415"
-     inkscape:window-y="160"
+     inkscape:window-x="89"
+     inkscape:window-y="142"
      width="400px"
      height="300px"
      inkscape:snap-nodes="false"
@@ -4044,6 +4044,65 @@
          offset="1"
          id="stop5544-6" />
     </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5691-5"
+       id="radialGradient4360"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.66389385,0.94399379,-1.2037982,0.84660984,229.02866,-59.270364)"
+       cx="86.105621"
+       cy="155.76485"
+       fx="86.105621"
+       fy="155.76485"
+       r="35.015625" />
+    <linearGradient
+       id="linearGradient5691-5">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5693-0" />
+      <stop
+         id="stop5695-8"
+         offset="0.54259759"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop5697-8" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5691-5"
+       id="radialGradient4352"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.66389385,0.94399379,-1.2037982,0.84660984,121.84105,-3.0417639)"
+       cx="86.105621"
+       cy="155.76485"
+       fx="86.105621"
+       fy="155.76485"
+       r="35.015625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5188-9"
+       id="linearGradient5209-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-190,-191)"
+       x1="83.010803"
+       y1="20.678774"
+       x2="86.108292"
+       y2="21.116274" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5188-9">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5190-0" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop5192-1" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata4">
@@ -4104,8 +4163,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="baseplate"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:none">
       <rect
          style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect6284"
@@ -4186,7 +4244,10 @@
          id="path125377"
          d="m 20,32 0,256 256,0 0,-256 -18,0 0,238 -220,0 0,-238 z"
          style="opacity:0.4510002;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:nodetypes="ccccccccc" />
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="/home/lapo/SparkleShare/gnome-icons/apps/wip/whichone.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
     </g>
     <g
        inkscape:groupmode="layer"
