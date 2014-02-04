@@ -39,10 +39,6 @@
          <stop id="stop11883" offset="0.97047549" style="stop-color:#787878;stop-opacity:1" />
          <stop style="stop-color:#f4f4f4;stop-opacity:0;" offset="1" id="stop11871" />
       </linearGradient>
-      <linearGradient inkscape:collect="always" id="linearGradient11657">
-         <stop style="stop-color:#abd7e8;stop-opacity:1" offset="0" id="stop11659" />
-         <stop style="stop-color:#daecf5;stop-opacity:1" offset="1" id="stop11661" />
-      </linearGradient>
       <linearGradient inkscape:collect="always" id="linearGradient11641">
          <stop style="stop-color:#de5050;stop-opacity:1;" offset="0" id="stop11643" />
          <stop style="stop-color:#9c1d1d;stop-opacity:1" offset="1" id="stop11645" />
@@ -268,7 +264,6 @@
       <filter inkscape:collect="always" id="filter11791">
          <feGaussianBlur inkscape:collect="always" stdDeviation="5.711007" id="feGaussianBlur11793" />
       </filter>
-      <linearGradient inkscape:collect="always" xlink:href="#linearGradient11657" id="linearGradient11795" gradientUnits="userSpaceOnUse" x1="161.51172" y1="958.08307" x2="190.11578" y2="571.67981" />
       <linearGradient inkscape:collect="always" xlink:href="#linearGradient7190" id="linearGradient11801" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,1,1927.5682,1.5857861)" x1="1258.6499" y1="844.47284" x2="1265.7211" y2="836.69464" />
       <linearGradient inkscape:collect="always" xlink:href="#linearGradient6751" id="linearGradient11803" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,1,1928.2753,542.77639)" x1="1278.631" y1="134.16043" x2="1278.631" y2="487.38776" />
       <linearGradient inkscape:collect="always" xlink:href="#linearGradient9395" id="linearGradient11805" gradientUnits="userSpaceOnUse" gradientTransform="translate(0,540.36218)" x1="1279.0538" y1="130.65028" x2="1310.0718" y2="482.60858" />
@@ -379,7 +374,7 @@
                   </g>
                   <g style="fill:#cd3a3a;fill-opacity:1" transform="matrix(0.99644613,0.08423258,-0.08423258,0.99644613,67.989429,-18.733365)" id="g7553">
                      <rect y="588.86218" x="97.5" height="415" width="317" id="rect7555" style="color:#000000;fill:#cd3a3a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-                     <rect style="color:#000000;fill:url(#linearGradient11795);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="rect7559" width="317" height="415" x="97.5" y="588.86218" />
+                     <rect style="color:#000000;fill:#efefef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="rect7559" width="317" height="415" x="97.5" y="588.86218" />
                   </g>
                   <g style="fill:#707ccb;fill-opacity:1" transform="matrix(0.99980423,-0.01978628,0.01978628,0.99980423,-17.706925,15.221189)" id="g7537">
                      <rect y="588.86218" x="97.5" height="415" width="317" id="rect7539" style="color:#000000;fill:#707ccb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
@@ -390,7 +385,7 @@
                      <rect style="color:#000000;fill:#f4f4f4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="rect7563" width="317" height="415" x="97.5" y="588.86218" />
                      <rect y="588.86218" x="97.499992" height="415" width="317" id="rect7567" style="color:#000000;fill:url(#linearGradient11873);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
                   </g>
-                  <rect transform="matrix(0.99999215,-0.00396199,0.00396199,0.99999215,0,0)" style="color:#000000;fill:#ced4d7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" id="rect8248" width="317" height="415" x="98.326942" y="593.88605" />
+                  <rect transform="matrix(0.99999215,-0.00396199,0.00396199,0.99999215,0,0)" style="color:#000000;fill:#e2e3e2;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:0.75000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:0.14285715" id="rect8248" width="317" height="415" x="98.326942" y="593.88605" />
                   <g transform="matrix(0.99625146,0.08650454,-0.08650454,0.99625146,85.298406,-27.600188)" id="g8302">
                      <g id="g8298">
                         <path inkscape:connector-curvature="0" id="path8288" d="m 417.95273,747.0525 1.0217,257.8754 -316.99748,1.256 -1.13363,-286.12305 z" style="opacity:0.54183265999999997;color:#000000;fill:#787878;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter8294);enable-background:accumulate;fill-opacity:1" />
