@@ -34,7 +34,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="304.03108"
+     inkscape:cx="303.03108"
      inkscape:cy="103.04366"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -86,6 +86,10 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect27013"
+       is_visible="true" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient15480">
@@ -2042,10 +2046,11 @@
      inkscape:groupmode="layer"
      style="display:inline">
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="baseplate"
        id="layer2"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <rect
          inkscape:label="48x48"
          y="51.99633"
@@ -2122,6 +2127,11 @@
          y="32"
          inkscape:label="256x256"
          inkscape:export-filename="/home/lapo/SparkleShare/tango-icons/apps/wip/checkthisout.png" />
+      <path
+         style="opacity:0.4510002;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 20,32 0,256 18,0 220,0 18,0 0,-18 0,-238 -18,0 0,238 -220,0 0,-238 -18,0 z"
+         id="rect10603"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        style="display:inline"
@@ -2132,6 +2142,30 @@
        style="display:inline"
        inkscape:label="hires"
        id="layer5"
-       inkscape:groupmode="layer" />
+       inkscape:groupmode="layer">
+      <path
+         style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;paint-order:normal;marker:none;visibility:visible;display:inline;overflow:visible;isolation:auto;mix-blend-mode:normal;enable-background:accumulate;clip-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+         d="M 190.26367 143.81836 C 185.92823 143.81836 182.66998 144.1179 180.70898 144.85352 C 178.93863 145.51762 176.50714 147.32879 173.66992 150.16602 L 135.36914 188.4668 C 132.29535 191.54059 128.2621 195.38306 122.21484 197.77734 C 116.25552 200.13681 110.81532 200.16797 106.61719 200.16797 L 62.578125 200.16797 L 62.578125 238.92578 C 62.578125 243.05184 65.54386 246.01758 69.669922 246.01758 L 226.33008 246.01758 C 230.45614 246.01758 233.42188 243.05184 233.42188 238.92578 L 233.42188 182.38672 L 271.50781 182.38672 L 233.42188 160.39844 L 233.42188 143.81836 L 190.26367 143.81836 z "
+         id="path27016" />
+      <rect
+         ry="21"
+         rx="21"
+         y="50.037769"
+         x="-500.96222"
+         height="219.9245"
+         width="219.9245"
+         id="rect27009"
+         style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;paint-order:normal;marker:none;visibility:visible;display:inline;overflow:visible;isolation:auto;mix-blend-mode:normal;enable-background:accumulate;clip-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path27011"
+         d="m -573,192 149,0 64,-64 105,0 0,-118 -313,0 z"
+         style="opacity:0.45500004;color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#204a87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;paint-order:normal;marker:none;visibility:visible;display:inline;overflow:visible;isolation:auto;mix-blend-mode:normal;enable-background:accumulate;clip-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
+      <path
+         style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;paint-order:normal;marker:none;visibility:visible;display:inline;overflow:visible;isolation:auto;mix-blend-mode:normal;enable-background:accumulate;clip-rule:nonzero;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+         d="M 69.669922 83.945312 C 65.543861 83.945312 62.578125 86.911049 62.578125 91.037109 L 62.578125 104 L 20 104 L 62.578125 128.58203 L 62.578125 186.14453 L 105.73633 186.14453 C 110.07177 186.14453 113.33002 185.84499 115.29102 185.10938 C 117.06137 184.44527 119.49286 182.6341 122.33008 179.79688 L 160.63086 141.49609 C 163.70465 138.42231 167.7379 134.57983 173.78516 132.18555 C 179.74448 129.82608 185.18468 129.79492 189.38281 129.79492 L 233.42188 129.79492 L 233.42188 91.037109 C 233.42188 86.911049 230.45614 83.945312 226.33008 83.945312 L 69.669922 83.945312 z "
+         id="path27023" />
+    </g>
   </g>
 </svg>
