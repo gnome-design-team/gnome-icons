@@ -20,10 +20,17 @@
   <defs
      id="defs44813">
     <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern24646"
-       id="pattern26135"
-       patternTransform="matrix(0.15367722,0,0,0.15367722,63.563653,955.11601)" />
+       inkscape:stockid="Wavy white"
+       id="Wavywhite"
+       height="5.1805778"
+       width="30.066020"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <path
+         id="path8622"
+         d="M 7.597,0.061 C 5.079,-0.187 2.656,0.302 -0.01,1.788 L -0.01,3.061 C 2.773,1.431 5.173,1.052 7.472,1.280 C 9.770,1.508 11.969,2.361 14.253,3.218 C 18.820,4.931 23.804,6.676 30.066,3.061 L 30.062,1.788 C 23.622,5.497 19.246,3.770 14.691,2.061 C 12.413,1.207 10.115,0.311 7.597,0.061 z "
+         style="fill:white;stroke:none;" />
+    </pattern>
     <pattern
        patternUnits="userSpaceOnUse"
        width="1347.3054"
@@ -72,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,15 +97,17 @@
          id="path35890"
          cx="153.50002"
          cy="254.8622"
-         r="41.510784" />
+         r="41.510784"
+         d="m 195.0108,254.8622 a 41.510784,41.510784 0 0 1 -41.51078,41.51078 41.510784,41.510784 0 0 1 -41.51079,-41.51078 41.510784,41.510784 0 0 1 41.51079,-41.51079 41.510784,41.510784 0 0 1 41.51078,41.51079 z" />
     </g>
     <circle
        transform="matrix(0.99604777,0.08881911,-0.08881911,0.99604777,0,0)"
        id="path35892"
-       style="color:#000000;fill:url(#pattern26135);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;fill:url(#Wavywhite);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        cx="137.18282"
        cy="996.26819"
-       r="41.904942" />
+       r="41.904942"
+       d="m 179.08776,996.26819 a 41.904942,41.904942 0 0 1 -41.90494,41.90491 41.904942,41.904942 0 0 1 -41.904946,-41.90491 41.904942,41.904942 0 0 1 41.904946,-41.90494 41.904942,41.904942 0 0 1 41.90494,41.90494 z" />
     <g
        style="fill:none;stroke:#ffffff;stroke-width:1.7509799;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="g47321"
