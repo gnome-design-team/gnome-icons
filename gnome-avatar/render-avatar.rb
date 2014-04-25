@@ -5,12 +5,15 @@ include REXML
 INKSCAPE = "/usr/bin/inkscape"
 TEMPLATE = "avatar.svg"
 OUT = "avatar.png"
+ABSPREFIX = Dir.pwd
 
 def render(image)
   templatexml = Document.new(File.new(TEMPLATE,'r'))
   #puts templatexml
   templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href'] = image
-  puts templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href']
+  template.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref'] = 
+    "file://#{ABSPREFIX}/#{image}"
+  puts template.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref']
   exec = "#{INKSCAPE} -e #{OUT} #{TEMPLATE}"
   system(exec)
 end
