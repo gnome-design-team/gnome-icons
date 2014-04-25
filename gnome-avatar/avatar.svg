@@ -14,11 +14,16 @@
    height="96"
    id="svg44811"
    version="1.1"
-   inkscape:version="0.48+devel r13295"
+   inkscape:version="0.91 r13301 custom"
    viewBox="0 0 96 96.000001"
    sodipodi:docname="avatar.svg">
   <defs
      id="defs44813">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#avatarpattern"
+       id="pattern7979"
+       patternTransform="matrix(0.09986353,0,0,0.09986353,84.943239,952.58244)" />
     <pattern
        patternUnits="userSpaceOnUse"
        width="1347.3054"
@@ -41,20 +46,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="66.31985"
-     inkscape:cy="48.871104"
+     inkscape:zoom="2"
+     inkscape:cx="-107.22357"
+     inkscape:cy="42.696969"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:snap-page="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1374"
+     inkscape:window-width="2391"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-y="182"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid47325" />
@@ -91,11 +96,10 @@
     <circle
        transform="matrix(0.99604777,0.08881911,-0.08881911,0.99604777,0,0)"
        id="path35892"
-       style="color:#000000;fill:url(#avatarpattern);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#pattern7979);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
        cx="137.18282"
        cy="996.26819"
-       r="41.904942"
-       d="m 179.08776,996.26819 a 41.904942,41.904942 0 0 1 -41.90494,41.90491 41.904942,41.904942 0 0 1 -41.904946,-41.90491 41.904942,41.904942 0 0 1 41.904946,-41.90494 41.904942,41.904942 0 0 1 41.90494,41.90494 z" />
+       r="41.904942" />
     <g
        style="fill:none;stroke:#ffffff;stroke-width:1.7509799;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="g47321"
