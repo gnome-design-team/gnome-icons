@@ -9,7 +9,8 @@ OUT = "avatar.png"
 def render(image)
   templatexml = Document.new(File.new(TEMPLATE,'r'))
   #puts templatexml
-  templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href'] = image 
+  templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href'] = image
+  puts templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href']
   exec = "#{INKSCAPE} -e #{OUT} #{TEMPLATE}"
   system(exec)
 end
