@@ -28,12 +28,3 @@ if ARGV[0]
 else
   puts "Pass photo filename as a parameter"
 end
-
-
-
-#
-#  ABSPREFIX + self.background
-#template.root.elements["//pattern[@inkscape:label='avatar']/image"].attributes['sodipodi:absref'] = 
-#  ABSPREFIX + self.background
-#template.root.elements["//image[@inkscape:label='logo']"].attributes['xlink:href'] = LOGO
-#template.root.elements["//image[@inkscape:label='logo']"].attributes['sodipodi:absref'] = LOGO
