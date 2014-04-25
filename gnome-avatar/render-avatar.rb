@@ -18,8 +18,9 @@ def render(image)
   tmp_f = File.new(TMP,'w+')
   tmp_f.puts templatexml
   tmp_f.close
-  exec = "#{INKSCAPE} -e #{OUT} #{tmp_f}"
+  exec = "#{INKSCAPE} -e #{OUT} #{TMP}"
   system(exec)
+  File.unlink(TMP)
 end
 
 if ARGV[0]
