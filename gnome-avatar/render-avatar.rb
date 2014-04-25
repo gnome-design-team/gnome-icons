@@ -2,7 +2,7 @@
 require "rexml/document"
 include REXML
 
-TEMPLATE = avatar.svg
+TEMPLATE = "avatar.svg"
 
 if ARGV[0]
   render(ARGV[0])
