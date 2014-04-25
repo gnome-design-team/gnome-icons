@@ -11,7 +11,7 @@ def render(image)
   templatexml = Document.new(File.new(TEMPLATE,'r'))
   #puts templatexml
   templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href'] = image
-  template.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref'] = 
+  templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref'] = 
     "file://#{ABSPREFIX}/#{image}"
   puts template.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref']
   exec = "#{INKSCAPE} -e #{OUT} #{TEMPLATE}"
