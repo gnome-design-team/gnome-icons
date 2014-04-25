@@ -2,11 +2,15 @@
 require "rexml/document"
 include REXML
 
+INKSCAPE = "/usr/bin/inkscape"
 TEMPLATE = "avatar.svg"
+OUT = "avatar.png"
 
 def render(image)
   templatexml = Document.new(File.new(TEMPLATE,'r'))
   puts templatexml
+  exec = "#{INKSCAPE} -e #{OUT} #{TEMPLATE}"
+  system(exec)
 end
 
 if ARGV[0]
