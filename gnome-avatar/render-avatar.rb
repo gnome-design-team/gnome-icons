@@ -13,7 +13,7 @@ def render(image)
   templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href'] = image
   templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref'] = 
     "file://#{ABSPREFIX}/#{image}"
-  puts template.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref']
+  puts templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref']
   exec = "#{INKSCAPE} -e #{OUT} #{TEMPLATE}"
   system(exec)
 end
