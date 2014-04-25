@@ -5,7 +5,8 @@ include REXML
 TEMPLATE = "avatar.svg"
 
 def render(image)
-  puts image
+  templatexml = Document.new(File.new(TEMPLATE,'r')
+  puts templatexml
 end
 
 if ARGV[0]
