@@ -26,7 +26,7 @@ end
 if ARGV[0]
   render(ARGV[0])
 else
-  puts "Need a bitmap parameter"
+  puts "Pass photo filename as a parameter"
 end
 
 
