@@ -19,6 +19,7 @@ def render(image):
   #tmp_f.puts templatexml
   #tmp_f.close
   exec = "#{INKSCAPE} -e #{OUT} #{TMP}"
+  print(exec)
   os.system(exec)
   #File.unlink(TMP)
 
