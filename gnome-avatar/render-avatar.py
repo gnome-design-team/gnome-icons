@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import xml.etree.ElementTree as etree
-import os
+import os, sys
 
 INKSCAPE = "/usr/bin/inkscape"
 TEMPLATE = "avatar.svg"
@@ -23,8 +23,8 @@ def render(image):
   File.unlink(TMP)
 
 
-if ARGV[0]:
-  render(ARGV[0])
+if sys.argv[0]:
+  render(sys.argv[0])
 else:
   print("`./render-avatar.rb photo.jpg`\n\nPass a square photo filename as a parameter.")
 
