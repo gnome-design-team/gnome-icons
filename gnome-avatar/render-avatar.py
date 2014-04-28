@@ -18,7 +18,7 @@ def render(image):
   #tmp_f = File.new(TMP,'w+')
   #tmp_f.puts templatexml
   #tmp_f.close
-  exec = "#{INKSCAPE} -e #{OUT} #{TMP}"
+  exec = "%s -e %s %s" % (INKSCAPE, OUT, TMP)
   print(exec)
   os.system(exec)
   #File.unlink(TMP)
