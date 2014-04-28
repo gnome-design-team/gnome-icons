@@ -21,7 +21,7 @@ def render(image):
   os.system(exec)
   #File.unlink(TMP)
 
-
+print(sys.argv)
 if sys.argv[0]:
   render(sys.argv[0])
 else:
