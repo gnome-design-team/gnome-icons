@@ -26,5 +26,5 @@ end
 if ARGV[0]
   render(ARGV[0])
 else
-  puts "`./render-avatar.rb photo.jpg`\n\nPass a rectangular photo filename as a parameter."
+  puts "`./render-avatar.rb photo.jpg`\n\nPass a square photo filename as a parameter."
 end
