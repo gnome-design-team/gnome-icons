@@ -1,6 +1,5 @@
-#!/usr/bin/env ruby
-require "rexml/document"
-include REXML
+#!/usr/bin/env python3
+import xml.etree.ElementTree as etree
 
 INKSCAPE = "/usr/bin/inkscape"
 TEMPLATE = "avatar.svg"
@@ -8,7 +7,7 @@ OUT = "avatar.png"
 ABSPREFIX = Dir.pwd
 TMP = "out.svg"
 
-def render(image)
+def render(image):
   templatexml = Document.new(File.new(TEMPLATE,'r'))
   #puts templatexml
   templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href'] = image
@@ -21,10 +20,10 @@ def render(image)
   exec = "#{INKSCAPE} -e #{OUT} #{TMP}"
   system(exec)
   File.unlink(TMP)
-end
 
-if ARGV[0]
+
+if ARGV[0]:
   render(ARGV[0])
-else
+else:
   puts "`./render-avatar.rb photo.jpg`\n\nPass a square photo filename as a parameter."
-end
+
