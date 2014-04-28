@@ -13,7 +13,7 @@ TMP = "out.svg"
 
 def render(image):
   templatexml = lxml.etree.parse(TEMPLATE)
-  print(templatexml)
+  print(templatexml.root)
   #templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href'] = image
   #templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref'] = 
   #  "file://#{ABSPREFIX}/#{image}"
