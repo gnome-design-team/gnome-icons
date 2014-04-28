@@ -9,7 +9,7 @@ ABSPREFIX = os.getcwd()
 TMP = "out.svg"
 
 def render(image):
-  templatexml = Document.new(File.new(TEMPLATE,'r'))
+  templatexml = etree.parse(TEMPLATE)
   #puts templatexml
   #templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href'] = image
   #templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref'] = 
