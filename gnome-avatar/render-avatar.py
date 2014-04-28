@@ -15,8 +15,7 @@ def render(image):
   #templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref'] = 
   #  "file://#{ABSPREFIX}/#{image}"
   #puts templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref']
-  tmp_f = open(TMP,'w+')
-  templatexml.write(tmp_f, encoding="utf-8")
+  templatexml.write(TMP, encoding="utf-8")
   tmp_f.close()
   exec = "%s -e %s %s" % (INKSCAPE, OUT, TMP)
   print(exec)
