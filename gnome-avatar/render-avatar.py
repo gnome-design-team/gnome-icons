@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 import xml.etree.ElementTree as etree
+import os
 
 INKSCAPE = "/usr/bin/inkscape"
 TEMPLATE = "avatar.svg"
 OUT = "avatar.png"
-ABSPREFIX = Dir.pwd
+ABSPREFIX = os.getcwd()
 TMP = "out.svg"
 
 def render(image):
