@@ -21,7 +21,6 @@ def render(image):
   os.system(exec)
   #File.unlink(TMP)
 
-print(sys.argv)
 if len(sys.argv)>1:
   render(sys.argv[1])
 else:
