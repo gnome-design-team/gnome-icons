@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import xml.etree.ElementTree as etree
+import lxml.etree
 import os, sys
 
 INKSCAPE = "/usr/bin/inkscape"
@@ -10,7 +10,6 @@ TMP = "out.svg"
 
 def render(image):
   templatexml = etree.parse(TEMPLATE)
-  #puts templatexml
   #templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href'] = image
   #templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref'] = 
   #  "file://#{ABSPREFIX}/#{image}"
@@ -19,7 +18,6 @@ def render(image):
   exec = "%s -e %s %s" % (INKSCAPE, OUT, TMP)
   print(exec)
   os.system(exec)
-  #File.unlink(TMP)
 
 if len(sys.argv)>1:
   render(sys.argv[1])
