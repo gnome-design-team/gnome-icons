@@ -22,8 +22,8 @@ def render(image):
   #File.unlink(TMP)
 
 print(sys.argv)
-if sys.argv[0]:
-  render(sys.argv[0])
+if sys.argv[1]:
+  render(sys.argv[1])
 else:
   print("`./render-avatar.rb photo.jpg`\n\nPass a square photo filename as a parameter.")
 
