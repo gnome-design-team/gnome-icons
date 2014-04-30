@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-#help me :)
-
-import lxml.etree
+from lxml import etree
 import os, sys
 
 INKSCAPE = "/usr/bin/inkscape"
@@ -12,8 +10,9 @@ ABSPREFIX = os.getcwd()
 TMP = "out.svg"
 
 def render(image):
-  templatexml = lxml.etree.parse(TEMPLATE)
-  print(templatexml.root)
+  templatexml = etree.parse(TEMPLATE)
+  r = templatexml.getroot()
+  print(r.xpath('svg')) #HELP
   #templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['xlink:href'] = image
   #templatexml.root.elements["//pattern[@inkscape:label='avatarpattern']/image"].attributes['sodipodi:absref'] = 
   #  "file://#{ABSPREFIX}/#{image}"
