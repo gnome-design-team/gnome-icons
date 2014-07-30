@@ -14,7 +14,7 @@
    id="svg13790"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="directions.svg"
+   sodipodi:docname="direction-left.svg"
    inkscape:export-filename="/home/andreasn/SparkleShare/gnome-icons/maps-symbolic/direction-roundabout.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="128.8338"
-     inkscape:cy="-38.186439"
+     inkscape:zoom="22.627417"
+     inkscape:cx="16.915613"
+     inkscape:cy="9.6699236"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:snap-global="true"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,21 +72,11 @@
        id="rect13802-1-3-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
-    <rect
-       style="color:#000000;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect13805-7-8-9"
-       width="3.9737358"
-       height="11.347995"
-       x="9.9818344"
-       y="11.67984"
-       transform="matrix(0,1,1,0,0,0)" />
-    <rect
-       style="color:#000000;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect13805-3-4-8-3"
-       width="4.0049858"
-       height="17.051868"
-       x="22.02536"
-       y="-27.035873"
-       transform="scale(1,-1)" />
+    <path
+       style="fill:none;stroke:#555753;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 12.818874,12 24,12 24,27.005263"
+       id="path6022"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
