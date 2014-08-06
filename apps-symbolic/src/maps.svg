@@ -16,7 +16,7 @@
    id="svg6558"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="maps.svg">
   <defs
      id="defs6560">
     <linearGradient
@@ -49,19 +49,6 @@
          offset="1"
          id="stop19631" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter14879-1"
-       x="-0.10637733"
-       width="1.2127547"
-       y="-0.11767404"
-       height="1.2353481">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.7702429"
-         id="feGaussianBlur14881-6" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient15009-5-8"
@@ -175,19 +162,6 @@
          offset="1"
          id="stop14759-3" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter14775-3"
-       x="-0.22232293"
-       width="1.4446458"
-       y="-0.38465393"
-       height="1.7693079">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.5242915"
-         id="feGaussianBlur14777-8" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient14991-1"
@@ -471,19 +445,6 @@
          offset="1"
          id="stop14687-3" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter14695-8"
-       x="-0.062560327"
-       width="1.1251206"
-       y="-0.14522643"
-       height="1.290453">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.670246"
-         id="feGaussianBlur14697-2" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient36566"
@@ -809,7 +770,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -832,8 +793,8 @@
        d="M 10.03125 0.03125 C 7.833628 0.03125 6.03125 1.7294102 6.03125 3.8125 C 6.03125 6.9110658 9.17921 11.93782 10.03125 12 C 10.883287 12.06217 14 6.8488933 14 3.8125 C 14 1.7294102 12.228875 0.03125 10.03125 0.03125 z M 10 3 C 10.552285 3 11 3.4477153 11 4 C 11 4.5522847 10.552285 5 10 5 C 9.4477153 5 9 4.5522847 9 4 C 9 3.4477153 9.4477153 3 10 3 z "
        id="path60865-7" />
     <path
-       style="fill:none;stroke:#555753;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 0.99999998,14.95 5.5747127,12.125 10.195403,15 15,12"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555753;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 14.8125,11 a 1.0001,1.0001 0 0 0 -0.34375,0.15625 L 10.1875,13.8125 6.09375,11.28125 a 1.0001,1.0001 0 0 0 -1.03125,0 l -4.59375,2.8125 a 1.0103227,1.0103227 0 1 0 1.0625,1.71875 l 4.03125,-2.5 4.09375,2.53125 a 1.0001,1.0001 0 0 0 1.0625,0 l 4.8125,-3 A 1.0001,1.0001 0 0 0 14.8125,11 z"
        id="path7210"
        inkscape:connector-curvature="0" />
   </g>
