@@ -41,10 +41,10 @@
      inkscape:window-width="2560"
      inkscape:window-height="1375"
      id="namedview88"
-     showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="245.18587"
-     inkscape:cy="351.33634"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="206.03168"
+     inkscape:cy="254.26272"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -1249,19 +1249,6 @@
          offset="1"
          id="stop4326-5" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4270-2"
-       x="-0.079021491"
-       width="1.158043"
-       y="-0.12227108"
-       height="1.2445422">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.91786982"
-         id="feGaussianBlur4272-4" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4322-2"
@@ -1358,15 +1345,6 @@
          offset="1"
          id="stop4336-7" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4318-6">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.37479169"
-         id="feGaussianBlur4320-9" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4216-8"
@@ -5760,6 +5738,54 @@
          id="path4000-7-6"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+    <g
+       inkscape:label="gtk3-widget-factory"
+       id="g7016"
+       style="display:inline"
+       transform="translate(301,-250)">
+      <rect
+         style="fill:none;stroke:none"
+         id="rect7018"
+         width="16"
+         height="16"
+         x="143.0002"
+         y="215" />
+      <rect
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="rect7030"
+         width="13.015184"
+         height="5"
+         x="144.53084"
+         y="216.50002"
+         rx="0.68500972"
+         ry="0.68500978" />
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.39999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 213,335 0,1 0,0.0312 1.53125,1.375 L 216,336 l 0,-1 -0.75781,0 -0.73828,0.74609 L 213.77734,335 z"
+         transform="translate(-59.9998,-117)"
+         id="path7800"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccc" />
+      <rect
+         ry="0.68500978"
+         rx="0.68500972"
+         y="224.50002"
+         x="144.53084"
+         height="5"
+         width="13.015184"
+         id="rect7811"
+         style="color:#000000;fill:none;stroke:#bebebe;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      <rect
+         style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="rect7813"
+         width="8"
+         height="2"
+         x="207"
+         y="343"
+         transform="translate(-59.9998,-117)"
+         rx="0"
+         ry="0" />
     </g>
   </g>
   <text
