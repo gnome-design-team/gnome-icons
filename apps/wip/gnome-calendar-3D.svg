@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="175.15391"
-     inkscape:cy="146.25057"
+     inkscape:cx="247.38841"
+     inkscape:cy="206.5632"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -6994,6 +6994,24 @@
          inkscape:collect="always"
          stdDeviation="5.601566"
          id="feGaussianBlur13067" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13073">
+      <path
+         sodipodi:nodetypes="ccsccsccccc"
+         inkscape:connector-curvature="0"
+         id="path13075"
+         d="M 48.790368,84.685985 36.415999,250.85608 c 0,4.24264 2.198886,10.91331 6.010408,14.49569 2.905814,2.73112 7.071067,3.88908 11.313708,3.88908 l 185.615535,0 c 5.3033,0 10.45207,-0.68187 14.14213,-3.88908 3.58567,-3.11648 5.65686,-9.8995 5.65686,-13.08148 L 248.15029,87.558606 c -0.53033,-7.115262 -5.83364,-13.479223 -16.57282,-13.479223 l -169.352073,0 c -7.778175,0.353553 -13.081475,5.656855 -13.435029,10.606602 z"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1.39999998;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       id="filter13093">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.0897831"
+         id="feGaussianBlur13095" />
     </filter>
   </defs>
   <metadata
@@ -17900,6 +17918,13 @@ hBBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBDy/cf/B8Ddvtdvk5loAAAAAElFTkSuQmCC
          height="296"
          width="296"
          style="opacity:1" />
+      <path
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter13093);enable-background:new"
+         d="M 48.790368,84.685985 36.415999,250.85608 c 0,4.24264 2.198886,10.91331 6.010408,14.49569 2.905814,2.73112 7.071067,3.88908 11.313708,3.88908 l 185.615535,0 c 5.3033,0 10.45207,-0.68187 14.14213,-3.88908 3.58567,-3.11648 5.65686,-9.8995 5.65686,-13.08148 L 248.15029,87.6028 c -0.48613,-7.115262 -5.82918,-13.523417 -16.57282,-13.523417 l -169.352073,0 c -7.778175,0.353553 -13.081475,5.656855 -13.435029,10.606602 z"
+         id="path13069"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsccsccccc"
+         clip-path="url(#clipPath13073)" />
     </g>
   </g>
 </svg>
