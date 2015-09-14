@@ -17,8 +17,17 @@ def renderit(file,explicit)
       icon.each_element("rect") do |box|
         dir = "hicolor/#{box.attributes['width']}x#{box.attributes['height']}/#{context}"
         out = "#{dir}/#{icon_name.gsub(/$/,'.png')}"
-        cmd = "#{INKSCAPE} -i #{box.attributes['id']} -e #{out} #{SRC}/#{file} > /dev/null 2>&1"
-        File.makedirs(dir) unless File.exists?(dir)
+        if (box.attributes['width']=="32") #also makes HiDPI 96
+          dirhidpi = "hicolor/96x96/#{context}"
+          outhidpi = "#{dirhidpi}/#{icon_name.gsub(/$/,'.png')}"
+          cmd = "#{INKSCAPE} -i #{box.attributes['id']} -e #{out} #{SRC}/#{file} > /dev/null 2>&1; "
+          cmd += "#{INKSCAPE} -w 96 -i #{box.attributes['id']} -e #{outhidpi} #{SRC}/#{file} > /dev/null 2>&1;"
+          FileUtils.makedirs(dir) unless File.exists?(dir)
+          FileUtils.makedirs(dirhidpi) unless File.exists?(dirhidpi)
+        else
+          cmd = "#{INKSCAPE} -i #{box.attributes['id']} -e #{out} #{SRC}/#{file} > /dev/null 2>&1"
+          FileUtils.makedirs(dir) unless File.exists?(dir)
+        end
         if (!explicit && File.exists?(out))
           print "-" #skip if PNG exists
         else
