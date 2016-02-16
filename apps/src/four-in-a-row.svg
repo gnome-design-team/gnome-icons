@@ -34,8 +34,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="345.99137"
-     inkscape:cy="187.97239"
+     inkscape:cx="306.63697"
+     inkscape:cy="191.25304"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -4099,19 +4099,6 @@
          stdDeviation="8.9981103"
          id="feGaussianBlur13715" />
     </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always"
-       id="filter14119-9"
-       x="-0.083622076"
-       width="1.1672442"
-       y="-0.24981426"
-       height="1.4996285">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.4628453"
-         id="feGaussianBlur14121-1" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient16055"
@@ -4121,6 +4108,19 @@
        x2="323.125"
        y2="59.934334"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter16075"
+       x="-0.05639361"
+       width="1.1127872"
+       y="-0.14660475"
+       height="1.2932095">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.98946043"
+         id="feGaussianBlur16077" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -4485,7 +4485,7 @@
          inkscape:connector-curvature="0"
          id="path14093"
          d="M 303.00791,76.246858 298.94833,92.444867 341.0578,92.29242 337.7545,76.341614 Z"
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter14119-9);enable-background:new"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new;filter:url(#filter16075);opacity:0.622"
          transform="matrix(1,0,0,1.9517026,0,-87.919065)" />
       <image
          style="display:inline;opacity:1;enable-background:new"
