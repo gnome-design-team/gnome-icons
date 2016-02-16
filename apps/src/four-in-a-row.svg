@@ -34,9 +34,9 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="82.527579"
-     inkscape:cy="162.9023"
-     inkscape:current-layer="layer5"
+     inkscape:cx="303.90951"
+     inkscape:cy="137.90333"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -4131,6 +4131,19 @@
        x2="323.125"
        y2="59.934334"
        gradientTransform="matrix(0.70833331,0,0,0.71890497,92.557372,89.729734)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter16111"
+       x="-0.025565103"
+       width="1.0511302"
+       y="-0.066460819"
+       height="1.1329216">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.44855539"
+         id="feGaussianBlur16113" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -4191,7 +4204,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="baseplate"
-       style="display:none"
+       style="display:inline"
        sodipodi:insensitive="true">
       <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
@@ -4533,8 +4546,8 @@
          id="path16065"
          inkscape:connector-curvature="0" />
       <path
-         transform="matrix(0.70833332,0,0,1.382456,92.601568,27.890663)"
-         style="display:inline;opacity:0.622;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter16075);enable-background:new"
+         transform="matrix(0.70833332,0,0,1.382456,92.601568,29.265663)"
+         style="display:inline;opacity:0.541;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter16111);enable-background:new"
          d="M 303.00791,76.246858 298.94833,92.444867 341.0578,92.29242 337.7545,76.341614 Z"
          id="path16079"
          inkscape:connector-curvature="0"
