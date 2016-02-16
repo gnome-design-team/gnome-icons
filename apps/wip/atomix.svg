@@ -35,8 +35,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="305.30482"
-     inkscape:cy="79.413188"
+     inkscape:cx="-32.016332"
+     inkscape:cy="65.036327"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -255,6 +255,51 @@
        fx="134"
        fy="263"
        r="42" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12723">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12725"
+         d="m 225.21351,84.332432 -30.40559,125.157898 0,3.88909 34.29468,6.36396 31.1127,-125.511453 0.35355,-4.242641 -1.06066,-0.353554 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12759"
+       x="-0.031203226"
+       width="1.0624065"
+       y="-0.015153525"
+       height="1.030307">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.85498048"
+         id="feGaussianBlur12761" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12767">
+      <path
+         sodipodi:nodetypes="csccscc"
+         inkscape:connector-curvature="0"
+         id="path12769"
+         d="m 179.625,249 c 0,-8.50092 6.92465,-24.05324 25.625,-22.375 16.61459,1.49105 22.5,15.625 22.125,21.375 l -0.75,7.875 c 0,0 -3,18 -23,17.25 -20,-0.75 -23.375,-18.375 -23.375,-18.375 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:0.2949062;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12775"
+       x="-0.020161185"
+       width="1.0403224"
+       y="-0.02064454"
+       height="1.0412891">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.40126411"
+         id="feGaussianBlur12777" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -456,6 +501,19 @@
          preserveAspectRatio="none"
          height="244"
          width="244" />
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new;filter:url(#filter12759)"
+         d="m 225.21351,84.332432 -30.40559,125.157898 0,3.88909 34.29468,6.36396 31.1127,-125.511453 0.35355,-4.242641 -1.06066,-0.353554 z"
+         id="path12719"
+         inkscape:connector-curvature="0"
+         clip-path="url(#clipPath12723)" />
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:0.2949062;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new;filter:url(#filter12775)"
+         d="m 179.625,249 c 0,-8.50092 6.92465,-24.05324 25.625,-22.375 16.61459,1.49105 22.5,15.625 22.125,21.375 l -0.75,7.875 c 0,0 -3,18 -23,17.25 -20,-0.75 -23.375,-18.375 -23.375,-18.375 z"
+         id="path12763"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccscc"
+         clip-path="url(#clipPath12767)" />
     </g>
   </g>
 </svg>
