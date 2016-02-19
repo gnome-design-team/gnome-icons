@@ -33,10 +33,10 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="0.70710678"
      inkscape:cx="-76.193492"
      inkscape:cy="93.769687"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -4153,8 +4153,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="baseplate"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:none">
       <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="rect6284"
@@ -4207,19 +4206,6 @@
            x="31.87059"
            y="18.860306"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">apps</tspan></text>
-      <text
-         id="icon-name"
-         inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         x="211.19824"
-         xml:space="preserve"
-         y="18.860306"><tspan
-           id="tspan3023"
-           sodipodi:role="line"
-           x="211.19824"
-           y="18.860306"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">2048</tspan></text>
       <rect
          inkscape:label="256x256"
          y="32"
@@ -4236,6 +4222,19 @@
          d="m 20,32 0,256 256,0 0,-256 -18,0 0,238 -220,0 0,-238 z"
          style="display:inline;overflow:visible;visibility:visible;opacity:0.4510002;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          sodipodi:nodetypes="ccccccccc" />
+      <text
+         id="icon-name"
+         inkscape:label="icon-name"
+         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         x="211.19824"
+         xml:space="preserve"
+         y="18.860306"><tspan
+           id="tspan3023"
+           sodipodi:role="line"
+           x="211.19824"
+           y="18.860306"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">gnome-2048</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
