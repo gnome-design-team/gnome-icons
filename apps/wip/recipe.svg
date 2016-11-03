@@ -35,8 +35,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="148.82289"
-     inkscape:cy="103.98472"
+     inkscape:cx="81.974003"
+     inkscape:cy="113.90877"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -86,6 +86,18 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9287">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop9283" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop9285" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient9269">
@@ -8362,6 +8374,17 @@ FE4sf//Z
          stdDeviation="0.3375"
          id="feGaussianBlur9279" />
     </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9287"
+       id="radialGradient9289"
+       cx="320.125"
+       cy="232.37729"
+       fx="320.125"
+       fy="232.37729"
+       r="8.125"
+       gradientTransform="matrix(0.99910682,0.04225595,-0.21538462,5.0925897,50.336423,-964.55209)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -8601,6 +8624,12 @@ FE4sf//Z
          d="M 353.5,6 A 45.5,36 0 0 0 308,42 45.5,36 0 0 0 353.5,78 45.5,36 0 0 0 388.81055,64.66016 35.417809,28 0 0 0 418.91797,37 35.417809,28 0 0 0 383.5,9 35.417809,28 0 0 0 374.21484,9.98633 45.5,36 0 0 0 353.5,6 Z"
          id="path9212"
          inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.358;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient9289);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 312.25,229.5 312,240 c 5.08333,0.064 10.16667,-0.5105 15.25,-3.75 l 1,-11.5 c -5.33333,3.1519 -10.66667,4.24524 -16,4.75 z"
+         id="path9281"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter:url(#filter9186)"
          d="M 441.47461 141.3125 C 431.55027 141.41068 423.18068 145.09012 418 151 L 352 223 C 349.52513 227.24264 341.59683 232.12148 330.99023 228.58594 L 291 214 C 281.45406 210.81802 269.77817 215.45406 262 225 L 114.34375 427.13086 C 111.2661 430.69445 109.6074 433.68879 109.40625 436.46875 C 105.3574 444.36308 110.57221 452.9346 115 456 L 302 538 C 317.2028 544.01041 331.28249 535.83883 338 527 L 482 324 C 487.0844 315.80847 491.10812 302.71363 485.85352 295.07227 C 483.62143 289.32576 478.5617 284.41746 472 282 L 422.71484 264.60547 C 419.80672 262.00751 421.63501 258.70623 425 254.5 L 468 187 C 472.3496 179.46069 475.52564 164.75579 468.35742 155.38086 C 466.20278 150.12365 462.23826 145.53161 455.81836 143.52539 C 450.81836 141.96289 445.98567 141.26787 441.47461 141.3125 z M 441.33008 161.68945 C 448.29055 161.68956 454.22341 164.67935 456.61133 168.89258 A 17.416409 12 0 0 1 439.91602 177.5 A 17.416409 12 0 0 1 425.0293 171.70508 C 425.9632 166.06919 432.90037 161.68958 441.33008 161.68945 z "
