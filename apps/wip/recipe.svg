@@ -35,8 +35,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="68.142462"
-     inkscape:cy="165.75007"
+     inkscape:cx="-217.99039"
+     inkscape:cy="184.41941"
      inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -86,6 +86,30 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9696">
+      <stop
+         style="stop-color:#f1fee4;stop-opacity:1;"
+         offset="0"
+         id="stop9692" />
+      <stop
+         style="stop-color:#f1fee4;stop-opacity:0;"
+         offset="1"
+         id="stop9694" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9670">
+      <stop
+         style="stop-color:#f1fee4;stop-opacity:1;"
+         offset="0"
+         id="stop9666" />
+      <stop
+         style="stop-color:#f1fee4;stop-opacity:0;"
+         offset="1"
+         id="stop9668" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient9658">
@@ -8694,6 +8718,54 @@ FE4sf//Z
        y2="-14.1875"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.5119325,0,0,1.5119325,-191.43482,7.716583)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9670"
+       id="radialGradient9672"
+       cx="377.5"
+       cy="13.5"
+       fx="377.5"
+       fy="13.5"
+       r="14"
+       gradientTransform="matrix(1,0,0,0.92857143,0,0.96428571)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9686"
+       x="-0.18861429"
+       width="1.3772286"
+       y="-0.20312308"
+       height="1.4062462">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2005"
+         id="feGaussianBlur9688" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9696"
+       id="radialGradient9698"
+       cx="397.24997"
+       cy="-20.21874"
+       fx="397.24997"
+       fy="-20.21874"
+       r="10.75"
+       gradientTransform="matrix(1.1081906,0.14386008,-0.0774354,0.59650453,-44.544345,-61.087843)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9720"
+       x="-0.2049907"
+       width="1.4099814"
+       y="-0.5509125"
+       height="2.101825">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.836375"
+         id="feGaussianBlur9722" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -9203,6 +9275,16 @@ FE4sf//Z
          id="path9662"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cscccc" />
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.377;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient9672);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95275592;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter:url(#filter9686)"
+         d="m 373,1.5 c 0,0 17,6.5 17,14.5 0,8 1.5,10.5 1.5,10.5 0,0 -3,-5 -8,-12 -5,-7 -20,-14 -20,-14 z"
+         id="path9664"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.32;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient9698);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.95275592;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter:url(#filter9720)"
+         d="m 394.5,-14 16,-3.5 5.5,8 z"
+         id="path9690"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
