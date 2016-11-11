@@ -20,6 +20,18 @@
   <defs
      id="defs4">
     <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7905">
+      <stop
+         style="stop-color:#6ceeff;stop-opacity:1"
+         offset="0"
+         id="stop7901" />
+      <stop
+         style="stop-color:#00bcd4;stop-opacity:0.92913383"
+         offset="1"
+         id="stop7903" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient4441"
        inkscape:collect="always">
       <stop
@@ -43,18 +55,6 @@
          offset="1"
          id="stop4385" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4373">
-      <stop
-         style="stop-color:#d3d7cf;stop-opacity:1"
-         offset="0"
-         id="stop4375" />
-      <stop
-         style="stop-color:#babdb6;stop-opacity:1"
-         offset="1"
-         id="stop4377" />
-    </linearGradient>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -68,28 +68,6 @@
          stdDeviation="2.6"
          id="feGaussianBlur4370" />
     </filter>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4373"
-       id="radialGradient4379"
-       cx="0.1249999"
-       cy="0.1249999"
-       fx="0.1249999"
-       fy="0.1249999"
-       r="52"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,3.8733173,-3.8733173,0,-3.8297193,855.56415)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4381"
-       id="radialGradient4387"
-       cx="1.0000017"
-       cy="860.36218"
-       fx="1.0000017"
-       fy="860.36218"
-       r="84"
-       gradientTransform="matrix(0,2.3853119,-2.3853119,0,2048.8338,853.53214)"
-       gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4441"
@@ -136,6 +114,17 @@
          stdDeviation="1.4062254"
          id="feGaussianBlur7830" />
     </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7905"
+       id="radialGradient7907"
+       cx="46.771385"
+       cy="908.61334"
+       fx="46.771385"
+       fy="908.61334"
+       r="87.889084"
+       gradientTransform="matrix(1.5985222,0,0,1.5985222,-27.993711,-543.82531)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -145,8 +134,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="15.414337"
-     inkscape:cy="10.87265"
+     inkscape:cx="-134.58566"
+     inkscape:cy="88.87265"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -652,7 +641,7 @@ SUVORK5CYII=
        id="ellipse7832"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.95451474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <ellipse
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4387);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.95451474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient7907);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.95451474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path4157"
        cx="96"
        cy="956.36218"
@@ -750,7 +739,7 @@ SUVORK5CYII=
        inkscape:connector-curvature="0"
        transform="matrix(1.0462987,0,0,1.0462987,-4.4446708,-44.278282)" />
     <path
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4379);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.37038898;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#009688;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.37038898;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 96,901.95467 A 54.407542,54.40755 0 0 0 41.59247,956.3622 54.407542,54.40755 0 0 0 96,1010.7697 a 54.407542,54.40755 0 0 0 54.40753,-54.4075 54.407542,54.40755 0 0 0 -8.37039,-28.951 v -17.08614 h -17.1638 A 54.407542,54.40755 0 0 0 96,901.95467 Z"
        id="rect4270"
        inkscape:connector-curvature="0" />
@@ -776,7 +765,7 @@ SUVORK5CYII=
        id="ellipse7760"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f3d804;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.95451474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <ellipse
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fce94f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.95451474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d7e361;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.95451474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path4157-3-6"
        cx="96"
        cy="956.36218"
