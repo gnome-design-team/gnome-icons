@@ -35,8 +35,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="246.18692"
-     inkscape:cy="39.985405"
+     inkscape:cx="622.99403"
+     inkscape:cy="399.02905"
      inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -768,9 +768,9 @@
          clip-path="url(#clipPath4239)" />
       <path
          style="opacity:1;fill:url(#linearGradient5063);fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 560 128 A 144 144 0 0 0 416 272 A 144 144 0 0 0 560 416 A 144 144 0 0 0 704 272 A 144 144 0 0 0 680.31055 193.07812 L 684.45117 147.54883 L 638.99609 151.68164 A 144 144 0 0 0 560 128 z "
-         id="circle5061"
-         transform="translate(0,-244)" />
+         d="M 560 128 C 480.471 128 416 192.471 416 272 C 416 351.529 480.471 416 560 416 C 639.529 416 704 351.529 704 272 C 703.9596 243.9468 695.726 216.51629 680.31055 193.07812 L 680 192.84766 L 680 152 L 639.19922 152 L 638.99609 151.68164 C 615.53595 136.25509 588.07767 128.02358 560 128 z "
+         transform="translate(0,-244)"
+         id="circle5061" />
       <path
          sodipodi:nodetypes="sssss"
          inkscape:connector-curvature="0"
@@ -823,11 +823,6 @@
          id="path5041"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
-      <path
-         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 560 128 A 144 144 0 0 0 416 272 A 144 144 0 0 0 416.02148 272.41602 A 144 144 0 0 1 560 129 A 144 144 0 0 1 638.99609 152.68164 L 684.35938 148.55664 L 684.45117 147.54883 L 638.99609 151.68164 A 144 144 0 0 0 560 128 z M 680.38867 193.20898 L 680.31055 194.07812 A 144 144 0 0 1 703.97852 272.5918 A 144 144 0 0 0 704 272 A 144 144 0 0 0 680.38867 193.20898 z "
-         transform="translate(0,-244)"
-         id="path5133" />
       <circle
          style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.18299961;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle5152"
@@ -1022,6 +1017,11 @@
          id="path5216"
          d="m 235,235 0,6 2,2 -2,2 0,12 6,0 0,-7 -2,-2 2,-2 0,-11 z"
          style="opacity:1;fill:url(#linearGradient5282);fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 560 128 C 480.471 128 416 192.471 416 272 C 416 272.16716 416.00529 272.33297 416.00586 272.5 C 416.2761 193.20155 480.63816 129 560 129 C 588.07767 129.02358 615.53595 137.25509 638.99609 152.68164 L 639.19922 153 L 680 153 L 680 152 L 639.19922 152 L 638.99609 151.68164 C 615.53595 136.25509 588.07767 128.02358 560 128 z M 680 192.84766 L 680 193.84766 L 680.31055 194.07812 C 695.65434 217.40734 703.87618 244.69242 703.99219 272.60938 C 703.99303 272.40584 704 272.20373 704 272 C 703.9596 243.9468 695.726 216.51629 680.31055 193.07812 L 680 192.84766 z "
+         transform="translate(0,-244)"
+         id="path5636" />
     </g>
   </g>
 </svg>
