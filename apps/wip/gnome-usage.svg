@@ -38,7 +38,7 @@
      inkscape:zoom="1"
      inkscape:cx="50.542142"
      inkscape:cy="324.15777"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g11920"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -554,6 +554,19 @@
        y1="133.37497"
        x2="320.75003"
        y2="98.374969" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1284-4">
+      <rect
+         ry="10"
+         rx="10"
+         y="3.8999939"
+         x="98.199997"
+         height="164"
+         width="197"
+         id="rect1286-60"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient1288);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
@@ -566,6 +579,19 @@
          inkscape:collect="always"
          stdDeviation="8.8445"
          id="feGaussianBlur2036" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2171"
+       x="-0.029686294"
+       width="1.0593726"
+       y="-0.035659756"
+       height="1.0713195">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.43675"
+         id="feGaussianBlur2173" />
     </filter>
   </defs>
   <metadata
@@ -1783,17 +1809,6 @@
            transform="translate(52)"
            width="100%"
            height="100%" />
-        <rect
-           transform="translate(0.00898733,-0.63491836)"
-           clip-path="url(#clipPath1284-2-9)"
-           y="2.3257198"
-           x="88.308685"
-           height="165.57428"
-           width="215.67447"
-           id="rect1506"
-           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#151619;stroke-width:22.67716599;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.34574947;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-           rx="0"
-           ry="0" />
         <g
            transform="matrix(2.0136342,0,0,2.0128166,-257.15732,-203.42587)"
            id="g1995"
@@ -1839,6 +1854,28 @@
              style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.528;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient2003);stroke-width:0.4967154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;filter:url(#filter12312);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
              transform="translate(0,-0.125)" />
         </g>
+        <rect
+           transform="translate(5.1757809e-8,-3.8964844e-6)"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.344;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:11.33858299;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;filter:url(#filter2034);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect1276"
+           width="197"
+           height="164"
+           x="98.199997"
+           y="3.8999996"
+           rx="10"
+           ry="10"
+           clip-path="url(#clipPath1284-4)" />
+        <rect
+           clip-path="url(#clipPath1284-4)"
+           ry="10"
+           rx="10"
+           y="3.8999996"
+           x="98.199997"
+           height="164"
+           width="197"
+           id="rect2065"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.344;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter:url(#filter2171)"
+           transform="translate(5.1757809e-8,-3.8964844e-6)" />
       </g>
       <g
          id="g1274">
@@ -2386,15 +2423,5 @@
          y="-126.26167"
          id="rect8197" />
     </g>
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.344;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:11.33858299;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;filter:url(#filter2034)"
-       id="rect1276"
-       width="197"
-       height="164"
-       x="98.199997"
-       y="3.8999996"
-       rx="10"
-       ry="10"
-       clip-path="url(#clipPath1284)" />
   </g>
 </svg>
