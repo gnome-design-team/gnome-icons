@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="324.15735"
-     inkscape:cy="52.160788"
+     inkscape:cx="256.2345"
+     inkscape:cy="97.08364"
      inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -1925,16 +1925,32 @@
        fx="44.19957"
        fy="246.69078"
        r="5.6200385" />
-    <linearGradient
+    <filter
        inkscape:collect="always"
-       xlink:href="#linearGradient6409"
-       id="linearGradient6411-0-0"
-       x1="334.6485"
-       y1="203.77686"
-       x2="334.6485"
-       y2="130.26489"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(109.35029,450.9259)" />
+       style="color-interpolation-filters:sRGB"
+       id="filter2045"
+       x="-0.011923763"
+       width="1.0238475"
+       y="-0.036704024"
+       height="1.073408">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.4494503"
+         id="feGaussianBlur2047" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2123"
+       x="-0.041335712"
+       width="1.0826714"
+       y="-0.12724062"
+       height="1.2544812">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.4914278"
+         id="feGaussianBlur2125" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -1996,7 +2012,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="baseplate"
-       style="display:inline"
+       style="display:none"
        sodipodi:insensitive="true">
       <rect
          style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
@@ -4294,6 +4310,18 @@
        id="layer6"
        inkscape:label="hires 1"
        style="display:inline">
+      <path
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path2049"
+         d="m 487.11998,175.69676 12.34851,52.64155 -444.939235,4.77521 9.4357,-52.37208 -0.67402,-67.90733 -31.43788,112.73298 c -3.516271,13.12289 4.33836,30.07515 19.42632,30.07515 l 446.380545,-1.11206 c 14.5733,0 23.69145,-10.26567 26.38392,-21.16614 L 522.81641,220.92305 487.14969,95.477766 Z"
+         style="color:#000000;display:inline;overflow:visible;opacity:0.229;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new;filter:url(#filter2123)" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;opacity:0.57700004;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter2045);enable-background:new"
+         d="m 487.11998,175.69676 12.34851,52.64155 -444.939235,4.77521 9.4357,-52.37208 -0.67402,-67.90733 -31.43788,112.73298 c -3.516271,13.12289 4.33836,30.07515 19.42632,30.07515 l 446.380545,-1.11206 c 14.5733,0 23.69145,-10.26567 26.38392,-21.16614 L 522.81641,220.92305 487.14969,95.477766 Z"
+         id="path6268-1-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccc" />
       <g
          style="display:inline;enable-background:new"
          id="g4421"
@@ -6064,12 +6092,6 @@
          height="8.6648865"
          x="62.752228"
          y="244.73352" />
-      <path
-         style="color:#000000;display:inline;overflow:visible;opacity:1;vector-effect:none;fill:url(#linearGradient6411-0-0);fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-         d="m 600.58727,625.13675 12.34851,52.64155 -444.93924,4.77521 9.4357,-52.37208 -0.67402,-67.90732 -31.43788,112.73297 c -3.51627,13.12289 4.33836,30.07515 19.42632,30.07515 l 446.38055,-1.11206 c 14.5733,0 23.69145,-10.26567 26.38392,-21.16614 L 636.2837,670.36304 600.61698,544.91777 Z"
-         id="path6268-1-8"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccc" />
     </g>
     <g
        inkscape:groupmode="layer"
