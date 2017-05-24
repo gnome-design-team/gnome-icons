@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="389.21202"
-     inkscape:cy="266.56054"
+     inkscape:cx="276.99564"
+     inkscape:cy="318.10008"
      inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -2516,10 +2516,19 @@
        y1="24"
        x2="359.84375"
        y2="24" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8836"
+       id="linearGradient8928"
+       gradientUnits="userSpaceOnUse"
+       x1="-1941.0958"
+       y1="301.91858"
+       x2="-1941.0958"
+       y2="598.91339" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient14790"
-       id="radialGradient8828"
+       id="radialGradient8930"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.3099238,0,0,2.3099238,250.43091,-46.437955)"
        cx="-191.14923"
@@ -2527,15 +2536,6 @@
        fx="-191.14923"
        fy="34.299355"
        r="8.6211538" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8836"
-       id="linearGradient8904"
-       gradientUnits="userSpaceOnUse"
-       x1="-1941.0958"
-       y1="301.91858"
-       x2="-1941.0958"
-       y2="598.91339" />
   </defs>
   <metadata
      id="metadata4">
@@ -6699,32 +6699,29 @@
              sodipodi:nodetypes="sssssssss" />
         </g>
       </g>
-      <g
-         id="g5455">
-        <use
-           height="100%"
-           width="100%"
-           transform="translate(566,93)"
-           id="use3400"
-           xlink:href="#g7826"
-           y="0"
-           x="0" />
-        <use
-           height="100%"
-           width="100%"
-           transform="translate(590,133)"
-           id="use3402"
-           xlink:href="#g7774"
-           y="0"
-           x="0" />
-      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g7826"
+         id="use3400"
+         transform="translate(574,89)"
+         width="100%"
+         height="100%" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g7774"
+         id="use3402"
+         transform="translate(602,129)"
+         width="100%"
+         height="100%" />
       <use
          style="display:inline;enable-background:new"
          x="0"
          y="0"
          xlink:href="#g7774"
          id="use3402-2-7"
-         transform="translate(566,189)"
+         transform="translate(574,185)"
          width="100%"
          height="100%" />
       <use
@@ -6733,60 +6730,9 @@
          y="0"
          xlink:href="#g7774"
          id="use3402-2-7-6"
-         transform="translate(620,189)"
+         transform="translate(652.36769,185)"
          width="100%"
          height="100%" />
-      <use
-         style="display:inline;enable-background:new"
-         x="0"
-         y="0"
-         xlink:href="#g7774"
-         id="use3402-2-7-6-0"
-         transform="translate(674,189)"
-         width="100%"
-         height="100%" />
-      <g
-         id="g5459">
-        <use
-           height="100%"
-           width="100%"
-           transform="translate(620,93)"
-           id="use3400-3"
-           xlink:href="#g7826"
-           y="0"
-           x="0"
-           style="display:inline;enable-background:new" />
-        <use
-           height="100%"
-           width="100%"
-           transform="translate(644,133)"
-           id="use3402-6"
-           xlink:href="#g7774"
-           y="0"
-           x="0"
-           style="display:inline;enable-background:new" />
-      </g>
-      <g
-         id="g5463">
-        <use
-           height="100%"
-           width="100%"
-           transform="translate(674,93)"
-           id="use3400-3-2"
-           xlink:href="#g7826"
-           y="0"
-           x="0"
-           style="display:inline;enable-background:new" />
-        <use
-           height="100%"
-           width="100%"
-           transform="translate(698,133)"
-           id="use3402-6-2"
-           xlink:href="#g7774"
-           y="0"
-           x="0"
-           style="display:inline;enable-background:new" />
-      </g>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;line-height:100%;font-family:Cantarell;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d3d7cf;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6806,7 +6752,7 @@
          y="0"
          xlink:href="#g7842"
          id="use4182"
-         transform="translate(590.10565,169)"
+         transform="translate(602.10565,165)"
          width="100%"
          height="100%" />
       <use
@@ -6815,16 +6761,7 @@
          y="0"
          xlink:href="#g7842"
          id="use4182-8"
-         transform="translate(644.10565,169)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline;enable-background:new"
-         x="0"
-         y="0"
-         xlink:href="#g7842"
-         id="use4182-8-7"
-         transform="translate(698.10565,169)"
+         transform="translate(682.47334,165)"
          width="100%"
          height="100%" />
       <use
@@ -6833,7 +6770,7 @@
          y="0"
          xlink:href="#g7774"
          id="use3402-2-3"
-         transform="translate(590,113)"
+         transform="translate(602,109)"
          width="100%"
          height="100%" />
       <use
@@ -6842,7 +6779,7 @@
          y="0"
          xlink:href="#g7774"
          id="use3402-2-7-3"
-         transform="translate(566,113)"
+         transform="translate(574,109)"
          width="100%"
          height="100%" />
       <use
@@ -6851,7 +6788,7 @@
          y="0"
          xlink:href="#g7774"
          id="use3402-2-3-8"
-         transform="translate(644,113)"
+         transform="translate(682.36769,109)"
          width="100%"
          height="100%" />
       <use
@@ -6860,25 +6797,7 @@
          y="0"
          xlink:href="#g7774"
          id="use3402-2-7-3-7"
-         transform="translate(620,113)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline;enable-background:new"
-         x="0"
-         y="0"
-         xlink:href="#g7774"
-         id="use3402-2-3-8-0"
-         transform="translate(698,113)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline;enable-background:new"
-         x="0"
-         y="0"
-         xlink:href="#g7774"
-         id="use3402-2-7-3-7-8"
-         transform="translate(674,113)"
+         transform="translate(652.36769,109)"
          width="100%"
          height="100%" />
       <use
@@ -6886,7 +6805,7 @@
          y="0"
          xlink:href="#g2081"
          id="use4734"
-         transform="translate(576.93364,89.000009)"
+         transform="translate(586.93364,85.000009)"
          width="100%"
          height="100%" />
       <use
@@ -6895,16 +6814,7 @@
          y="0"
          xlink:href="#g2081"
          id="use4734-4"
-         transform="translate(630.93364,89.000007)"
-         width="100%"
-         height="100%" />
-      <use
-         style="display:inline;enable-background:new"
-         x="0"
-         y="0"
-         xlink:href="#g2081"
-         id="use4734-6"
-         transform="translate(684.93364,89.000007)"
+         transform="translate(667.30133,85.000007)"
          width="100%"
          height="100%" />
       <use
@@ -6919,7 +6829,7 @@
       <g
          style="display:inline;enable-background:new"
          id="g7774-7"
-         transform="translate(-15.304162)">
+         transform="translate(-7.304162,6)">
         <g
            id="g3016-2">
           <rect
@@ -6977,7 +6887,7 @@
       <g
          style="display:inline;enable-background:new"
          id="g7790"
-         transform="translate(-15.304162,20)">
+         transform="translate(-7.304162,26)">
         <g
            id="g7784">
           <rect
@@ -7034,7 +6944,7 @@
       </g>
       <g
          style="display:inline;enable-background:new"
-         transform="translate(-15.304162,40)"
+         transform="translate(-7.304162,46)"
          id="g7808">
         <g
            id="g7802">
@@ -7092,7 +7002,7 @@
       </g>
       <g
          style="display:inline;enable-background:new"
-         transform="translate(12.695838,20)"
+         transform="translate(20.695838,26)"
          id="g7826-6">
         <g
            id="g7820-0">
@@ -7151,7 +7061,7 @@
       <g
          style="display:inline;enable-background:new"
          id="g7842-0"
-         transform="translate(12.695838,40)">
+         transform="translate(20.695838,46)">
         <g
            id="g7836-8">
           <rect
@@ -7209,7 +7119,7 @@
       <g
          style="display:inline;enable-background:new"
          id="g14712"
-         transform="translate(28.581517,-61.256765)">
+         transform="translate(24.581517,-55.256765)">
         <g
            transform="translate(622.31921,52.419925)"
            id="g4199"
@@ -7245,7 +7155,7 @@
              style="fill:#eeeeec;stroke-width:26.32089996">
             <path
                inkscape:connector-curvature="0"
-               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient8904);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:52.64179993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+               style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient8928);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:52.64179993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                d="m -1976.9447,-2.3343836 c -29.6643,5.3301676 -58.4537,14.7180606 -85.5578,27.8993666 l 9.5529,72.170728 c -13.1879,7.897499 -25.6504,16.947479 -37.2416,27.043879 l -65.5624,-31.504178 c -20.9789,21.652858 -38.8765,46.091128 -53.1888,72.626368 l 50.08,52.69605 c -6.0042,14.20621 -10.7342,28.91788 -14.1341,43.96141 l -71.4548,13.03066 c -2.2303,15.02884 -3.4151,30.19434 -3.5459,45.38722 0.1239,14.95625 1.2692,29.88657 3.4282,44.68671 l 71.5229,13.20424 c 3.409,14.98871 8.1389,29.64604 14.134,43.80023 l -50.2659,52.66813 c 14.1306,26.62139 31.8582,51.17113 52.6836,72.95806 l 65.7609,-31.4236 c 11.6143,10.09447 24.1008,19.13935 37.3127,27.02838 l -9.6924,72.03125 c 27.1036,13.23239 55.9008,22.6684 85.5796,28.04194 l 34.5944,-63.82355 c 7.774,0.74109 15.5773,1.13205 23.3864,1.17165 7.6128,-0.0612 15.2192,-0.45623 22.7974,-1.18405 l 34.5945,64.1521 c 29.6643,-5.33016 58.4538,-14.71805 85.5579,-27.89936 l -9.553,-72.17072 c 13.1879,-7.8975 25.6505,-16.94748 37.2415,-27.04388 l 65.5625,31.50418 c 20.9789,-21.65286 38.8766,-46.09113 53.1889,-72.62638 l -50.08,-52.69604 c 6.0042,-14.20621 10.7342,-28.91788 14.134,-43.96141 l 71.4548,-13.03066 c 2.2303,-15.02885 3.4152,-30.19434 3.5459,-45.38722 -0.1239,-14.95625 -1.2693,-29.88657 -3.4281,-44.68672 l -71.5229,-13.20423 c -3.4091,-14.98871 -8.1389,-29.64604 -14.1342,-43.80022 l 50.266,-52.66815 c -14.1306,-26.62138 -31.8581,-51.17111 -52.6836,-72.958048 l -65.7609,31.423598 c -11.6143,-10.09447 -24.1008,-19.13934 -37.3127,-27.028377 l 9.6924,-72.031267 c -27.1036,-13.23239 -55.9008,-22.6683911 -85.5796,-28.0419368 l -34.5944,63.8235478 c -7.774,-0.74109 -15.5773,-1.132038 -23.3864,-1.171637 -7.6128,0.06124 -15.2192,0.456229 -22.7974,1.184049 z"
                id="path14532"
                sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc" />
@@ -7376,7 +7286,7 @@
              cy="41.655701"
              cx="-191.34431"
              id="circle14546"
-             style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:url(#radialGradient8828);fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal" />
+             style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:url(#radialGradient8930);fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal" />
           <circle
              style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:#f36464;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"
              id="path14542"
@@ -7391,6 +7301,22 @@
              style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal" />
         </g>
       </g>
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(652,89)"
+         id="use8908"
+         xlink:href="#g7826"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(682,129)"
+         id="use8910"
+         xlink:href="#g7774"
+         y="0"
+         x="0" />
     </g>
     <g
        inkscape:groupmode="layer"
