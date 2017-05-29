@@ -36,8 +36,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="346.52463"
-     inkscape:cy="218.14601"
+     inkscape:cx="442.45124"
+     inkscape:cy="215.46923"
      inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -2579,6 +2579,19 @@
        r="2.0382974"
        gradientTransform="matrix(0.23952176,0.8462019,-0.84243355,0.23845511,310.12688,257.39224)"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5246"
+       x="-0.1616393"
+       width="1.3232786"
+       y="-0.16236233"
+       height="1.3247247">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.7817116"
+         id="feGaussianBlur5248" />
+    </filter>
   </defs>
   <metadata
      id="metadata4">
@@ -7106,30 +7119,60 @@
          transform="translate(574,18.999995)"
          width="100%"
          height="100%" />
-      <ellipse
-         ry="20.559288"
-         rx="20.651253"
-         cy="81.059288"
-         cx="355.97696"
-         id="ellipse4202-1"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#radialGradient5144);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4230-2);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new" />
-      <ellipse
-         ry="15.951686"
-         rx="16.023041"
-         cy="85.059288"
-         cx="355.97696"
-         id="ellipse4202-1-7"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new" />
-      <ellipse
-         ry="2.0292203"
-         rx="2.0382974"
-         cy="354.68622"
-         cx="15.108227"
-         id="ellipse4202-1-7-6"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#radialGradient5173);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new"
-         inkscape:transform-center-y="-2.995903"
-         transform="rotate(-74.195564)"
-         inkscape:transform-center-x="10.584179" />
+      <g
+         id="g5401"
+         transform="translate(0,-2)">
+        <ellipse
+           transform="matrix(0.84748396,0,0,0.84733105,54.292196,14.958243)"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.35700001;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1800698;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;filter:url(#filter5246);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new"
+           id="ellipse4202-1-2"
+           cx="355.97696"
+           cy="84.059288"
+           rx="20.651253"
+           ry="20.559288" />
+        <ellipse
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#radialGradient5144);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4230-2);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new"
+           id="ellipse4202-1"
+           cx="355.97696"
+           cy="81.059288"
+           rx="20.651253"
+           ry="20.559288" />
+        <ellipse
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new"
+           id="ellipse4202-1-7"
+           cx="355.97696"
+           cy="85.059288"
+           rx="16.023041"
+           ry="15.951686" />
+        <ellipse
+           inkscape:transform-center-x="10.584179"
+           transform="rotate(-74.195564)"
+           inkscape:transform-center-y="-2.995903"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#radialGradient5173);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new"
+           id="ellipse4202-1-7-6"
+           cx="15.108227"
+           cy="354.68622"
+           rx="2.0382974"
+           ry="2.0292203" />
+      </g>
+      <use
+         style="display:inline;enable-background:new"
+         x="0"
+         y="0"
+         xlink:href="#g7774"
+         id="use3402-2-3-4"
+         transform="translate(602,88.999995)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline;enable-background:new"
+         x="0"
+         y="0"
+         xlink:href="#g7774"
+         id="use3402-2-7-3-3"
+         transform="translate(574,88.999995)"
+         width="100%"
+         height="100%" />
     </g>
     <g
        inkscape:groupmode="layer"
