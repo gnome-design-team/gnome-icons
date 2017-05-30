@@ -35,9 +35,9 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="383.75424"
-     inkscape:cy="181.35339"
+     inkscape:zoom="1"
+     inkscape:cx="382.31931"
+     inkscape:cy="209.99449"
      inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -109,6 +109,18 @@
   </sodipodi:namedview>
   <defs
      id="defs3">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7098">
+      <stop
+         style="stop-color:#d2d6ce;stop-opacity:1;"
+         offset="0"
+         id="stop7094" />
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="1"
+         id="stop7096" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient5171">
@@ -2555,8 +2567,8 @@
        gradientUnits="userSpaceOnUse"
        x1="467.99997"
        y1="204.95148"
-       x2="475.26025"
-       y2="233.67825" />
+       x2="479.65408"
+       y2="248.44202" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5142"
@@ -2601,6 +2613,15 @@
        y1="24"
        x2="359.84375"
        y2="24" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7098"
+       id="linearGradient7100"
+       x1="370.12955"
+       y1="128.16251"
+       x2="370.12952"
+       y2="125.16256"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4">
@@ -7207,7 +7228,7 @@
          inkscape:connector-curvature="0"
          id="path5720"
          d="m 362.63404,140.83852 h 14.99099 c 1.37108,0 2.47488,-1.10379 2.47488,-2.47487 v -23.40232 c 0,-1.37108 -1.1038,-2.47487 -2.47488,-2.47487 h -14.99099 c -1.37108,0 -2.47488,1.10379 -2.47488,2.47487 v 23.40232 c 0,1.37108 1.1038,2.47487 2.47488,2.47487 z"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#d2d6ce;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new" />
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:url(#linearGradient7100);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:new" />
     </g>
     <g
        inkscape:groupmode="layer"
