@@ -3,7 +3,7 @@
 require "rexml/document"
 require "fileutils"
 include REXML
-INKSCAPE = '/usr/bin/inkscape'
+INKSCAPE = 'flatpak run org.inkscape.Inkscape'
 SRC = "./src"
 
 def renderit(file,explicit)
